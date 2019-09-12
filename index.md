@@ -86,7 +86,7 @@ Evaluated Customer Relationship Management processes adherence in SAP Utilities 
 [comment]: # (This task involved a lot of experience exchange with SAP Germany and Latin America employees, alongside defining the best implementation techniques that would comply with the process required by the customer.s I had the opportunity to define the data communication strategy from the CRM module to the central SAP module, regarding utilities customer databases.)
 [comment]: # (Supported commercial teams for consumer products and beverages industries, such as Coca-Cola, Schincariol, Johnson & Johnson and Fast Shop.)
 
-## Academic Background
+## [Academic Background](https://www.linkedin.com/in/efs-alvarenga/)
 __Doctor of Philosophy (PhD) Management Science__ (Incomplete)  
 _University of Bath, UK (2016 - 2017)_  
 Research areas: Evolutionary optimisation, time-series forecast, portfolio optimisation, energy aggregation
