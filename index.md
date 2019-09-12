@@ -1,7 +1,4 @@
----
-layout: cv
-title: Estevao Alvarenga's CV
----
+
 # Estevao Alvarenga
 Operational Research Petroleum Engineer (CEng)
 
