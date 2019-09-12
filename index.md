@@ -1,3 +1,7 @@
+---
+title: Estevao Alvarenga
+description: Operational Research Petroleum Engineer (CEng)
+---
 
 [estevao.alvarenga@shell.com](estevao.alvarenga@shell.com)
 [linkedin.com/in/efs-alvarenga](estevao.alvarenga@shell.com)
@@ -10,8 +14,7 @@ My professional engineering background is supported by further academic educatio
 Out of the office I enjoy spending time with my family, powerlifting, trekking and cycling throughout Den Haag.
 
 ## Professional Experience
-__Upstream Data Scientist__ (Sep 2018 - now)\
-Shell Upstream IDA, The Hague - NL
+__Upstream Data Scientist__ (Sep 2018 - now)  Shell Upstream IDA, The Hague - NL
 
 I am the team focal point for wells, reservoir and facilities management, delivering data science and operational research projects for deep water and unconventional oil fields.
 - Delivered productivity index forecast tool based on superposition time method for unconventionals wells
