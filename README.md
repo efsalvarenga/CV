@@ -35,3 +35,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### CV basics
+
+Use pandoc & latex combined to print the .md file to .pdf
+
+Add back title before printing, from the `_config.yml` file.
+
+Use `pandoc index.md --latex-engine=xelatex -o cv.pdf -V geometry:margin=1in`
