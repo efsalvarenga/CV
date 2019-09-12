@@ -15,6 +15,7 @@ I am the team focal point for wells, reservoir and facilities management, delive
 - Conceived and currently delivering the BRADA (Brazilian Advanced Data Analytics) program in areas such as reservoir engineering, production allocation and wells integrity surveillance
 - Support team development through on-the-job technical and business coaching
 - Up to date with current petroleum analytics tools, through SPE, academic and industry papers and self-development
+- Leading the delivery of work packages across the team and with natural teams
 
 __Senior Data Scientist__ | WRc plc  
 _Swindon - UK  (Jul 2017 - Jun 2018)_
