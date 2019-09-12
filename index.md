@@ -1,12 +1,9 @@
 
-[estevao.alvarenga@shell.com](estevao.alvarenga@shell.com)  
-[linkedin.com/in/efs-alvarenga](estevao.alvarenga@shell.com)
-
 I am the Upstream IDA’s focal point for wells & reservoir projects, developing data science projects, and supporting colleagues translate analytics into engineering and management language.
 My professional engineering background is supported by further academic education in operational research and management sciences.
 Out of the office I enjoy spending time with my family, powerlifting, trekking and cycling throughout Den Haag.
 
-## Professional Experience
+## [Professional Experience](https://www.linkedin.com/in/efs-alvarenga/)
 __Upstream Data Scientist__ | Shell Upstream IDA  
  _The Hague - NL (Sep 2018 - Present)_
 
@@ -90,28 +87,39 @@ Evaluated Customer Relationship Management processes adherence in SAP Utilities 
 [comment]: # (Supported commercial teams for consumer products and beverages industries, such as Coca-Cola, Schincariol, Johnson & Johnson and Fast Shop.)
 
 ## Academic Background
-__Doctor of Philosophy (PhD) Management Science__ (Incomplete) | University of Bath, UK (2016 - 2017)  
+__Doctor of Philosophy (PhD) Management Science__ (Incomplete)  
+_University of Bath, UK (2016 - 2017)_  
 Research areas: Evolutionary optimisation, time-series forecast, portfolio optimisation, energy aggregation
 
-__PG Diploma Petroleum Engineering__ | Catholic University Rio de Janeiro, Brazil (2014 - 2015)  
+__PG Diploma Petroleum Engineering__  
+_Catholic University Rio de Janeiro, Brazil (2014 - 2015)_  
 400-hour postgraduate course comprising reservoir, drilling, production engineering and economic analysis
 
-__Master of Science (MSc) Operational Research__ | Federal University Rio de Janeiro, Brazil (2011 - 2014)  
+__Master of Science (MSc) Operational Research__  
+_Federal University Rio de Janeiro, Brazil (2011 - 2014)_  
 Modules: Statistics, linear programming, graph theory, simulation and soft systems methodology  
 Research areas: Systems modelling, data envelopment analysis and calculus of variations
 
-
-__PG Diploma Production Engineering for the Oil & Gas Industry__ | Petrobras University, Brazil (2008 - 2009)  
+__PG Diploma Production Engineering for the Oil & Gas Industry__  
+_Petrobras University, Brazil (2008 - 2009)_  
 600-hour corporate training program, developing required technical and organisational skills for the industry
 
-__Industrial Engineering (BSc)__ | Federal University Sao Carlos, Brazil (2003 - 2007)  
+__Industrial Engineering (BSc)__  
+_Federal University Sao Carlos, Brazil (2003 - 2007)_  
 Basic engineering, business analysis, production methods, operational research and agricultural processes
 
 ### Organisations
-**The IET Institution of Engineering and Technology** CEng MIET, former social media coordinator for IET Bristol  
-**ORS Operational Research Society** CandORS, oil & energy peer reviewer for the society journal (JORS)  
-**European Journal of Operational Research** Data envelopment analysis (DEA) peer reviewer  
-**SPE Society of Petroleum Engineers** Volunteer translator and career pathways advisor
+**The IET Institution of Engineering and Technology**  
+CEng MIET, former social media coordinator for IET Bristol  
+
+**ORS Operational Research Society**  
+CandORS, oil & energy peer reviewer for the society journal (JORS)  
+
+**European Journal of Operational Research**  
+Data envelopment analysis (DEA) peer reviewer  
+
+**SPE Society of Petroleum Engineers**  
+Volunteer translator and career pathways advisor
 
 ### Languages
 **English** Fluent (IELTS Academic Test score: 8/9)  
