@@ -5,10 +5,7 @@ title: Estevao Alvarenga's CV
 # Estevao Alvarenga
 Operational Research Petroleum Engineer (CEng)
 
-<div id="webaddress">
-<a href="estevao.alvarenga@shell.com">estevao.alvarenga@shell.com</a>
-| <a href="https://www.linkedin.com/in/efs-alvarenga/">linkedin.com/in/efs-alvarenga</a>
-</div>
+[estevao.alvarenga@shell.com](estevao.alvarenga@shell.com) | [linkedin.com/in/efs-alvarenga](estevao.alvarenga@shell.com)
 
 
 ## Summary
