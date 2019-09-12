@@ -1,6 +1,6 @@
 Shell Upstream IDA's focal point for wells & reservoir projects, developing data science solutions, and supporting colleagues translate analytics into engineering and management language.
 I am skillful in slicing complex problems into modularised components that can be mathematically represented and solved with fit for purpose models.
-I have a professional engineering background, supported by further academic education in operational research and management sciences.
+My professional engineering background is supported by further academic education in operational research and management sciences.
 Out of the office I enjoy spending time with my family, powerlifting, trekking and cycling throughout Den Haag.
 
 [comment]: # (When I move to a lead role add the following: 13+ years' experience in Oil & Energy, capturing in-depth commercial awareness across the industry. This spans E&P, refining, utilities and new energy)
