@@ -1,8 +1,6 @@
 
-# Estevao Alvarenga
-Operational Research Petroleum Engineer (CEng)
-
-[estevao.alvarenga@shell.com](estevao.alvarenga@shell.com) | [linkedin.com/in/efs-alvarenga](estevao.alvarenga@shell.com)
+[estevao.alvarenga@shell.com](estevao.alvarenga@shell.com)
+[linkedin.com/in/efs-alvarenga](estevao.alvarenga@shell.com)
 
 
 ## Summary
@@ -12,9 +10,8 @@ My professional engineering background is supported by further academic educatio
 Out of the office I enjoy spending time with my family, powerlifting, trekking and cycling throughout Den Haag.
 
 ## Professional Experience
-`Sep 2018 - now`
-__Upstream Data Scientist__
-| Shell Upstream IDA, _The Hague - NL_
+__Upstream Data Scientist__ (Sep 2018 - now)\
+Shell Upstream IDA, The Hague - NL
 
 I am the team focal point for wells, reservoir and facilities management, delivering data science and operational research projects for deep water and unconventional oil fields.
 - Delivered productivity index forecast tool based on superposition time method for unconventionals wells
@@ -22,9 +19,8 @@ I am the team focal point for wells, reservoir and facilities management, delive
 - Support team development through on-the-job technical and business coaching
 - Up to date with current petroleum analytics tools, through SPE, academic and industry papers and self-development
 
-`Jul 2017 - Jun 2018`
-__Senior Data Scientist__
-| WRc plc, _Swindon - UK_
+__Senior Data Scientist__ (Jul 2017 - Jun 2018)\
+WRc plc, Swindon - UK
 
 Driving asset efficiency for the utilities industry through data science projects, turning raw data into actionable business intelligence while actively developing junior scientists and engineers.
 - Delivered machine learning predictive models for 5 different industry projects through R and H2O.ai
