@@ -1,18 +1,21 @@
-
-I am the Upstream IDA’s focal point for wells & reservoir projects, developing data science projects, and supporting colleagues translate analytics into engineering and management language.
-My professional engineering background is supported by further academic education in operational research and management sciences.
+I am the Shell Upstream IDA's focal point for wells & reservoir projects, developing data science solutions, and supporting colleagues translate analytics into engineering and management language.
+My best technical skill is the ability to slice complex problems into modularised components that can be mathematically represented and solved with fit for purpose models.
+I have a professional engineering background, supported by further academic education in operational research and management sciences.
 Out of the office I enjoy spending time with my family, powerlifting, trekking and cycling throughout Den Haag.
+
+[comment]: # (When I move to a lead role add the following: 13+ years' experience in Oil & Energy, capturing in-depth commercial awareness across the industry. This spans E&P, refining, utilities and new energy)
+[comment]: # (decision scientist)
 
 ## [Professional Experience](https://www.linkedin.com/in/efs-alvarenga/)
 __Upstream Data Scientist__ | Shell Upstream IDA  
  _The Hague - NL (Sep 2018 - Present)_
 
 I am the team focal point for wells, reservoir and facilities management, delivering data science and operational research projects for deep water and unconventional oil fields.
-- Delivered productivity index forecast tool based on superposition time method for unconventionals wells
-- Conceived and currently delivering the BRADA (Brazilian Advanced Data Analytics) program in areas such as reservoir engineering, production allocation and wells integrity surveillance
-- Support team development through on-the-job technical and business coaching
+- Delivered 2019's #1 project for unconventionals technology - the Early Productivity Index Calculator (EPIC) - which allows early assessment of wells' productivity index, with estimated NPV of US$ 3+ million
+- Conceived and currently delivering Brazilian Advanced Data Analytics (BRADA) program in areas such as reservoir engineering, production allocation and wells integrity surveillance, with an estimated NPV of US$ 4+ million
+- Support internal & external team development through on-the-job technical and business coaching
+- Leading three junior analysts and empowering them to delivery work packages that incrementallly build up complex analytics solutions, in a agile fashion
 - Up to date with current petroleum analytics tools, through SPE, academic and industry papers and self-development
-- Leading the delivery of work packages across the team and with natural teams
 
 __Senior Data Scientist__ | WRc plc  
 _Swindon - UK  (Jul 2017 - Jun 2018)_
