@@ -121,8 +121,10 @@ CandORS, oil & energy peer reviewer for the society journal (JORS)
 **European Journal of Operational Research**  
 Data envelopment analysis (DEA) peer reviewer  
 
-**SPE Society of Petroleum Engineers**  
-Volunteer translator and career pathways advisor
+**Kumon Uberaba**  
+Advise and support young children learning advanced mathematics
+
+[COMMENT]: # (**SPE Society of Petroleum Engineers**   Volunteer translator and career pathways advisor)
 
 ### Languages
 **English** Fluent (IELTS Academic Test score: 8/9)  
