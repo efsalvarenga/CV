@@ -14,7 +14,6 @@ I am the team focal point for wells, reservoir and facilities management, delive
 - Coordinated 2019's #1 & #2 projects for unconventionals technology - the Early Productivity Index Calculator (EPIC) and Production Optimisation & Surveillance Tool (POST)- with combined estimated NPV of $10m
 - Conceived and currently delivering Brazil Advanced Data Analytics (BRADA) program in areas such as reservoir engineering, production allocation and wells integrity surveillance, with an estimated NPV of $20m
 - Support internal & external team development through on-the-job technical and business coaching
-- Leading three junior analysts and empowering them to delivery work packages that incrementallly build up complex analytics solutions, in a agile fashion
 - Lead five junior analysts, empowering them to delivery work packages that incrementally build up complex analytics solutions, in an agile fashion
 - Up to date with current petroleum data science tools, through SPE, academic and industry papers and self-development
 
