@@ -11,11 +11,15 @@ __Upstream Data Scientist__ | Shell Upstream IDA
  _The Hague - NL (Sep 2018 - Present)_
 
 I am the team focal point for wells, reservoir and facilities management, delivering data science and operational research projects for deep water and unconventional oil fields.
-- Delivered 2019's #1 project for unconventionals technology - the Early Productivity Index Calculator (EPIC) - which allows early assessment of wells' productivity index, with estimated NPV of US$ 3+ million
-- Conceived and currently delivering Brazil Advanced Data Analytics (BRADA) program in areas such as reservoir engineering, production allocation and wells integrity surveillance, with an estimated NPV of US$ 4+ million
+- Coordinated 2019's #1 & #2 projects for unconventionals technology - the Early Productivity Index Calculator (EPIC) and Production Optimisation & Surveillance Tool (POST)- with combined estimated NPV of $10m
+- Conceived and currently delivering Brazil Advanced Data Analytics (BRADA) program in areas such as reservoir engineering, production allocation and wells integrity surveillance, with an estimated NPV of $20m
 - Support internal & external team development through on-the-job technical and business coaching
 - Leading three junior analysts and empowering them to delivery work packages that incrementallly build up complex analytics solutions, in a agile fashion
-- Up to date with current petroleum analytics tools, through SPE, academic and industry papers and self-development
+- Lead five junior analysts, empowering them to delivery work packages that incrementally build up complex analytics solutions, in an agile fashion
+- Up to date with current petroleum data science tools, through SPE, academic and industry papers and self-development
+
+[comment]: # (Elf)
+[comment]: # (Collaboration with R&D)
 
 __Senior Data Scientist__ | WRc plc  
 _Swindon - UK  (Jul 2017 - Jun 2018)_
