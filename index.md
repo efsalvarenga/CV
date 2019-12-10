@@ -1,5 +1,5 @@
 Shell Upstream IDA's focal point for wells & reservoir projects, developing data science solutions, and supporting colleagues translate analytics into engineering and management language.
-I am skillful in slicing complex problems into modularised components that can be mathematically represented and solved with fit for purpose models.
+I am skillful in slicing and communicating complex problems into modularised components that can be mathematically represented and solved with fit for purpose models.
 My professional engineering background is supported by further academic education in operational research and management sciences.
 Out of the office I enjoy spending time with my family, powerlifting, trekking and cycling throughout Den Haag.
 
@@ -25,7 +25,7 @@ __Senior Data Scientist__ | WRc plc
 _Swindon - UK  (Jul 2017 - Jun 2018)_
 
 Driving asset efficiency for the utilities industry through data science projects, turning raw data into actionable business intelligence while actively developing junior scientists and engineers.
-- Delivered machine learning predictive models for 5 different industry projects through R and H2O.ai
+- Delivered machine learning predictive models for 5 industry projects through R and H2O.ai
 - Co-developed a bespoke statistics platform to be commercialised as a service using Shiny
 - Played active commercial role in pre-sales engagement processes and proposal writing
 
@@ -42,7 +42,7 @@ _Bath - UK (Feb 2017 - Aug 2018)_
 
 My research extends the risk-return relationship, from the portfolio optimisation theory, for energy demand aggregation based on time-series forecasting.
 I hypothesise that a portfolio of customers, chosen through maximising the forecast accuracy, would be an ideal trading object within a peer-to-peer energy marketplace.
-- Responsible for designing an evolutionary optimisation model for time-series applications, using R
+- Responsible for designing an evolutionary optimisation model for time-series applications
 - Collaborated with the Department of Electronic and Electrical Engineering to develop a smart-grid energy model for the UK and Korea peer-to-peer energy trading project
 - Presenting and participating in several forecasting forums and UK power industry conferences.
 
@@ -54,9 +54,9 @@ _Rio de Janeiro - Brazil (Apr 2014 - Dec 2016)_
     - Delivered the 2016 oil reserves estimation (2.3b bbl) to U.S. Securities and Exchange Commission and Brazilian regulatory agency, using CMG GEM, Excel and VBA
 - **Production forecast:** Responsible for the oil production estimation of seven multi-billion projects.
     - Collaborated with stakeholders such as project managers, executive board and the regulatory agency
-    - Developed and maintained a sixteen-month ahead forecasting model on Excel, comprising seven offshore platforms and over 30 wells connected to the same gas pipeline infrastructure, with more than 95\% accuracy
+    - Developed and maintained a sixteen-month ahead forecasting model, comprising seven offshore platforms and over 30 wells connected to the same gas pipeline infrastructure, with more than 95% accuracy
     - Created a framework for data pre-processing, integration and communication of project premises such as operational schedule of wells, maintenance program and asset availability
-- **Resource management:** Coordinated a team of three engineers responsible for the resource allocation of submarine equipment and vessels for 15 projects (10\% of total capital cost).
+- **Resource management:** Coordinated a team of three engineers responsible for the resource allocation of submarine equipment and vessels for 15 projects (10% of total capital cost).
     - Presented the monthly resource optimisation strategy to head management for appraisal, before submission to procurement
     - Created a decision support model for evaluating impact of resource allocation changes, and liaised with project managers to deliver the optimal production output for the portfolio
 
