@@ -15,8 +15,7 @@ I am the team focal point for wells, reservoir and facilities management, delive
 - Conceived and currently delivering Brazil Advanced Data Analytics (BRADA) program in areas such as reservoir engineering, production allocation and wells integrity surveillance, with an estimated NPV of $20m
 - Brought $56m worth of new projects to be delivered by the team, coordinating and coaching internal and external analytics and research resources
 - Support internal & external team development through on-the-job technical and business coaching
-- Lead five junior analysts, empowering them to delivery work packages that incrementally build up complex analytics solutions, in an agile fashion
-- Unofficially supported the team leadership, in areas such as technical and career coaching, reaching a SPS score of **???**
+- Technical leader in the team, coaching six junior analysts and empowering them to delivery work packages that incrementally build up complex analytics solutions, in an agile fashion
 - Up to date with current petroleum data science tools, through SPE, academic and industry papers and self-development
 
 [comment]: # (Elf)
@@ -29,10 +28,10 @@ Driving asset efficiency for the utilities industry through data science project
 - Delivered machine learning predictive models for 5 different industry projects through R and H2O.ai
 - Co-developed a bespoke statistics platform to be commercialised as a service using Shiny
 - Played active commercial role in pre-sales engagement processes and proposal writing
-- Leaded data analytics training cohorts for the Environment Agency, Southern Water and DNV GL
-- Supported analysts' development through on-the-job technical coaching
-- Standardised data visualisations by developing an internal R package for graphics
-- Provided guidance on academic publishing of innovative data science models applied to utilities
+[comment]: # (Leaded data analytics training cohorts for the Environment Agency, Southern Water and DNV GL)
+[comment]: # (Supported analysts' development through on-the-job technical coaching)
+[comment]: # (Standardised data visualisations by developing an internal R package for graphics)
+[comment]: # (Provided guidance on academic publishing of innovative data science models applied to utilities)
 
 [comment]: # (responsible for project scoping)
 [comment]: # (leakage, water quality asset resilience, investment optimisation)
@@ -57,7 +56,7 @@ _Rio de Janeiro - Brazil (Apr 2014 - Dec 2016)_
     - Collaborated with stakeholders such as project managers, executive board and the regulatory agency
     - Developed and maintained a sixteen-month ahead forecasting model on Excel, comprising seven offshore platforms and over 30 wells connected to the same gas pipeline infrastructure, with more than 95\% accuracy
     - Created a framework for data pre-processing, integration and communication of project premises such as operational schedule of wells, maintenance program and asset availability
-    - Assessed the risk of different production estimations for the decision-making process using Excel @Risk.
+[comment]: # (Assessed the risk of different production estimations for the decision-making process using Excel @Risk)
 - **Resource management:** Coordinated a team of three engineers responsible for the resource allocation of submarine equipment and vessels for 15 projects (10\% of total capital cost).
     - Presented the monthly resource optimisation strategy to head management for appraisal, before submission to procurement
     - Created a decision support model for evaluating impact of resource allocation changes, and liaised with project managers to deliver the optimal production output for the portfolio
@@ -71,8 +70,8 @@ Responsible for the corporate supply chain management governance of 12 units thr
 - Optimised spare parts' inventory, looking at the failure history of assets, production security, material costs and logistics, through survival analysis modelling and Monte Carlo simulation
 - Developed and implemented a shared inventory model for high-cost, low-demand spare-parts, through soft systems methodology (SSM) and data envelopment analysis (DEA) - published on the Journal of the Operational Research Society (UK). This initiative, associated with inventory optimisation, allowed the reduction of inventory value from $5.7m to $4.2m
 - Built a model to assess the gasoline distribution costs between refineries, terminals and Brazilian regions, considering ships, trucks and pipelines - published in Brazilian Symposium of Operational Research
-- Liaised with maintenance, reliability and engineering teams to develop the first version of the Predictive Maintenance Supply Planning Standard for Petrobras Refining Division, supporting 12 refineries
-- Responsible for the supply chain dashboard for the refinery system, using SAP ERP and BI data
+[comment]: # (Liaised with maintenance, reliability and engineering teams to develop the first version of the Predictive Maintenance Supply Planning Standard for Petrobras Refining Division, supporting 12 refineries)
+[comment]: # (Responsible for the supply chain dashboard for the refinery system, using SAP ERP and BI data)
 
 [comment]: # (Designed inventory outsourcing contracts for 6 refineries)
 [comment]: # (Member of the refining inventory demobilisation team, negotiating the return of USD 16 million in stock value of unused spare-parts to suppliers)
