@@ -1,4 +1,4 @@
-Shell Upstream IDA's focal point for wells & reservoir projects, developing data science solutions, and supporting colleagues translate analytics into engineering and management language.
+Shell Upstream IDA's focal point for technical petroleum engineering projects, designing data science solutions, and supporting colleagues translate analytics into engineering and management language.
 I am skillful in slicing and communicating complex problems into modularised components that can be mathematically represented and solved with fit for purpose models.
 My professional engineering background is supported by further academic education in operational research and management sciences.
 Out of the office I enjoy spending time with my family, powerlifting, trekking and cycling throughout Den Haag.
@@ -10,7 +10,7 @@ Out of the office I enjoy spending time with my family, powerlifting, trekking a
 __Upstream Data Scientist__ | Shell Upstream IDA  
  _The Hague - NL (Sep 2018 - Present)_
 
-I am the team focal point for wells, reservoir and facilities management, delivering data science and operational research projects for deep water and unconventional oil fields.
+I am the team focal point for new business development, subsurface and wells - delivering data science and operational research projects for deep water and unconventional oil fields.
 - Designined IG & IDA's residency programme for Petroleum Engineers to upskill their digital capabilities through the delivery of analytics projects within the IDA team
 - Delivering 2019's #1 & #2 projects for unconventionals technology - the Early Productivity Index Calculator (EPIC) and Production Optimisation & Surveillance Tool (POST)- with combined estimated NPV of $24m
 - Conceived and currently delivering Brazil Advanced Data Analytics (BRADA) program in areas such as reservoir engineering, production allocation and wells integrity surveillance, with an estimated NPV of $20m
