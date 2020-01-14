@@ -15,8 +15,8 @@ Currently coordinating a team of 7 analysts and data scientists, delivering proj
 - Delivering 2019's #1 & #2 projects for unconventionals technology - the Early Productivity Index Calculator (EPIC) and Production Optimisation & Surveillance Tool (POST)- with combined estimated NPV of $24m
 - Conceived and currently delivering Brazil Advanced Data Analytics (BRADA) program in areas such as reservoir engineering, production allocation and wells integrity surveillance, with an estimated NPV of $20m
 - Brought $56m worth of new projects to be delivered by the team, coordinating and coaching internal and external analytics and research resources
-- Support internal & external team development through on-the-job technical and business coaching
-- Technical leader in the team, coaching six junior analysts and empowering them to delivery work packages that incrementally build up complex analytics solutions, in an agile fashion
+- Leverage the [collaboration between different teams](https://headlinesuk.foleon.com/shell-ai/shellai2019report/upstream-analytics/) within Shell, such as asset teams, PTX, PTD, PTW and central IT.
+- Technical leader, empowering the team to delivery work packages that incrementally build up complex analytics solutions, in an agile fashion
 - Up to date with current petroleum data science tools, through SPE, academic and industry papers and self-development
 
 [comment]: # (Elf)
