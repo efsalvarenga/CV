@@ -54,14 +54,12 @@ My research extends the risk-return relationship, from the portfolio optimisatio
 __Production & Reservoir Engineer__ | Petrobras Ultra-Deep Waters
 _Rio de Janeiro - Brazil (Apr 2014 - Dec 2016)_
 
-- **Reservoir modelling:** Within a team of engineers and geologists, developed and maintained the reservoir model for the supergiant Lula oilfield (340,000 bpd in 2016).
-    - Delivered the 2016 oil reserves estimation to U.S. Securities and Exchange Commission and Brazilian regulatory agency.
-- **Production forecast:** Responsible for the latest estimate process for the entire pre-salt play, comprising of seven FPSOs and over 30 wells connected to the same gas pipeline infrastructure.
-    - Collaborated with stakeholders such as project managers, executives and the regulatory agency.
-    - Created a framework for data pre-processing, integration and communication of project premises such as operational schedule of wells, maintenance program and asset availability
-- **Resource management:** Coordinated a team of three engineers responsible for the resource allocation of submarine equipment and vessels for 15 projects (10% of total capital cost).
-    - Presented the monthly resource optimisation strategy for the executive decision board, before submission to procurement
-    - Created a decision support model for evaluating impact of resource allocation changes, and liaised with project managers to deliver the optimal production output for the portfolio
+Performed reservoir engineering, production forecast and optimisation roles for Petrobras' pre-salt portfolio, collaborating with stakeholders such as project managers, executives and the regulatory agency.
+- Delivered Lula's 2016 oil reserves estimation to U.S. Securities and Exchange Commission and Brazilian regulatory agency.
+- Maintained the latest estimate process for seven FPSOs, and over 30 wells, interconnected through the gas pipeline network
+- Created a framework for data pre-processing, integration and communication of project premises such as operational schedule of wells, maintenance program and asset availability
+- Coordinated a team of three engineers responsible for the resource optimisation of submarine equipment and vessels for 15 FPSOs, presenting the allocation proposal to the executive decision board
+- Created a decision support model for evaluating impact of resource allocation changes, and liaised with project managers to deliver the optimal production output for the portfolio
 
 [comment]: # (Programmed the activity of eight vessels in an in-house scheduling platform, connecting 25 ultra-deep wells in 2015, and reducing the average idle time in 5%.)
 [comment]: # (Assessed the risk of different production estimations for the decision-making process using Excel @Risk)
