@@ -1,32 +1,34 @@
-Shell Upstream IDA's team coordinator for technical petroleum analytics projects, designing data science solutions and supporting colleagues translate analytics into engineering and management language.
-I am skillful in slicing and communicating complex problems into modularised components that can be mathematically represented and solved with fit for purpose models.
+12 years' experience in Oil & Energy, capturing in-depth commercial awareness across E&P, refining, utilities and new energies.
+Currently Shell IT IDA's team coordinator (as of Jan/2020) for technical petroleum analytics projects, designing analytics solutions and supporting colleagues translate mathematics into engineering and management language.
 My professional engineering background is supported by further academic education in operational research and management sciences.
 Out of the office I enjoy spending time with my family, powerlifting, trekking and cycling throughout Den Haag.
 
-[comment]: # (When I move to a lead role add the following: 13+ years' experience in Oil & Energy, capturing in-depth commercial awareness across the industry. This spans E&P, refining, utilities and new energy)
+[comment]: # (I am skillful in slicing and communicating complex problems into modularised sub-components)
 [comment]: # (decision scientist)
 
 ## [Professional Experience](https://www.linkedin.com/in/efs-alvarenga/)
 __Upstream Data Scientist__ | Shell Upstream IDA  
  _The Hague - NL (Sep 2018 - Present)_
 
-Currently coordinating a team of 7 analysts and data scientists, delivering projects for exploration, new business development, subsurface and wells.
-- Designined IG & IDA's residency programme for Petroleum Engineers to upskill their digital capabilities through the delivery of analytics projects within the IDA team (to be launched)
-- Delivering 2019's #1 & #2 projects for unconventionals technology - the Early Productivity Index Calculator (EPIC) and Production Optimisation & Surveillance Tool (POST)- with combined estimated NPV of $24m
-- Conceived and currently delivering Brazil Advanced Data Analytics (BRADA) program in areas such as reservoir engineering, production allocation and wells integrity surveillance, with an estimated NPV of $20m
+Coordinating a team of 7 analysts and data scientists, delivering projects for exploration, new business development, subsurface and wells.
+- Delivered 2019's #1 & #2 projects for Unconventionals Technology - the Early Productivity Index Calculator (EPIC) and Production Optimisation & Surveillance Tool (POST)- with combined estimated NPV of $24m: these were nominated for 5 awards (EPIC was shortlisted for the Global Development Awards and won the PTX/E VP award in the second half of 2019)
+- Conceived and currently delivering Brazil Advanced Data Analytics (BRADA) programme in areas such as reservoir engineering, production allocation and wells integrity surveillance, with an estimated NPV of $20m
 - Brought $56m worth of new projects to be delivered by the team, coordinating and coaching internal and external analytics and research resources
 - Leverage the [collaboration between different teams](https://headlinesuk.foleon.com/shell-ai/shellai2019report/upstream-analytics/) within Shell, such as asset teams, PTX, PTD, PTW and central IT.
+- Currently collaborating with PTW for detailing the scope for the Rig Sequencing Transparency project, to be delivered in 2020
 - Technical leader, empowering the team to delivery work packages that incrementally build up complex analytics solutions, in an agile fashion
 - Up to date with current petroleum data science tools, through SPE, academic and industry papers and self-development
 
 [comment]: # (Elf)
 [comment]: # (Collaboration with R&D)
+[comment]: # (Designed IG & IDA's residency programme for Petroleum Engineers to upskill their digital capabilities through the delivery of analytics projects within the IDA team (to be launched))
+
 
 __Senior Data Scientist__ | WRc plc  
 _Swindon - UK  (Jul 2017 - Jun 2018)_
 
 Driving asset efficiency for the utilities industry through data science projects, turning raw data into actionable business intelligence while actively developing junior scientists and engineers.
-- Delivered machine learning predictive models for 5 industry projects through R and H2O.ai
+- Delivered predictive models (using machine learning) for 5 industry projects through R and H2O.ai
 - Co-developed a bespoke statistics platform to be commercialised as a service using Shiny
 - Played active commercial role in pre-sales engagement processes and proposal writing
 
@@ -50,15 +52,15 @@ I hypothesise that a portfolio of customers, chosen through maximising the forec
 __Production & Reservoir Engineer__ | Petrobras Ultra-Deep Waters  
 _Rio de Janeiro - Brazil (Apr 2014 - Dec 2016)_
 
-- **Reservoir simulation:** Within a team of engineers and geologists, developed and maintained a reservoir simulation process for the supergiant Lula oilfield (340,000 bpd). This model supported strategic decision making, production forecasting and investment optimisation.
+- **Reservoir simulation:** Within a team of engineers and geologists, developed and maintained the reservoir modelling process for the supergiant Lula oilfield (340,000 bpd). This model supported strategic decision making, production forecasting and investment optimisation.
     - Designed a machine learning oil/water permeability model for the oilfield implementing clustering and classification algorithms on Weka
-    - Delivered the 2016 oil reserves estimation (2.3b bbl) to U.S. Securities and Exchange Commission and Brazilian regulatory agency, using CMG GEM, Excel and VBA
+    - Delivered the 2016 oil reserves estimation (2.3b bbl) to U.S. Securities and Exchange Commission and Brazilian regulatory agency
 - **Production forecast:** Responsible for the oil production estimation of seven multi-billion projects.
-    - Collaborated with stakeholders such as project managers, executive board and the regulatory agency
+    - Collaborated with stakeholders such as project managers, executives and the regulatory agency
     - Developed and maintained a sixteen-month ahead forecasting model, comprising seven offshore platforms and over 30 wells connected to the same gas pipeline infrastructure, with more than 95% accuracy
     - Created a framework for data pre-processing, integration and communication of project premises such as operational schedule of wells, maintenance program and asset availability
 - **Resource management:** Coordinated a team of three engineers responsible for the resource allocation of submarine equipment and vessels for 15 projects (10% of total capital cost).
-    - Presented the monthly resource optimisation strategy to head management for appraisal, before submission to procurement
+    - Presented the monthly resource optimisation strategy for executive appraisal, before submission to procurement
     - Created a decision support model for evaluating impact of resource allocation changes, and liaised with project managers to deliver the optimal production output for the portfolio
 
 [comment]: # (Programmed the activity of eight vessels in an in-house scheduling platform, connecting 25 ultra-deep wells in 2015, and reducing the average idle time in 5%.)
@@ -67,7 +69,7 @@ _Rio de Janeiro - Brazil (Apr 2014 - Dec 2016)_
 __Industrial Engineer__ | Petrobras Refining  
 _Rio de Janeiro - Brazil (Apr 2009 - Apr 2014)_
 
-Responsible for the corporate supply chain management governance of 12 units throughout the nation, and for liaising with asset management teams.
+Responsible for the corporate supply chain management governance of 12 units across Brazil, and for liaising with asset management teams.
 - Optimised spare parts' inventory, looking at the failure history of assets, production security, material costs and logistics, through survival analysis modelling and Monte Carlo simulation
 - Developed and implemented a shared inventory model for high-cost, low-demand spare-parts, through soft systems methodology (SSM) and data envelopment analysis (DEA) - published on the Journal of the Operational Research Society (UK). This initiative, associated with inventory optimisation, allowed the reduction of inventory value from $5.7m to $4.2m
 - Built a model to assess the gasoline distribution costs between refineries, terminals and Brazilian regions, considering ships, trucks and pipelines - published in Brazilian Symposium of Operational Research
@@ -90,7 +92,7 @@ Evaluated Customer Relationship Management processes adherence in SAP Utilities 
 
 [comment]: # (Supported pre-sales teams for consumer products and beverages industries)
 [comment]: # (Responsible for assessing the implementation practices at SAP projects for Brazilian gas and energy distribution companies, such as Neoenergia, CPFL and Comgas.)
-[comment]: # (This task involved a lot of experience exchange with SAP Germany and Latin America employees, alongside defining the best implementation techniques that would comply with the process required by the customer.s I had the opportunity to define the data communication strategy from the CRM module to the central SAP module, regarding utilities customer databases.)
+[comment]: # (This task involved a lot of experience exchange with SAP Germany and Latin America employees, alongside defining the best implementation techniques that would comply with the process required by the customers. I had the opportunity to define the data communication strategy from the CRM module to the central SAP module, regarding utilities customer databases.)
 [comment]: # (Supported commercial teams for consumer products and beverages industries, such as Coca-Cola, Schincariol, Johnson & Johnson and Fast Shop.)
 
 ## [Academic Background](https://www.linkedin.com/in/efs-alvarenga/)
