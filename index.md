@@ -1,6 +1,6 @@
 - 12 years' experience in Oil & Energy, capturing in-depth commercial awareness across E&P, refining, utilities and new energies.
 - I am skilful in slicing and dicing complex problems into manageable sub-components.
-- My professional engineering background is supported by further academic education in operational research and management sciences.
+- My engineering background is supported by further academic education in operational research and management sciences.
 - I keep myself up-to-date with current petroleum data science tools, through SPE, academic, industry papers and self-development.
 - Out of the office I enjoy spending time with my family, powerlifting, trekking and cycling.
 
@@ -54,7 +54,8 @@ My research extends the risk-return relationship, from the portfolio optimisatio
 __Production & Reservoir Engineer__ | Petrobras Ultra-Deep Waters
 _Rio de Janeiro - Brazil (Apr 2014 - Dec 2016)_
 
-- **Reservoir modelling:** Within a team of engineers and geologists, developed and maintained the reservoir model for the supergiant Lula oilfield (340,000 bpd). In the end of 2016, delivered the 2016 oil reserves estimation (2.3b bbl) to U.S. Securities and Exchange Commission and Brazilian regulatory agency.
+- **Reservoir modelling:** Within a team of engineers and geologists, developed and maintained the reservoir model for the supergiant Lula oilfield (340,000 bpd).
+    - Delivered the 2016 oil reserves estimation (2.3b bbl) to U.S. Securities and Exchange Commission and Brazilian regulatory agency.
 - **Production forecast:** Responsible for the latest estimate process for the entire pre-salt play, comprising of seven FPSOs and over 30 wells connected to the same gas pipeline infrastructure.
     - Collaborated with stakeholders such as project managers, executives and the regulatory agency.
     - Created a framework for data pre-processing, integration and communication of project premises such as operational schedule of wells, maintenance program and asset availability
