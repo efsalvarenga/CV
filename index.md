@@ -1,7 +1,7 @@
 - 12 years' experience in Oil & Energy, capturing in-depth commercial awareness across E&P, refining, utilities and new energies.
-- I am skilful in slicing and dicing complex problems into manageable sub-components.
+- Skilful in slicing and dicing complex problems into manageable sub-components.
 - My engineering background is supported by further academic education in operational research and management sciences.
-- I keep myself up-to-date with current petroleum data science tools, through SPE, academic, industry papers and self-development.
+- Up-to-date with current petroleum data science tools, through SPE, academic, industry papers and self-development.
 - Out of the office I enjoy spending time with my family, powerlifting, trekking and cycling.
 
 [comment]: # (I am skilful in slicing and communicating complex problems into modularised sub-components)
@@ -16,7 +16,7 @@ __Upstream Data Scientist__ | Shell Upstream IDA
 Currently coordinating a team of 7 analysts and data scientists (as of Jan/2020), delivering petroleum analytics projects for exploration, new business development and subsurface & wells. I am responsible for the team's technical leadership and for maintaining a healthy funnel of work, having brought in $56m worth of new projects in 2019.
 - Delivered 2019's #1 & #2 projects for Unconventionals Technology, with combined estimated NPV of $24m: the Early Productivity Index Calculator (EPIC) and Production Optimisation & Surveillance Tool (POST)
 - Conceived and currently delivering the Brazil Advanced Data Analytics (BRADA) programme in areas such as reservoir engineering, production allocation and wells integrity surveillance, with an estimated NPV of $20m
-- Leverage the [collaboration between different teams](https://headlinesuk.foleon.com/shell-ai/shellai2019report/upstream-analytics/) within Shell, such as asset teams, PTX, PTD, PTW and central IT and research resources.
+- Leverage the [collaboration between different teams](https://headlinesuk.foleon.com/shell-ai/shellai2019report/upstream-analytics/) within Shell, such as asset teams, PTX, PTD, PTW, IT and research resources
 - Currently collaborating with PTW for detailing the scope for the Rig Sequencing Transparency project, to be delivered in 2020
 - Projects I led were nominated for 5 awards - EPIC was shortlisted for the Global Development Awards and later won the PTX/E VP award in the second half of 2019
 
@@ -47,15 +47,15 @@ _Bath - UK (Feb 2017 - Aug 2018)_
 My research extends the risk-return relationship, from the portfolio optimisation theory, for energy demand aggregation based on time-series forecasting.
 - Responsible for designing an evolutionary optimisation model for time-series applications
 - Collaborated with the Department of Electronic and Electrical Engineering to develop a smart-grid energy model for the UK and Korea peer-to-peer energy trading project
-- Presenting and participating in several forecasting forums and UK power industry conferences.
+- Presented and participated in several forecasting forums and UK power industry conferences.
 
 [comment]: # (I hypothesise that a portfolio of customers, chosen through maximising the forecast accuracy, would be an ideal trading object within a peer-to-peer energy marketplace)
 
 __Production & Reservoir Engineer__ | Petrobras Ultra-Deep Waters
 _Rio de Janeiro - Brazil (Apr 2014 - Dec 2016)_
 
-- **Reservoir modelling:** Within a team of engineers and geologists, developed and maintained the reservoir model for the supergiant Lula oilfield (340,000 bpd).
-    - Delivered the 2016 oil reserves estimation (2.3b bbl) to U.S. Securities and Exchange Commission and Brazilian regulatory agency.
+- **Reservoir modelling:** Within a team of engineers and geologists, developed and maintained the reservoir model for the supergiant Lula oilfield (340,000 bpd in 2016).
+    - Delivered the 2016 oil reserves estimation to U.S. Securities and Exchange Commission and Brazilian regulatory agency.
 - **Production forecast:** Responsible for the latest estimate process for the entire pre-salt play, comprising of seven FPSOs and over 30 wells connected to the same gas pipeline infrastructure.
     - Collaborated with stakeholders such as project managers, executives and the regulatory agency.
     - Created a framework for data pre-processing, integration and communication of project premises such as operational schedule of wells, maintenance program and asset availability
