@@ -1,7 +1,7 @@
-- 12 years' experience in Oil & Energy, capturing in-depth commercial awareness across E&P, refining, utilities and new energies.
+- 12 years' experience and passionate about Oil & Energy, capturing in-depth commercial awareness across E&P, refining, utilities and new energies.
 - Skilful in slicing and dicing complex problems into manageable sub-components.
 - My engineering background is supported by further academic education in operational research and management sciences.
-- Up-to-date with current petroleum data science tools, through SPE, academic, industry papers and self-development.
+- Curious with current petroleum data science tools, up-to-date through SPE, academic, industry papers and self-development.
 - Out of the office I enjoy spending time with my family, powerlifting, trekking and cycling.
 
 [comment]: # (I am skilful in slicing and communicating complex problems into modularised sub-components)
@@ -28,7 +28,7 @@ Currently coordinating a team of 7 analysts and data scientists (as of Jan/2020)
 __Senior Data Scientist__ | WRc plc
 _Swindon - UK  (Jul 2017 - Jun 2018)_
 
-Drove asset efficiency for the utilities industry through data science projects, turning raw data into actionable business intelligence while actively developing junior scientists and engineers.
+Drove asset efficiency for the utilities industry through data science projects, turning raw data into actionable business intelligence, while actively developing junior scientists and engineers.
 - Delivered predictive models (using machine learning) for 5 industry projects through R and H2O.ai
 - Co-developed a bespoke statistics platform to be commercialised as a service using Shiny
 - Played active commercial role in pre-sales engagement processes and proposal writing
