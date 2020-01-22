@@ -28,7 +28,7 @@ Currently coordinating a team of 7 analysts and data scientists (as of Jan/2020)
 __Senior Data Scientist__ | WRc plc
 _Swindon - UK  (Jul 2017 - Jun 2018)_
 
-Driving asset efficiency for the utilities industry through data science projects, turning raw data into actionable business intelligence while actively developing junior scientists and engineers.
+Drove asset efficiency for the utilities industry through data science projects, turning raw data into actionable business intelligence while actively developing junior scientists and engineers.
 - Delivered predictive models (using machine learning) for 5 industry projects through R and H2O.ai
 - Co-developed a bespoke statistics platform to be commercialised as a service using Shiny
 - Played active commercial role in pre-sales engagement processes and proposal writing
@@ -45,10 +45,11 @@ __New Energies Researcher__ | University of Bath School of Management
 _Bath - UK (Feb 2017 - Aug 2018)_
 
 My research extends the risk-return relationship, from the portfolio optimisation theory, for energy demand aggregation based on time-series forecasting.
-I hypothesise that a portfolio of customers, chosen through maximising the forecast accuracy, would be an ideal trading object within a peer-to-peer energy marketplace.
 - Responsible for designing an evolutionary optimisation model for time-series applications
 - Collaborated with the Department of Electronic and Electrical Engineering to develop a smart-grid energy model for the UK and Korea peer-to-peer energy trading project
 - Presenting and participating in several forecasting forums and UK power industry conferences.
+
+[comment]: # (I hypothesise that a portfolio of customers, chosen through maximising the forecast accuracy, would be an ideal trading object within a peer-to-peer energy marketplace)
 
 __Production & Reservoir Engineer__ | Petrobras Ultra-Deep Waters
 _Rio de Janeiro - Brazil (Apr 2014 - Dec 2016)_
@@ -66,6 +67,7 @@ _Rio de Janeiro - Brazil (Apr 2014 - Dec 2016)_
 
 [comment]: # (Programmed the activity of eight vessels in an in-house scheduling platform, connecting 25 ultra-deep wells in 2015, and reducing the average idle time in 5%.)
 [comment]: # (Assessed the risk of different production estimations for the decision-making process using Excel @Risk)
+
 
 __Industrial Engineer__ | Petrobras Refining
 _Rio de Janeiro - Brazil (Apr 2009 - Apr 2014)_
@@ -86,6 +88,7 @@ Responsible for the corporate supply chain management governance of 12 units acr
 [comment]: # (Liaised with maintenance, reliability and engineering teams to deliver the supply chain plan for units’ routine maintenance data mining SAP reports to feed a survival analysis model on Weibul++)
 [comment]: # (Experienced in materials procurement management for two large maintenance projects - USD 25 million, each and one revamp project - USD 100 million)
 
+
 __Graduate Consultant for Utilities__ | SAP
 _Sao Paulo - Brazil (Jan 2007 - Oct 2008)_
 
@@ -95,6 +98,7 @@ Evaluated Customer Relationship Management processes adherence in SAP Utilities 
 [comment]: # (Responsible for assessing the implementation practices at SAP projects for Brazilian gas and energy distribution companies, such as Neoenergia, CPFL and Comgas.)
 [comment]: # (This task involved a lot of experience exchange with SAP Germany and Latin America employees, alongside defining the best implementation techniques that would comply with the process required by the customers. I had the opportunity to define the data communication strategy from the CRM module to the central SAP module, regarding utilities customer databases.)
 [comment]: # (Supported commercial teams for consumer products and beverages industries, such as Coca-Cola, Schincariol, Johnson & Johnson and Fast Shop.)
+
 
 ## Academic Background
 __Doctor of Philosophy (PhD) Management Science__ (Incomplete)
