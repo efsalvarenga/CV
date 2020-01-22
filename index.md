@@ -54,8 +54,8 @@ My research extends the risk-return relationship, from the portfolio optimisatio
 __Production & Reservoir Engineer__ | Petrobras Ultra-Deep Waters
 _Rio de Janeiro - Brazil (Apr 2014 - Dec 2016)_
 
-- **Reservoir simulation:** Within a team of engineers and geologists, developed and maintained the reservoir modelling process for the supergiant Lula oilfield (340,000 bpd). This model supported strategic decision making, production forecasting and investment optimisation.
-    - Designed a machine learning oil/water permeability model for the oilfield implementing clustering and classification algorithms on Weka
+- **Reservoir modelling:** Within a team of engineers and geologists, developed and maintained the reservoir modelling process for the supergiant Lula oilfield (340,000 bpd). This model supported strategic decision making, production forecasting and investment optimisation.
+    - Designed a machine learning oil/water permeability model implementing clustering and classification algorithms
     - Delivered the 2016 oil reserves estimation (2.3b bbl) to U.S. Securities and Exchange Commission and Brazilian regulatory agency
 - **Production forecast:** Responsible for the oil production estimation of seven multi-billion projects.
     - Collaborated with stakeholders such as project managers, executives and the regulatory agency
@@ -138,12 +138,15 @@ Advise and support young children learning advanced mathematics
 [comment]: # (**SPE Society of Petroleum Engineers**   Volunteer translator and career pathways advisor)
 
 ### Languages
-**English** Fluent (IELTS Academic Test score: 8/9)
-**Portuguese** Native language
+**English** Fluent (IELTS Academic Test score: 8/9) |
+**Portuguese** Native language |
 **Spanish** Basic proficiency
 
 ### Publications
 **2018** Soft systems methodology applied to oil refineries inventory process (in Portuguese) In: Estellita Lins *et al*. Complex problem structuring: embedding concept maps to decision support models. 1st Ed. Interciencia. 14th chapter.
+
 **2018** Predictive modelling of water losses using random forests on weather covariates, *WST Water Science and Technology* [DOI:10.2166/ws.2018.044](http://ws.iwaponline.com/content/early/2018/03/16/ws.2018.044)
+
 **2016** Selection of corporate spare parts inventory for Brazilian refineries: a smoothed data envelopment analysis frontier function, *JORS Journal of the Operational Research Society* [DOI:10.1057/jors.2016.44](https://www.tandfonline.com/doi/abs/10.1057/jors.2016.44?journalCode=tjor20)
+
 **2013** Optimisation of gasoline distribution costs across Brazilian refineries, terminals and demand regions (in Portuguese), *Brazilian Operational Research Symposium*  [XLV SBPO conference proceedings](http://www.din.uem.br/~ademir/sbpo/sbpo2013/pdf/arq0181.pdf)
