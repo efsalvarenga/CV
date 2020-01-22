@@ -11,7 +11,7 @@ __Upstream Data Scientist__ | Shell Upstream IDA
  _The Hague - NL (Sep 2018 - Present)_
 
 Coordinating a team of 7 analysts and data scientists, delivering projects for exploration, new business development, subsurface and wells.
-- Delivered 2019's #1 & #2 projects for Unconventionals Technology - the Early Productivity Index Calculator (EPIC) and Production Optimisation & Surveillance Tool (POST)- with combined estimated NPV of $24m: these were nominated for 5 awards (EPIC was shortlisted for the Global Development Awards and won the PTX/E VP award in the second half of 2019)
+- Delivered 2019's #1 & #2 projects for Unconventionals Technology - the Early Productivity Index Calculator (EPIC) and Production Optimisation & Surveillance Tool (POST) - with combined estimated NPV of $24m: these were nominated for 5 awards (EPIC was shortlisted for the Global Development Awards and won the PTX/E VP award in the second half of 2019)
 - Conceived and currently delivering Brazil Advanced Data Analytics (BRADA) programme in areas such as reservoir engineering, production allocation and wells integrity surveillance, with an estimated NPV of $20m
 - Brought $56m worth of new projects to be delivered by the team, coordinating and coaching internal and external analytics and research resources
 - Leverage the [collaboration between different teams](https://headlinesuk.foleon.com/shell-ai/shellai2019report/upstream-analytics/) within Shell, such as asset teams, PTX, PTD, PTW and central IT.
@@ -95,7 +95,7 @@ Evaluated Customer Relationship Management processes adherence in SAP Utilities 
 [comment]: # (This task involved a lot of experience exchange with SAP Germany and Latin America employees, alongside defining the best implementation techniques that would comply with the process required by the customers. I had the opportunity to define the data communication strategy from the CRM module to the central SAP module, regarding utilities customer databases.)
 [comment]: # (Supported commercial teams for consumer products and beverages industries, such as Coca-Cola, Schincariol, Johnson & Johnson and Fast Shop.)
 
-## [Academic Background](https://www.linkedin.com/in/efs-alvarenga/)
+## Academic Background
 __Doctor of Philosophy (PhD) Management Science__ (Incomplete)  
 _University of Bath, UK (2016 - 2017)_  
 Research areas: Evolutionary optimisation, time-series forecast, portfolio optimisation, energy aggregation
@@ -130,7 +130,7 @@ Data envelopment analysis (DEA) peer reviewer
 **Kumon Uberaba**  
 Advise and support young children learning advanced mathematics
 
-[COMMENT]: # (**SPE Society of Petroleum Engineers**   Volunteer translator and career pathways advisor)
+[comment]: # (**SPE Society of Petroleum Engineers**   Volunteer translator and career pathways advisor)
 
 ### Languages
 **English** Fluent (IELTS Academic Test score: 8/9)  
