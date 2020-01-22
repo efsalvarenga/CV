@@ -10,8 +10,8 @@
 
 
 ## [Professional Experience](https://www.linkedin.com/in/efs-alvarenga/)
-__Upstream Data Scientist__ | Shell Upstream IDA
- _The Hague - NL (Sep 2018 - Present)_
+__Upstream Data Scientist__ | Shell Upstream IDA,
+_The Hague - NL (Sep 2018 - Present)_
 
 Currently coordinating a team of 7 analysts and data scientists (as of Jan/2020), delivering petroleum analytics projects for exploration, new business development and subsurface & wells. I am responsible for the team's technical leadership and for maintaining a healthy funnel of work, having brought in $56m worth of new projects in 2019.
 - Delivered 2019's #1 & #2 projects for Unconventionals Technology, with combined estimated NPV of $24m: the Early Productivity Index Calculator (EPIC) and Production Optimisation & Surveillance Tool (POST)
@@ -25,7 +25,7 @@ Currently coordinating a team of 7 analysts and data scientists (as of Jan/2020)
 [comment]: # (Designed IG & IDA's residency programme for Petroleum Engineers to upskill their digital capabilities through the delivery of analytics projects within the IDA team (to be launched))
 
 
-__Senior Data Scientist__ | WRc plc
+__Senior Data Scientist__ | WRc plc,
 _Swindon - UK  (Jul 2017 - Jun 2018)_
 
 Drove asset efficiency for the utilities industry through data science projects, turning raw data into actionable business intelligence while actively developing junior scientists and engineers.
@@ -41,7 +41,7 @@ Drove asset efficiency for the utilities industry through data science projects,
 [comment]: # (leakage, water quality asset resilience, investment optimisation)
 
 
-__New Energies Researcher__ | University of Bath School of Management
+__New Energies Researcher__ | University of Bath School of Management,
 _Bath - UK (Feb 2017 - Aug 2018)_
 
 My research extends the risk-return relationship, from the portfolio optimisation theory, for energy demand aggregation based on time-series forecasting.
@@ -51,7 +51,7 @@ My research extends the risk-return relationship, from the portfolio optimisatio
 
 [comment]: # (I hypothesise that a portfolio of customers, chosen through maximising the forecast accuracy, would be an ideal trading object within a peer-to-peer energy marketplace)
 
-__Production & Reservoir Engineer__ | Petrobras Ultra-Deep Waters
+__Production & Reservoir Engineer__ | Petrobras Ultra-Deep Waters,
 _Rio de Janeiro - Brazil (Apr 2014 - Dec 2016)_
 
 Performed reservoir engineering, production forecast and optimisation roles for Petrobras' pre-salt portfolio, collaborating with stakeholders such as project managers, executives and the regulatory agency.
@@ -66,7 +66,7 @@ Performed reservoir engineering, production forecast and optimisation roles for 
 [comment]: # (This model supported strategic decision making, production forecasting and investment optimisation)
 [comment]: # (Designed a machine learning oil/water permeability model implementing clustering and classification algorithms)
 
-__Industrial Engineer__ | Petrobras Refining
+__Industrial Engineer__ | Petrobras Refining,
 _Rio de Janeiro - Brazil (Apr 2009 - Apr 2014)_
 
 Responsible for the corporate supply chain management governance of 12 units across Brazil, and for liaising with asset management teams.
@@ -86,7 +86,7 @@ Responsible for the corporate supply chain management governance of 12 units acr
 [comment]: # (Experienced in materials procurement management for two large maintenance projects - USD 25 million, each and one revamp project - USD 100 million)
 
 
-__Graduate Consultant for Utilities__ | SAP
+__Graduate Consultant for Utilities__ | SAP,
 _Sao Paulo - Brazil (Jan 2007 - Oct 2008)_
 
 Evaluated Customer Relationship Management processes adherence in SAP Utilities systems projects (gas and electricity distribution companies).
