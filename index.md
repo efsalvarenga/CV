@@ -54,20 +54,18 @@ My research extends the risk-return relationship, from the portfolio optimisatio
 __Production & Reservoir Engineer__ | Petrobras Ultra-Deep Waters
 _Rio de Janeiro - Brazil (Apr 2014 - Dec 2016)_
 
-- **Reservoir modelling:** Within a team of engineers and geologists, developed and maintained the reservoir modelling process for the supergiant Lula oilfield (340,000 bpd). This model supported strategic decision making, production forecasting and investment optimisation.
-    - Designed a machine learning oil/water permeability model implementing clustering and classification algorithms
-    - Delivered the 2016 oil reserves estimation (2.3b bbl) to U.S. Securities and Exchange Commission and Brazilian regulatory agency
-- **Production forecast:** Responsible for the oil production estimation of seven producing FPSOs.
-    - Collaborated with stakeholders such as project managers, executives and the regulatory agency
-    - Developed and maintained a sixteen-month ahead forecasting model, comprising seven offshore platforms and over 30 wells connected to the same gas pipeline infrastructure, with more than 95% accuracy
+- **Reservoir modelling:** Within a team of engineers and geologists, developed and maintained the reservoir model for the supergiant Lula oilfield (340,000 bpd). In the end of 2016, delivered the 2016 oil reserves estimation (2.3b bbl) to U.S. Securities and Exchange Commission and Brazilian regulatory agency.
+- **Production forecast:** Responsible for the latest estimate process for the entire pre-salt play, comprising of seven FPSOs and over 30 wells connected to the same gas pipeline infrastructure.
+    - Collaborated with stakeholders such as project managers, executives and the regulatory agency.
     - Created a framework for data pre-processing, integration and communication of project premises such as operational schedule of wells, maintenance program and asset availability
 - **Resource management:** Coordinated a team of three engineers responsible for the resource allocation of submarine equipment and vessels for 15 projects (10% of total capital cost).
-    - Presented the monthly resource optimisation strategy for executive appraisal, before submission to procurement
+    - Presented the monthly resource optimisation strategy for the executive decision board, before submission to procurement
     - Created a decision support model for evaluating impact of resource allocation changes, and liaised with project managers to deliver the optimal production output for the portfolio
 
 [comment]: # (Programmed the activity of eight vessels in an in-house scheduling platform, connecting 25 ultra-deep wells in 2015, and reducing the average idle time in 5%.)
 [comment]: # (Assessed the risk of different production estimations for the decision-making process using Excel @Risk)
-
+[comment]: # (This model supported strategic decision making, production forecasting and investment optimisation)
+[comment]: # (Designed a machine learning oil/water permeability model implementing clustering and classification algorithms)
 
 __Industrial Engineer__ | Petrobras Refining
 _Rio de Janeiro - Brazil (Apr 2009 - Apr 2014)_
