@@ -40,6 +40,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 Use pandoc & latex combined to print the .md file to .pdf
 
+Install MikTeX and Pandoc.
+
 Add back title before printing, from the `_config.yml` file.
 
 Use `pandoc index.md --latex-engine=xelatex -o cv.pdf -V geometry:margin=1in`
