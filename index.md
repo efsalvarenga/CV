@@ -55,7 +55,7 @@ __Production & Reservoir Engineer__ | Petrobras Ultra-Deep Waters
 _Rio de Janeiro - Brazil (Apr 2014 - Dec 2016)_
 
 Performed reservoir engineering, production forecast and optimisation roles for Petrobras' pre-salt portfolio, collaborating with stakeholders such as project managers, executives and the regulatory agency.
-- Delivered Lula's 2016 oil reserves estimation to U.S. Securities and Exchange Commission and Brazilian regulatory agency.
+- Delivered Lula's 2016 oil reserves estimation to the U.S. Securities and Exchange Commission and Brazilian regulatory agency
 - Maintained the latest estimate process for seven FPSOs, and over 30 wells, interconnected through the gas pipeline network
 - Created a framework for data pre-processing, integration and communication of project premises such as operational schedule of wells, maintenance program and asset availability
 - Coordinated a team of three engineers responsible for the resource optimisation of submarine equipment and vessels for 15 FPSOs, presenting the allocation proposal to the executive decision board
@@ -71,7 +71,7 @@ _Rio de Janeiro - Brazil (Apr 2009 - Apr 2014)_
 
 Responsible for the corporate supply chain management governance of 12 units across Brazil, and for liaising with asset management teams.
 - Optimised spare parts' inventory, looking at the failure history of assets, production security, material costs and logistics, through survival analysis modelling and Monte Carlo simulation
-- Developed and implemented a shared inventory model for high-cost, low-demand spare-parts, through soft systems methodology (SSM) and data envelopment analysis (DEA) - published on the Journal of the Operational Research Society (UK). This initiative, associated with inventory optimisation, allowed the reduction of inventory value from $5.7m to $4.2m
+- Developed and implemented a shared inventory model for high-cost, low-demand spare-parts, which enabled inventory optimisation and allowed the reduction of inventory value from $5.7m to $4.2m
 - Built a model to assess the gasoline distribution costs between refineries, terminals and Brazilian regions, considering ships, trucks and pipelines - published in Brazilian Symposium of Operational Research
 
 [comment]: # (Liaised with maintenance, reliability and engineering teams to develop the first version of the Predictive Maintenance Supply Planning Standard for Petrobras Refining Division, supporting 12 refineries)
@@ -133,10 +133,10 @@ Basic engineering, business analysis, production methods, operational research a
 - **Spanish** Basic proficiency
 
 ### Publications
-**2018** Soft systems methodology applied to oil refineries inventory process (in Portuguese) In: Estellita Lins *et al*. Complex problem structuring: embedding concept maps to decision support models. 1st Ed. Interciencia. 14th chapter.
+- **2018** Soft systems methodology applied to oil refineries inventory process (in Portuguese) In: Estellita Lins *et al*. Complex problem structuring: embedding concept maps to decision support models. 1st Ed. Interciencia. 14th chapter.
 
-**2018** Predictive modelling of water losses using random forests on weather covariates, *WST Water Science and Technology* [DOI:10.2166/ws.2018.044](http://ws.iwaponline.com/content/early/2018/03/16/ws.2018.044)
+- **2018** Predictive modelling of water losses using random forests on weather covariates, *WST Water Science and Technology* [DOI:10.2166/ws.2018.044](http://ws.iwaponline.com/content/early/2018/03/16/ws.2018.044)
 
-**2016** Selection of corporate spare parts inventory for Brazilian refineries: a smoothed data envelopment analysis frontier function, *JORS Journal of the Operational Research Society* [DOI:10.1057/jors.2016.44](https://www.tandfonline.com/doi/abs/10.1057/jors.2016.44?journalCode=tjor20)
+- **2016** Selection of corporate spare parts inventory for Brazilian refineries: a smoothed data envelopment analysis frontier function, *JORS Journal of the Operational Research Society* [DOI:10.1057/jors.2016.44](https://www.tandfonline.com/doi/abs/10.1057/jors.2016.44?journalCode=tjor20)
 
-**2013** Optimisation of gasoline distribution costs across Brazilian refineries, terminals and demand regions (in Portuguese), *Brazilian Operational Research Symposium*  [XLV SBPO conference proceedings](http://www.din.uem.br/~ademir/sbpo/sbpo2013/pdf/arq0181.pdf)
+- **2013** Optimisation of gasoline distribution costs across Brazilian refineries, terminals and demand regions (in Portuguese), *Brazilian Operational Research Symposium*  [XLV SBPO conference proceedings](http://www.din.uem.br/~ademir/sbpo/sbpo2013/pdf/arq0181.pdf)
