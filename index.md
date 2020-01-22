@@ -1,8 +1,8 @@
-12 years' experience in Oil & Energy, capturing in-depth commercial awareness across E&P, refining, utilities and new energies.
-I am skilful in slicing and dicing complex problems into manageable sub-components.
-My professional engineering background is supported by further academic education in operational research and management sciences.
-I keep myself up-to-date with current petroleum data science tools, through SPE, academic, industry papers and self-development.
-Out of the office I enjoy spending time with my family, powerlifting, trekking and cyclings.
+- 12 years' experience in Oil & Energy, capturing in-depth commercial awareness across E&P, refining, utilities and new energies.
+- I am skilful in slicing and dicing complex problems into manageable sub-components.
+- My professional engineering background is supported by further academic education in operational research and management sciences.
+- I keep myself up-to-date with current petroleum data science tools, through SPE, academic, industry papers and self-development.
+- Out of the office I enjoy spending time with my family, powerlifting, trekking and cycling.
 
 [comment]: # (I am skilful in slicing and communicating complex problems into modularised sub-components)
 [comment]: # (decision scientist)
