@@ -17,10 +17,8 @@ Currently coordinating a team of 7 analysts and data scientists (as of Jan/2020)
 
 - Delivered 2019's #1 & #2 projects for Unconventionals Technology - the Early Productivity Index Calculator (EPIC) and Production Optimisation & Surveillance Tool (POST) - with combined estimated NPV of $24m. These were nominated for 5 awards (EPIC being shortlisted for the Global Development Awards and winning the PTX/E VP award in the second half of 2019)
 - Conceived and currently delivering the Brazil Advanced Data Analytics (BRADA) programme in areas such as reservoir engineering, production allocation and wells integrity surveillance, with an estimated NPV of $20m
-- Brought $56m worth of new projects to be delivered by the team,
 - Leverage the [collaboration between different teams](https://headlinesuk.foleon.com/shell-ai/shellai2019report/upstream-analytics/) within Shell, such as asset teams, PTX, PTD, PTW and central IT and research resources.
 - Currently collaborating with PTW for detailing the scope for the Rig Sequencing Transparency project, to be delivered in 2020
-- Technical leader, empowering the team to deliver work packages that incrementally build analytics solutions, in an agile fashion
 
 [comment]: # (Elf)
 [comment]: # (Collaboration with R&D)
