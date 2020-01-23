@@ -1,8 +1,8 @@
-- 12 years' experience and passionate about Oil & Energy, capturing in-depth commercial awareness across E&P, refining, utilities and new energies.
-- Skilful in slicing and dicing complex problems into manageable sub-components.
-- My engineering background is supported by further academic education in operational research and management sciences.
-- Curious with current petroleum data science tools, up-to-date through SPE, academic, industry papers and self-development.
-- Out of the office I enjoy spending time with my family, powerlifting, trekking and cycling.
+- 12 years' experience and passionate about Oil & Energy, capturing in-depth commercial awareness across E&P, refining, utilities and new energies
+- Skilful in slicing and dicing complex problems into manageable sub-components
+- My engineering background is supported by further academic education in operational research and management sciences
+- Curious with current petroleum data science tools, up-to-date through SPE, academic, industry papers and self-development
+- Out of the office I enjoy spending time with my family, powerlifting, trekking and cycling
 
 [comment]: # (I am skilful in slicing and communicating complex problems into modularised sub-components)
 [comment]: # (decision scientist)
@@ -18,7 +18,7 @@ Currently coordinating a team of 7 analysts and data scientists (as of Jan/2020)
 - Conceived and currently delivering the Brazil Advanced Data Analytics (BRADA) programme in areas such as reservoir engineering, production allocation and wells integrity surveillance, with an estimated NPV of $20m
 - Leverage the [collaboration between different teams](https://headlinesuk.foleon.com/shell-ai/shellai2019report/upstream-analytics/) within Shell, such as asset teams, PTX, PTD, PTW, and IT; and external research resources
 - Currently collaborating with PTW for detailing the scope for the Rig Sequencing Transparency project, to be delivered in 2020
-- Projects I led were nominated for 5 awards - EPIC was shortlisted for the Global Development Awards and later won the PTX/E VP award in the second half of 2019
+- Projects I led the digital workstream were nominated for 5 awards - EPIC was shortlisted for the Global Development Awards and later won the PTX/E VP award in the second half of 2019
 
 [comment]: # (Elf)
 [comment]: # (Collaboration with R&D)
@@ -55,8 +55,8 @@ __Production & Reservoir Engineer | Petrobras__ Ultra-Deep Waters,
 _Rio de Janeiro - Brazil (Apr 2014 - Dec 2016)_
 
 Performed reservoir engineering, production forecast and optimisation roles for Petrobras' pre-salt portfolio, collaborating with stakeholders such as project managers, executives and the regulatory agency.
-- Delivered Lula's 2016 oil reserves estimation to the U.S. Securities and Exchange Commission and Brazilian regulatory agency
-- Maintained the latest estimate process for seven FPSOs, and over 30 wells, interconnected through the gas pipeline network
+- Delivered Lula's 2016 reserves estimation to the U.S. Securities and Exchange Commission and Brazilian regulatory agency
+- Maintained the latest estimate process for seven FPSOs, and over 30 wells, constrained by a shared gas pipeline network
 - Created a framework for data pre-processing, integration and communication of project premises such as operational schedule of wells, maintenance program and asset availability
 - Coordinated a team of three engineers responsible for the resource optimisation of submarine equipment and vessels for 15 FPSOs, presenting the allocation proposal to the executive decision board
 - Created a decision support model for evaluating impact of resource allocation changes, and liaised with project managers to deliver the optimal production output for the portfolio
@@ -71,8 +71,8 @@ _Rio de Janeiro - Brazil (Apr 2009 - Apr 2014)_
 
 Responsible for the corporate supply chain management governance of 12 units across Brazil, and for liaising with asset management teams.
 - Optimised spare parts' inventory, looking at the failure history of assets, production security, material costs and logistics, through survival analysis modelling and Monte Carlo simulation
-- Developed and implemented a shared inventory model for high-cost, low-demand spare-parts, which enabled inventory optimisation and allowed the reduction of inventory value from $5.7m to $4.2m
-- Built a model to assess the gasoline distribution costs between refineries, terminals and Brazilian regions, considering ships, trucks and pipelines - published in Brazilian Symposium of Operational Research
+- Developed and implemented a shared inventory model for high-cost, low-demand spare-parts, which enabled inventory optimisation and allowed savings of $1.2m in inventory value
+- Built a model to assess the gasoline distribution costs between refineries, terminals and Brazilian regions, considering ships, trucks and pipelines
 
 [comment]: # (Liaised with maintenance, reliability and engineering teams to develop the first version of the Predictive Maintenance Supply Planning Standard for Petrobras Refining Division, supporting 12 refineries)
 [comment]: # (Responsible for the supply chain dashboard for the refinery system, using SAP ERP and BI data)
