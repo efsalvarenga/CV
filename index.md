@@ -10,7 +10,7 @@
 
 
 ## [Professional Experience](https://www.linkedin.com/in/efs-alvarenga/)
-__Upstream Data Scientist | Shell__ Upstream & IG IDA,
+__Analytics Petroleum Engineer | Shell__ Upstream & IG IDA,
 _The Hague - NL (Sep 2018 - Present)_
 
 Currently coordinating a team of 7 analysts and data scientists (as of Jan/2020), delivering petroleum analytics projects for exploration, new business development and subsurface & wells. I am responsible for the team's technical leadership and for maintaining a healthy funnel of work, having brought in $56m worth of new projects in 2019.
@@ -86,7 +86,7 @@ Responsible for the corporate supply chain management governance of 12 units acr
 [comment]: # (Experienced in materials procurement management for two large maintenance projects - USD 25 million, each and one revamp project - USD 100 million)
 
 
-__Graduate Consultant | SAP__ CRM & Utilities,
+__Graduate Consultant for Utilities | SAP__ CRM & Utilities,
 _Sao Paulo - Brazil (Jan 2007 - Oct 2008)_
 
 Evaluated Customer Relationship Management processes adherence in SAP Utilities systems projects (gas and electricity distribution companies).
