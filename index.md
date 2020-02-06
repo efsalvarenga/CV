@@ -41,7 +41,7 @@ Drove asset efficiency for the utilities industry through data science projects,
 [comment]: # (leakage, water quality asset resilience, investment optimisation)
 
 
-__New Energies Researcher__ | University of Bath School of Management,
+__New Energies Researcher | University of Bath__ School of Management,
 _Bath - UK (Feb 2017 - Aug 2018)_
 
 My research extends the risk-return relationship, from the portfolio optimisation theory, for energy demand aggregation based on time-series forecasting.
