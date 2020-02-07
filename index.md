@@ -22,7 +22,7 @@ Currently coordinating a team of 7 analysts and data scientists (as of Jan/2020)
 [comment]: # (Elf)
 [comment]: # (Collaboration with R&D)
 [comment]: # (Designed IG & IDA's residency programme for Petroleum Engineers to upskill their digital capabilities through the delivery of analytics projects within the IDA team (to be launched))
-[comment]: # (- Currently collaborating with PTW for detailing the scope for the Rig Sequencing Transparency project, to be delivered in 2020)
+[comment]: # (Currently collaborating with PTW for detailing the scope for the Rig Sequencing Transparency project, to be delivered in 2020)
 
 
 __Senior Data Scientist | WRc plc__ Asset Management,
