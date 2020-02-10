@@ -4,10 +4,6 @@
 - Curious with current petroleum data science tools, up-to-date through SPE, academic, industry papers and self-development
 - Out of the office I enjoy spending time with my family, powerlifting, trekking and cycling
 
-[comment]: # (I am skilful in slicing and communicating complex problems into modularised sub-components)
-[comment]: # (decision scientist)
-[comment]: # (designing analytics solutions and supporting colleagues translate mathematics into engineering and management language.)
-
 
 ## [Professional Experience](https://www.linkedin.com/in/efs-alvarenga/)
 __Analytics Petroleum Engineer | Shell__ Upstream & IG IDA,
@@ -19,15 +15,6 @@ Currently coordinating a team of 7 analysts and data scientists (as of Jan/2020)
 - Leverage the [collaboration between different teams](https://headlinesuk.foleon.com/shell-ai/shellai2019report/upstream-analytics/) within Shell, such as asset teams, PTX, PTD, PTW, and IT; and external research resources
 - Projects I led the digital workstream were nominated for 5 awards - EPIC was shortlisted for the Global Development Awards and later won the PTX/E VP award in the second half of 2019
 
-[comment]: # (Elf)
-[comment]: # (Collaboration with R&D)
-
-
-[comment]: # (Designed IG & IDA's residency programme for Petroleum Engineers to upskill their digital capabilities through the delivery of analytics projects within the IDA team (to be launched))
-
-
-[comment]: # (Currently collaborating with PTW for detailing the scope for the Rig Sequencing Transparency project, to be delivered in 2020)
-
 
 __Senior Data Scientist | WRc plc__ Asset Management,
 _Swindon - UK  (Jul 2017 - Jun 2018)_
@@ -36,13 +23,6 @@ Drove asset efficiency for the utilities industry through data science projects,
 - Delivered predictive models (using machine learning) for 5 industry projects through R and H2O.ai
 - Co-developed a bespoke statistics platform to be commercialised as a service using Shiny
 - Played active commercial role in pre-sales engagement processes and proposal writing
-
-[comment]: # (Leaded data analytics training cohorts for the Environment Agency, Southern Water and DNV GL)
-[comment]: # (Supported analysts' development through on-the-job technical coaching)
-[comment]: # (Standardised data visualisations by developing an internal R package for graphics)
-[comment]: # (Provided guidance on academic publishing of innovative data science models applied to utilities)
-[comment]: # (responsible for project scoping)
-[comment]: # (leakage, water quality asset resilience, investment optimisation)
 
 
 __New Energies Researcher | University of Bath__ School of Management,
@@ -53,7 +33,6 @@ My research extends the risk-return relationship, from the portfolio optimisatio
 - Collaborated with the Department of Electronic and Electrical Engineering to develop a smart-grid energy model for the UK and Korea peer-to-peer energy trading project
 - Presented and participated in several forecasting forums and UK power industry conferences.
 
-[comment]: # (I hypothesise that a portfolio of customers, chosen through maximising the forecast accuracy, would be an ideal trading object within a peer-to-peer energy marketplace)
 
 __Production & Reservoir Engineer | Petrobras__ Ultra-Deep Waters,
 _Rio de Janeiro - Brazil (Apr 2014 - Dec 2016)_
@@ -65,10 +44,6 @@ Performed reservoir engineering, production forecast and optimisation roles for 
 - Coordinated a team of three engineers responsible for the resource optimisation of submarine equipment and vessels for 15 FPSOs, presenting the allocation proposal to the executive decision board
 - Created a decision support model for evaluating impact of resource allocation changes, and liaised with project managers to deliver the optimal production output for the portfolio
 
-[comment]: # (Programmed the activity of eight vessels in an in-house scheduling platform, connecting 25 ultra-deep wells in 2015, and reducing the average idle time in 5%.)
-[comment]: # (Assessed the risk of different production estimations for the decision-making process using Excel @Risk)
-[comment]: # (This model supported strategic decision making, production forecasting and investment optimisation)
-[comment]: # (Designed a machine learning oil/water permeability model implementing clustering and classification algorithms)
 
 __Industrial Engineer | Petrobras__ Refining,
 _Rio de Janeiro - Brazil (Apr 2009 - Apr 2014)_
@@ -78,27 +53,11 @@ Responsible for the corporate supply chain management governance of 12 units acr
 - Developed and implemented a shared inventory model for high-cost, low-demand spare-parts, which enabled inventory optimisation and allowed savings of $1.2m in inventory value
 - Built a model to assess the gasoline distribution costs between refineries, terminals and Brazilian regions, considering ships, trucks and pipelines
 
-[comment]: # (Liaised with maintenance, reliability and engineering teams to develop the first version of the Predictive Maintenance Supply Planning Standard for Petrobras Refining Division, supporting 12 refineries)
-[comment]: # (Responsible for the supply chain dashboard for the refinery system, using SAP ERP and BI data)
-[comment]: # (Designed inventory outsourcing contracts for 6 refineries)
-[comment]: # (Member of the refining inventory demobilisation team, negotiating the return of USD 16 million in stock value of unused spare-parts to suppliers)
-[comment]: # (Evaluated the supply chain management compliance in 6 refineries, comparing them to Petrobras benchmarks in inventory control, procurement and maintenance integration)
-[comment]: # (Responsible for materials supply planning of scheduled maintenance shortages, integrating with Asset Management processes.)
-[comment]: # (Designed performance KPIs for material planning and overplus requests for large maintenance projects)
-[comment]: # (Developed the first version of the Predictive Maintenance Supply Planning Standard for Petrobras Refining Division, supporting 12 refineries)
-[comment]: # (Liaised with maintenance, reliability and engineering teams to deliver the supply chain plan for units’ routine maintenance data mining SAP reports to feed a survival analysis model on Weibul++)
-[comment]: # (Experienced in materials procurement management for two large maintenance projects - USD 25 million, each and one revamp project - USD 100 million)
-
 
 __Graduate Consultant for Utilities | SAP__ CRM & Utilities,
 _Sao Paulo - Brazil (Jan 2007 - Oct 2008)_
 
 Evaluated Customer Relationship Management processes adherence in SAP Utilities systems projects (gas and electricity distribution companies).
-
-[comment]: # (Supported pre-sales teams for consumer products and beverages industries)
-[comment]: # (Responsible for assessing the implementation practices at SAP projects for Brazilian gas and energy distribution companies, such as Neoenergia, CPFL and Comgas.)
-[comment]: # (This task involved a lot of experience exchange with SAP Germany and Latin America employees, alongside defining the best implementation techniques that would comply with the process required by the customers. I had the opportunity to define the data communication strategy from the CRM module to the central SAP module, regarding utilities customer databases.)
-[comment]: # (Supported commercial teams for consumer products and beverages industries, such as Coca-Cola, Schincariol, Johnson & Johnson and Fast Shop.)
 
 
 ## Academic Background
@@ -129,7 +88,6 @@ Basic engineering, business analysis, production methods, operational research a
 - **European Journal of Operational Research** Data envelopment analysis (DEA) peer reviewer
 - **Kumon Uberaba** Advise and support young children learning advanced mathematics
 
-[comment]: # (**SPE Society of Petroleum Engineers**   Volunteer translator and career pathways advisor)
 
 ### Languages
 - **English** Fluent (IELTS Academic Test score: 8/9)
