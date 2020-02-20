@@ -6,8 +6,16 @@
 
 
 ## [Professional Experience](https://www.linkedin.com/in/efs-alvarenga/)
-__Analytics Petroleum Engineer | Shell__ Upstream & IG IDA,
-_The Hague - NL (Sep 2018 - Present)_
+
+__Analytics Lead | Shell__ Upstream & IG IDA,
+_The Hague - NL (Mar 2020 - Present)_
+
+Currently coordinating a team of 7 analysts and data scientists (as of Jan/2020), delivering petroleum analytics projects for exploration, new business development, subsurface and wells.
+
+__Analytics Petroleum Engineer | Shell__ E&P Information Data & Analytics,
+_The Hague - NL (Sep 2018 - Feb 2020)_
+
+I am the E&P Information Data and Analytics' focal point for wells, reservoir and facilities management, delivering data science and operational research projects for deep water and unconventional oil fields.
 
 Currently coordinating a team of 7 analysts and data scientists (as of Jan/2020), delivering petroleum analytics projects for exploration, new business development and subsurface & wells. I am responsible for the team's technical leadership and for maintaining a healthy funnel of work, having brought in $56m worth of new projects in 2019.
 - Delivered 2019's #1 & #2 projects for Unconventionals Technology, with combined estimated NPV of $24m: the Early Productivity Index Calculator (EPIC) and Production Optimisation & Surveillance Tool (POST)
