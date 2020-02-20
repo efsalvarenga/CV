@@ -7,23 +7,23 @@
 
 ## [Professional Experience](https://www.linkedin.com/in/efs-alvarenga/)
 
-__Analytics Lead | Shell__ Upstream & IG IDA,
+__Analytics Lead__ | Shell E&P Information Data & Analytics
 _The Hague - NL (Mar 2020 - Present)_
 
-Currently coordinating a team of 7 analysts and data scientists (as of Jan/2020), delivering petroleum analytics projects for exploration, new business development, subsurface and wells.
+Currently coordinating a team of 7 analysts and data scientists, delivering petroleum analytics projects for exploration, new business development, subsurface and wells.
 
-__Analytics Petroleum Engineer__ | Shell E&P Information Data & Analytics _The Hague - NL (Sep 2018 - Feb 2020)_
+__Analytics Petroleum Engineer__ | Shell E&P Information Data & Analytics
+_The Hague - NL (Sep 2018 - Feb 2020)_
 
-I am the E&P Information Data and Analytics' focal point for wells, reservoir and facilities management, delivering data science and operational research projects for deep water and unconventional oil fields.
-
-Currently coordinating a team of 7 analysts and data scientists (as of Jan/2020), delivering petroleum analytics projects for exploration, new business development and subsurface & wells. I am responsible for the team's technical leadership and for maintaining a healthy funnel of work, having brought in $56m worth of new projects in 2019.
+I was the E&P IDA' focal point for wells, reservoir and facilities management, delivering data science and operational research projects for deep water and unconventional oil fields.
+Responsible for the team's technical leadership and for maintaining a healthy funnel of work, I have brought in $56m worth of new projects in 2019.
 - Delivered 2019's #1 & #2 projects for Unconventionals Technology, with combined estimated NPV of $24m: the Early Productivity Index Calculator (EPIC) and Production Optimisation & Surveillance Tool (POST)
 - Conceived and currently delivering the Brazil Advanced Data Analytics (BRADA) programme in areas such as reservoir engineering, production allocation and wells integrity surveillance, with an estimated NPV of $20m
-- Leverage the [collaboration between different teams](https://headlinesuk.foleon.com/shell-ai/shellai2019report/upstream-analytics/) within Shell, such as asset teams, PTX, PTD, PTW, and IT; and external research resources
-- Projects I led the digital workstream were nominated for 5 awards - EPIC was shortlisted for the Global Development Awards and later won the PTX/E VP award in the second half of 2019
+- Leveraged the [collaboration between different teams](https://headlinesuk.foleon.com/shell-ai/shellai2019report/upstream-analytics/) within Shell, such as asset teams, PTX, PTD, PTW, and IT; and external research resources
+- Projects whose digital workstream I led were nominated for 5 awards - EPIC was shortlisted for the Global Development Awards and later won the PTX/E VP award in the second half of 2019
 
 
-__Senior Data Scientist | WRc plc__ Asset Management,
+__Senior Data Scientist__ | WRc plc Asset Resilience
 _Swindon - UK  (Jul 2017 - Jun 2018)_
 
 Drove asset efficiency for the utilities industry through data science projects, turning raw data into actionable business intelligence, while actively developing junior scientists and engineers.
@@ -32,7 +32,7 @@ Drove asset efficiency for the utilities industry through data science projects,
 - Played active commercial role in pre-sales engagement processes and proposal writing
 
 
-__New Energies Researcher | University of Bath__ School of Management,
+__New Energies Researcher__ | University of Bath School of Management
 _Bath - UK (Feb 2017 - Aug 2018)_
 
 My research extends the risk-return relationship, from the portfolio optimisation theory, for energy demand aggregation based on time-series forecasting.
@@ -41,7 +41,7 @@ My research extends the risk-return relationship, from the portfolio optimisatio
 - Presented and participated in several forecasting forums and UK power industry conferences.
 
 
-__Production & Reservoir Engineer | Petrobras__ Ultra-Deep Waters,
+__Production & Reservoir Engineer__ | Petrobras E&P Ultra-Deep Waters
 _Rio de Janeiro - Brazil (Apr 2014 - Dec 2016)_
 
 Performed reservoir engineering, production forecast and optimisation roles for Petrobras' pre-salt portfolio, collaborating with stakeholders such as project managers, executives and the regulatory agency.
@@ -52,7 +52,7 @@ Performed reservoir engineering, production forecast and optimisation roles for 
 - Created a decision support model for evaluating impact of resource allocation changes, and liaised with project managers to deliver the optimal production output for the portfolio
 
 
-__Industrial Engineer | Petrobras__ Refining,
+__Industrial Engineer__ | Petrobras Refining
 _Rio de Janeiro - Brazil (Apr 2009 - Apr 2014)_
 
 Responsible for the corporate supply chain management governance of 12 units across Brazil, and for liaising with asset management teams.
@@ -61,7 +61,7 @@ Responsible for the corporate supply chain management governance of 12 units acr
 - Built a model to assess the gasoline distribution costs between refineries, terminals and Brazilian regions, considering ships, trucks and pipelines
 
 
-__Graduate Consultant for Utilities | SAP__ CRM & Utilities,
+__Graduate Consultant for Utilities__ | SAP CRM & Utilities
 _Sao Paulo - Brazil (Jan 2007 - Oct 2008)_
 
 Evaluated Customer Relationship Management processes adherence in SAP Utilities systems projects (gas and electricity distribution companies).
