@@ -12,8 +12,7 @@ _The Hague - NL (Mar 2020 - Present)_
 
 Currently coordinating a team of 7 analysts and data scientists (as of Jan/2020), delivering petroleum analytics projects for exploration, new business development, subsurface and wells.
 
-__Analytics Petroleum Engineer | Shell__ E&P Information Data & Analytics,
-_The Hague - NL (Sep 2018 - Feb 2020)_
+__Analytics Petroleum Engineer__ | Shell E&P Information Data & Analytics _The Hague - NL (Sep 2018 - Feb 2020)_
 
 I am the E&P Information Data and Analytics' focal point for wells, reservoir and facilities management, delivering data science and operational research projects for deep water and unconventional oil fields.
 
