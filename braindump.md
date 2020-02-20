@@ -2,7 +2,7 @@ Text for linkedin
 
 I am a petroleum engineer specialised in computational sciences for building and translating analytics into engineering language. I coordinate a team of 7 analysts and data scientists, delivering petroleum analytics projects for exploration, new business development, subsurface and wells.
 
-I've been in the Oil & Energy industry for 12 years and am passionate about capturing in-depth commercial awareness across E&P, refining, utilities and new energies. My engineering background is supported by further academic education in operational research and management sciences.
+I've been in the Oil & Energy industry for 12 years and am passionate about capturing in-depth commercial opportunities across E&P, refining, utilities and new energies. My engineering background is supported by further academic education in operational research and management sciences.
 
 Out of the office I enjoy spending time with my family, powerlifting, trekking and cycling.
 
