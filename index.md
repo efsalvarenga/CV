@@ -7,7 +7,7 @@
 
 ## [Professional Experience](https://www.linkedin.com/in/efs-alvarenga/)
 
-__Analytics Lead__ | Shell E&P Information Data & Analytics
+__Analytics Team Lead__ | Shell E&P Information Data & Analytics
 _The Hague - NL (Mar 2020 - Present)_
 
 Currently coordinating a team of 7 analysts and data scientists, delivering petroleum analytics projects for exploration, new business development, subsurface and wells.
