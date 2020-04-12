@@ -1,35 +1,40 @@
-- 12 years' experience and passionate about Oil & Energy, capturing in-depth commercial awareness across E&P, refining, utilities and new energies
+- 13 years' experience and passionate about technology, capturing in-depth technical awareness across industries such as oil & gas, utilities and new energies
 - Skilful in slicing and dicing complex problems into manageable sub-components
 - My engineering background is supported by further academic education in operational research and management sciences
-- Curious with current petroleum data science tools, up-to-date through SPE, academic, industry papers and self-development
+- Curious with current data science tools, up-to-date through academic engagements, papers and self-development
 - Out of the office I enjoy spending time with my family, powerlifting, trekking and cycling
 
 
 ## [Professional Experience](https://www.linkedin.com/in/efs-alvarenga/)
 
 __Analytics Team Lead__ | Shell E&P Information Data & Analytics
-_The Hague - NL (Feb 2020 - Present)_
+_The Hague - NL (Mar 2020 - Present)_
 
-Currently coordinating a team of 7 analysts and data scientists, delivering petroleum analytics projects for exploration, new business development, subsurface and wells.
+Currently coordinating a team of 7 analysts and data scientists, delivering analytics and operational research projects for exploration, new business development, subsurface and wells.
+- Facilitate industry and academia engagements in a technical level, supporting innovative technology adoption for the upstream business
+- Responsible for the global delivery of a multi-disciplinary analytics portfolio of $60m in Oceania, Europe and Americas
+- Designed and implementing a residency programme for technical engineers to upskill their digital capabilities through hands-on delivery within my team
+
 
 __Analytics Petroleum Engineer__ | Shell E&P Information Data & Analytics
 _The Hague - NL (Sep 2018 - Feb 2020)_
 
-I was the E&P IDA' focal point for wells, reservoir and facilities management, delivering data science and operational research projects for deep water and unconventional oil fields.
+I was the team's focal point for wells, reservoir and facilities management, delivering data science and operational research projects for deep water and unconventional oil fields.
 Responsible for the team's technical leadership and for maintaining a healthy funnel of work, I have brought in $56m worth of new projects in 2019.
-- Delivered 2019's #1 & #2 projects for Unconventionals Technology, with combined estimated NPV of $24m: the Early Productivity Index Calculator (EPIC) and Production Optimisation & Surveillance Tool (POST)
+- Delivered 2019's #1 & #2 projects for Unconventionals Technology, with combined estimated NPV of $24m, through scientific programming and machine learning
 - Conceived and currently delivering the Brazil Advanced Data Analytics (BRADA) programme in areas such as reservoir engineering, production allocation and wells integrity surveillance, with an estimated NPV of $20m
-- Leveraged the [collaboration between different teams](https://headlinesuk.foleon.com/shell-ai/shellai2019report/upstream-analytics/) within Shell, such as asset teams, PTX, PTD, PTW, and IT; and external research resources
-- Projects where I led the digital workstream were nominated for 5 awards - EPIC was shortlisted for the Global Development Awards and later won the PTX/E VP award in the second half of 2019
+- Leveraged the collaboration between different global teams within Shell (assets, projects, technology, development and IT) and external research resources
+- Projects where I led the digital workstream were nominated for 5 awards, and won a VP award in the second half of 2019
 
 
 __Senior Data Scientist__ | WRc plc Asset Resilience
 _Swindon - UK  (Jul 2017 - Jun 2018)_
 
 Drove asset efficiency for the utilities industry through data science projects, turning raw data into actionable business intelligence, while actively developing junior scientists and engineers.
-- Delivered predictive models (using machine learning) for 5 industry projects through R and H2O.ai
+- Delivered predictive models using machine learning for 5 industry projects through R and H2O.ai
 - Co-developed a bespoke statistics platform to be commercialised as a service using Shiny
 - Played active commercial role in pre-sales engagement processes and proposal writing
+- Leaded data analytics training cohorts for UK's Environment Agency, water companies and DNV GL
 
 
 __New Energies Researcher__ | University of Bath School of Management
@@ -48,7 +53,7 @@ Performed reservoir engineering, production forecast and optimisation roles for 
 - Delivered Lula's 2016 reserves estimation to the U.S. Securities and Exchange Commission and Brazilian regulatory agency
 - Maintained the latest estimate process for seven FPSOs, and over 30 wells, constrained by a shared gas pipeline network
 - Created a framework for data pre-processing, integration and communication of project premises such as operational schedule of wells, maintenance program and asset availability
-- Coordinated a team of three engineers responsible for the resource optimisation of submarine equipment and vessels for 15 FPSOs, presenting the allocation proposal to the executive decision board
+- Coordinated a team of three engineers responsible for the resource optimisation of submarine equipment and vessels for 15 production facilities, presenting the allocation proposal to the executive decision board
 - Created a decision support model for evaluating impact of resource allocation changes, and liaised with project managers to deliver the optimal production output for the portfolio
 
 
