@@ -1,4 +1,4 @@
-- 13 years' experience and passionate about technology, capturing in-depth technical awareness across industries such as oil & gas, utilities and new energies
+- 13 years' experience and passionate about technology, capturing in-depth technical value across industries such as oil & gas, utilities and new energies
 - Skilful in slicing and dicing complex problems into manageable sub-components
 - My engineering background is supported by further academic education in operational research and management sciences
 - Curious with current data science tools, up-to-date through academic engagements, papers and self-development
