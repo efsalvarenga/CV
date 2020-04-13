@@ -1,4 +1,9 @@
-- 13 years' experience and passionate about technology, capturing in-depth technical value across industries such as oil & gas, utilities and new energies
+Estevao Alvarenga CEng
+====
+__Operational Research Engineer__
+
+
+- 13 years' experience and passionate about technology, having captured in-depth value in technical industries such as oil & gas, utilities and new energies
 - Skilful in slicing and dicing complex problems into manageable sub-components
 - My engineering background is supported by further academic education in operational research and management sciences
 - Curious with current data science tools, up-to-date through academic engagements, papers and self-development
@@ -7,7 +12,7 @@
 
 ## [Professional Experience](https://www.linkedin.com/in/efs-alvarenga/)
 
-__Analytics Team Lead__ | Shell E&P Information Data & Analytics
+__Analytics Coordinator__ | Shell E&P Information Data & Analytics
 _The Hague - NL (Mar 2020 - Present)_
 
 Currently coordinating a team of 7 analysts and data scientists, delivering analytics and operational research projects for exploration, new business development, subsurface and wells.
