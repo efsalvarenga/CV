@@ -105,7 +105,6 @@ Basic engineering, business analysis, production methods, operational research a
 - **European Journal of Operational Research** Data envelopment analysis (DEA) peer reviewer
 - **Kumon Uberaba** Advise and support young children learning advanced mathematics
 
-
 ### Languages
 - **English** Fluent (IELTS Academic Test score: 8/9)
 - **Portuguese** Native language
