@@ -13,6 +13,7 @@ _The Hague - NL (Mar 2020 - Present)_
 Currently coordinating a team of 7 analysts and data scientists, delivering petroleum analytics projects for exploration, new business development, subsurface and wells.
 - Designed the Information Risk strategy based on our different service offerings
 - Maturing the team to follow software engineering frameworks
+- Member of the citizen developer community for subsurface, wells and new business development
 
 __Analytics Petroleum Engineer__ | Shell E&P Information Data & Analytics
 _The Hague - NL (Sep 2018 - Feb 2020)_
