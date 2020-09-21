@@ -1,5 +1,5 @@
 - 12 years' experience and passionate about Oil & Energy, capturing in-depth commercial awareness across E&P, refining, utilities and new energies
-- Skilful in slicing and dicing complex problems into manageable sub-components
+- Skillful in slicing and dicing complex problems into manageable sub-components
 - My engineering background is supported by further academic education in operational research and management sciences
 - Curious with current petroleum data science tools, up-to-date through SPE, academic, industry papers and self-development
 - Out of the office I enjoy spending time with my family, powerlifting, trekking and cycling
@@ -12,8 +12,9 @@ _The Hague - NL (Mar 2020 - Present)_
 
 Currently coordinating a team of 7 analysts and data scientists, delivering petroleum analytics projects for exploration, new business development, subsurface and wells.
 - Designed the Information Risk strategy based on our different service offerings
-- Maturing the team to follow software engineering frameworks
-- Member of the citizen developer community for subsurface, wells and new business development
+- Maturing the team to follow software engineering framework
+- Committee member for the citizen developer network for OneDevelopment, activity that got me nominated in the “Leading by Example” category of the Shell.ai Awards 2020
+- Nominated
 
 __Analytics Petroleum Engineer__ | Shell E&P Information Data & Analytics
 _The Hague - NL (Sep 2018 - Feb 2020)_
@@ -24,6 +25,8 @@ Responsible for the team's technical leadership and for maintaining a healthy fu
 - Conceived and currently delivering the Brazil Advanced Data Analytics (BRADA) programme in areas such as reservoir engineering, production allocation and wells integrity surveillance, with an estimated NPV of $20m
 - Leveraged the [collaboration between different teams](https://headlinesuk.foleon.com/shell-ai/shellai2019report/upstream-analytics/) within Shell, such as asset teams, PTX, PTD, PTW, and IT; and external research resources
 - Projects where I led the digital workstream were nominated for 5 awards - EPIC was shortlisted for the Global Development Awards and later won the PTX/E VP award in the second half of 2019
+- Recognised with a Special Recognition Award (SRA) for the year 2019
+- IPF 2019 - Higher; 2018 - 0.9 (new joiner)
 
 
 __Senior Data Scientist__ | WRc plc Asset Resilience
