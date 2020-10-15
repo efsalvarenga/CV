@@ -10,11 +10,11 @@
 __Analytics Team Lead__ | Shell E&P Information Data & Analytics
 _The Hague - NL (Mar 2020 - Present)_
 
-Currently coordinating a team of 7 analysts and data scientists, delivering petroleum analytics projects for exploration, new business development, subsurface and wells.
+Currently coordinating a team of 10 analysts and data scientists, delivering petroleum analytics projects for exploration, new business development, subsurface and wells.
 - Designed the Information Risk strategy based on our different service offerings
-- Maturing the team to follow software engineering framework
-- Committee member for the citizen developer network for OneDevelopment, activity that got me nominated in the “Leading by Example” category of the Shell.ai Awards 2020
-- Nominated
+- Technically leading the team from PoCs towards mature analytics and data science products delivering value to the business
+- Committee member for the citizen developer network for OneDevelopment, supporting business approaching digitalisation with a do it yourself attitude
+- Team was awarded 3 (out of 9) Shell.ai awards against hundreds of competitor projects and individuals
 
 __Analytics Petroleum Engineer__ | Shell E&P Information Data & Analytics
 _The Hague - NL (Sep 2018 - Feb 2020)_
