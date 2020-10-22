@@ -18,7 +18,7 @@ Our current strategy focus on maturing proof of concepts into analytics and data
 - Committee member for the citizen developer network for OneDevelopment: responsible for the cross-discipline workstream and supporting business colleagues digitalise their activities with a _do it yourself_ attitude
 - The team under my technical leadership was awarded 3 (out of 9) Shell.ai awards against hundreds of competitor projects and individuals:
   - [Z.M. won the individual category _Rising Star in AI_](https://www.linkedin.com/posts/yurisebregts_to-transition-to-a-low-carbon-energy-future-activity-6722916788344111104-0edp/)
-  - [Text analytics application was awarded the 1st place in the category _Platform Champion_]()
+  - Text analytics application was awarded in the category _Platform Champion_
   - [AutoSum team, of which I am part of, earned the _Code Master_ award](https://www.linkedin.com/posts/alisa-cl-choong-73915489_improving-business-decisions-and-accelerating-activity-6724646702415921152-QhA0/)
 
 
