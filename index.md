@@ -1,4 +1,4 @@
-- 14 years' experience and passionate about complex industries, capturing in-depth commercial awareness across E\&P, refining, transportation, utilities and new energies
+- 14 years' experience and passionate about complex industries, capturing in-depth commercial awareness across E&P, refining, transportation, utilities and new energies
 - Skillful in slicing and dicing complex problems into manageable sub-components
 - My engineering background is supported by further academic education in operational research and management sciences
 - Curious with technology, up-to-date through technical societies, academic, industry papers and self-development
