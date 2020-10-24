@@ -12,7 +12,7 @@ _The Hague - NL (Mar 2020 - Present)_
 
 Currently overseeing a team of 10 analysts and data scientists, developing analytics projects for exploration, new business development, subsurface and wells.
 Our current strategy focus on maturing proof of concepts into analytics and data science products.
-- Technical advisor and steering committee member for two Shell R&D contracts:
+- Technical advisor and steering committee member with focus on early productisation for two Shell R&D contracts:
   - Machine Learning for Complex Production Data with [UNICAMP's Institute of Computing](https://ic.unicamp.br/en/)
   - Applied Mulfi-Fidelity Modelling with [UNICAMP's Center for Petroleum Studies](http://www.cepetro.unicamp.br/english/history_CEPETRO.html)
 - Committee member for the citizen developer network for OneDevelopment: responsible for the cross-discipline workstream and supporting business colleagues digitalise their activities with a _do it yourself_ attitude
