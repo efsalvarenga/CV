@@ -4,8 +4,10 @@
 - Curious with technology, up-to-date through technical societies, academic, industry papers and self-development
 - Out of the office I enjoy spending time with my family, power-lifting, trekking and cycling
 
+> Find me on [LinkedIn](https://www.linkedin.com/in/efs-alvarenga/) or contact me on [e-mail](estevao.alvarenga@gmail.com).
 
-## [Professional Experience](https://www.linkedin.com/in/efs-alvarenga/)
+
+## Professional Experience
 
 __Analytics Analyst - Technical Leader__ | Shell Information Data & Analytics
 _The Hague - NL (Mar 2020 - Present)_
@@ -115,7 +117,7 @@ Basic engineering, business analysis, production methods, operational research a
 - **Spanish** Basic proficiency
 
 ### Publications
-- **2018** Soft systems methodology applied to oil refineries inventory process (in Portuguese) In: Estellita Lins *et al*. Complex problem structuring: embedding concept maps to decision support models. 1st Ed. Interciencia. 14th chapter.
+- **2018** Soft systems methodology applied to oil refineries inventory process (in Portuguese) In: Estellita Lins *et al*. Complex problem structuring: embedding concept maps to decision support models. 1st. Ed. Interciencia. 14th chapter. [Link to publishing company](https://www.editorainterciencia.com.br/index.asp?pg=prodDetalhado.asp&idprod=484&token=).
 - **2018** Predictive modelling of water losses using random forests on weather covariates, *WST Water Science and Technology* [DOI:10.2166/ws.2018.044](http://ws.iwaponline.com/content/early/2018/03/16/ws.2018.044)
 - **2016** Selection of corporate spare parts inventory for Brazilian refineries: a smoothed data envelopment analysis frontier function, *JORS Journal of the Operational Research Society* [DOI:10.1057/jors.2016.44](https://www.tandfonline.com/doi/abs/10.1057/jors.2016.44?journalCode=tjor20)
 - **2013** Optimisation of gasoline distribution costs across Brazilian refineries, terminals and demand regions (in Portuguese), *Brazilian Operational Research Symposium*  [XLV SBPO conference proceedings](http://www.din.uem.br/~ademir/sbpo/sbpo2013/pdf/arq0181.pdf)
