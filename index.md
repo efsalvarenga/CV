@@ -1,7 +1,7 @@
-- 14 years' experience and passionate about complex industries, capturing in-depth commercial awareness across E&P, refining, transportation, utilities and new energies
-- Skillful in slicing and dicing complex problems into manageable sub-components
+- 14 years' experience and passionate about technology, capturing in-depth commercial awareness for technical industries such as oil & gas, utilities and new energies
+- Skilful in slicing and dicing complex problems into manageable sub-components
 - My engineering background is supported by further academic education in operational research and management sciences
-- Curious with technology, up-to-date through technical societies, academic, industry papers and self-development
+- Curious with current research, up-to-date through technical societies, academic publications, industry papers and self-development
 - Out of the office I enjoy spending time with my family, power-lifting, trekking and cycling
 
 > Find me on [LinkedIn](https://www.linkedin.com/in/efs-alvarenga/) or contact me on [e-mail](estevao.alvarenga@gmail.com).
@@ -14,7 +14,8 @@ _The Hague - NL (Mar 2020 - Present)_
 
 Currently overseeing a team of 10 analysts and data scientists, developing analytics projects for exploration, new business development, subsurface and wells.
 Our current strategy focus on maturing proof of concepts into analytics and data science products.
-- Technical advisor and steering committee member with focus on early productisation for two Shell R&D contracts:
+- Responsible for the global delivery of a multi-disciplinary analytics portfolio of $60m in Oceania, Europe and Americas
+- Technical advisor and steering committee member with focus on early productisation for two Shell R&D contracts. I am responsible for facilitating industry and academia engagements in a technical level, supporting innovative technology adoption:
   - Machine Learning for Complex Production Data with [UNICAMP's Institute of Computing](https://ic.unicamp.br/en/)
   - Applied Mulfi-Fidelity Modelling with [UNICAMP's Center for Petroleum Studies](http://www.cepetro.unicamp.br/english/history_CEPETRO.html)
 - Committee member for the citizen developer network for OneDevelopment: responsible for the cross-discipline workstream and supporting business colleagues digitalise their activities with a _do it yourself_ attitude
