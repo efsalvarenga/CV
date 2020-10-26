@@ -4,7 +4,7 @@
 - Curious with current research, up-to-date through technical societies, academic publications, industry papers and self-development
 - Out of the office I enjoy spending time with my family, power-lifting, trekking and cycling
 
-> Find me on [LinkedIn](https://www.linkedin.com/in/efs-alvarenga/) or contact me on [e-mail](estevao.alvarenga@gmail.com).
+> Find me on [LinkedIn](https://www.linkedin.com/in/efs-alvarenga/) or contact me on [estevao.alvarenga@gmail.com](estevao.alvarenga@gmail.com).
 
 
 ## Professional Experience
