@@ -1,7 +1,7 @@
 - 14 years' experience and passionate about technology, capturing in-depth commercial awareness for technical industries such as oil & gas, utilities and new energies
 - Skilful in slicing and dicing complex problems into manageable sub-components
 - My engineering background is supported by further academic education in operational research and management sciences
-- Curious with current research, up-to-date through technical societies, academic publications, industry papers and self-development
+- Curious with current research, up-to-date through academic papers, industry journals and self-development
 - Out of the office I enjoy spending time with my family, power-lifting, trekking and cycling
 
 > Find me on [LinkedIn](https://www.linkedin.com/in/efs-alvarenga/) or contact me on [estevao.alvarenga@gmail.com](estevao.alvarenga@gmail.com).
@@ -29,10 +29,8 @@ __Analytics Analyst - Petroleum Engineering__ | Shell Information Data & Analyti
 _The Hague - NL (Sep 2018 - Feb 2020)_
 
 I was the team focal point for wells, reservoir and facilities management, delivering data science and operational research projects for deep water and unconventional oil fields.
-Responsible for the team's technical leadership and for maintaining a healthy funnel of work, I have brought in $56m worth of new projects in 2019.
-- Delivered 2019's #1 & #2 projects for Unconventionals Technology, with combined estimated NPV of $24m: the Early Productivity Index Calculator (EPIC) and Production Optimisation & Surveillance Tool (POST)
-  - These tools productised scientific programming approaches for early assessment of well productivity, driven by new technology conceived by academia and industry research
-  - By the end of the year I had upskilled and handed over the project to a junior analyst, while maintaining a technical advisory role.
+Responsible for the team's technical leadership and for a large refocus effort toward high business value projects, I have brought in $56m worth of new projects in 2019.
+- Delivered 2019's #1 & #2 projects for Unconventionals Technology, with combined estimated NPV of $24m: the Early Productivity Index Calculator (EPIC) and Production Optimisation & Surveillance Tool (POST). With these tools a junior analyst and I productised scientific programming approaches for early assessment of well productivity, driven by new technology conceived by academia and industry research
 - Conceived and delivered the Brazil Advanced Data Analytics (BRADA) programme in areas such as reservoir engineering, wells integrity surveillance and contracts / procurement, with an estimated NPV of $20m
 - Leveraged the [collaboration between different teams](https://headlinesuk.foleon.com/shell-ai/shellai2019report/upstream-analytics/) within Shell, such as asset teams, technology, development, IT and external research institutes
 - Projects where I led the digital workstream were nominated for 5 awards - EPIC was shortlisted for the Global Development Awards and later won the PTX/E VP award in the second half of 2019
@@ -62,7 +60,7 @@ _Rio de Janeiro - Brazil (Apr 2014 - Dec 2016)_
 
 Performed reservoir engineering, production forecast and optimisation roles for Petrobras' pre-salt portfolio, collaborating with stakeholders such as project managers, executives and the regulatory agency.
 - Delivered Lula's 2016 reserves estimation to the U.S. Securities and Exchange Commission and Brazilian regulatory agency
-- Maintained the latest estimate process for seven FPSOs, and over 30 wells, constrained by a shared gas pipeline network
+- Productised the latest estimate process for seven FPSOs, and over 30 wells, constrained by a shared gas pipeline network
 - Created a framework for data pre-processing, integration and communication of project premises such as operational schedule of wells, maintenance program and asset availability
 - Coordinated a team of three engineers responsible for the resource optimisation of submarine equipment and vessels for 15 FPSOs, presenting the allocation proposal to the executive decision board
 - Created a decision support model for evaluating impact of resource allocation changes, and liaised with project managers to deliver the optimal production output for the portfolio
@@ -73,8 +71,10 @@ _Rio de Janeiro - Brazil (Apr 2009 - Apr 2014)_
 
 Responsible for the corporate supply chain management governance of 12 units across Brazil, and for liaising with asset management teams.
 - Optimised spare parts' inventory, looking at the failure history of assets, production security, material costs and logistics, through survival analysis modelling and Monte Carlo simulation
+- Designed and implemented the national standard operating procedure for refineries' turnaround supply planning, minimising material waste and systematising cutoff dates for equipment and spares procurement
 - Developed and implemented a shared inventory model for high-cost, low-demand spare-parts, which enabled inventory optimisation and allowed savings of $1.2m in inventory value
 - Built a model to assess the gasoline distribution costs between refineries, terminals and Brazilian regions, considering ships, trucks and pipelines
+- Defined standardised technical specification for warehouse service procurement and contract monitoring
 
 
 __Graduate Consultant for Utilities__ | SAP CRM & Utilities
