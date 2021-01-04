@@ -1,10 +1,8 @@
-- 14 years' experience and passionate about technology, capturing in-depth commercial awareness for technical industries such as oil & gas, utilities and new energies
+- 14 years' experience and passionate about Oil & Energy, capturing in-depth commercial awareness across E&P, refining, utilities and new energies
 - Skillful in slicing and dicing complex problems into manageable sub-components
 - My engineering background is supported by further academic education in operational research and management sciences
 - Curious with current research, up-to-date through academic papers, industry journals and self-development
 - Out of the office I enjoy spending time with my family, power-lifting, trekking and cycling
-
-> Find me on [LinkedIn](https://www.linkedin.com/in/efs-alvarenga/) or contact me on [estevao.alvarenga@gmail.com](estevao.alvarenga@gmail.com).
 
 
 ## Professional Experience
@@ -25,7 +23,7 @@ Our current strategy focus on maturing proof of concepts into analytics and data
   - AutoSum team, of which I am part of, [earned the _Code Master_ award](https://www.linkedin.com/posts/alisa-cl-choong-73915489_improving-business-decisions-and-accelerating-activity-6724646702415921152-QhA0/) for building a tool for surrogate modelling and uncertainty quantification
 
 
-__Analytics Analyst - Petroleum Engineering__ | Shell Information Data & Analytics
+__Analytics Analyst - WRFM__ | Shell Information Data & Analytics
 _The Hague - NL (Sep 2018 - Feb 2020)_
 
 I was the team focal point for wells, reservoir and facilities management, delivering data science and operational research projects for deep water and unconventional oil fields.
