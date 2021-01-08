@@ -13,14 +13,16 @@ _The Hague - NL (Mar 2020 - Present)_
 Currently overseeing a team of 6 analysts and data scientists, developing analytics projects for exploration, new business development, subsurface and wells.
 Our current strategy focus on maturing proof of concepts into analytics and data science products.
 - Responsible for the global delivery of a multi-disciplinary analytics portfolio of $60m in Oceania, Europe and Americas
+- Committee member for the citizen developer network for OneDevelopment: responsible for the cross-discipline workstream and supporting business colleagues digitalise their activities with a _do it yourself_ attitude
+- Advisor member of the Ballobot project, which won the Shell.ai _Platform Champion_ award
 - Technical advisor and steering committee member with focus on early productisation for two Shell R&D contracts. I am responsible for facilitating industry and academia engagements in a technical level, supporting innovative technology adoption:
   - Machine Learning for Complex Production Data with [UNICAMP's Institute of Computing](https://ic.unicamp.br/en/)
   - Applied Multi-Fidelity Modelling with [UNICAMP's Center for Petroleum Studies](http://www.cepetro.unicamp.br/english/history_CEPETRO.html)
-- Committee member for the citizen developer network for OneDevelopment: responsible for the cross-discipline workstream and supporting business colleagues digitalise their activities with a _do it yourself_ attitude
-- The team under my technical leadership was awarded 3 (out of 9) Shell.ai awards against hundreds of competitor projects and individuals:
-  - [Z.M. won the individual category _Rising Star in AI_](https://www.linkedin.com/posts/yurisebregts_to-transition-to-a-low-carbon-energy-future-activity-6722916788344111104-0edp/)
-  - Text analytics application was awarded in the category _Platform Champion_
-  - AutoSum team, of which I am part of, [earned the _Code Master_ award](https://www.linkedin.com/posts/alisa-cl-choong-73915489_improving-business-decisions-and-accelerating-activity-6724646702415921152-QhA0/) for building a tool for surrogate modelling and uncertainty quantification
+
+Contributing with deliveries myself in the space of analytics and data science applied to sub-surface and WRFM solutions:
+- Member of the AutoSum team, focused on building the web application through R Shiny. The team [earned the _Code Master_ award](https://www.linkedin.com/posts/alisa-cl-choong-73915489_improving-business-decisions-and-accelerating-activity-6724646702415921152-QhA0/)
+- Conceived and delivered the data augmentation tool for Brazilian gas export system (SIE), which connects 20 FPSOs and has a capacity of 40mln cubic meters of gas.
+- Supported BC-10 waterflood optimisation project, integrating traditional reservoir engineering approaches to analytics and computational mathematics
 
 
 __Analytics Analyst - WRFM__ | Shell Information Data & Analytics
