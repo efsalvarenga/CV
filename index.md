@@ -18,11 +18,9 @@ Our current strategy focus on maturing proof of concepts into analytics and data
 - Technical advisor and steering committee member with focus on early productisation for two Shell R&D contracts. I am responsible for facilitating industry and academia engagements in a technical level, supporting innovative technology adoption:
   - Machine Learning for Complex Production Data with [UNICAMP's Institute of Computing](https://ic.unicamp.br/en/)
   - Applied Multi-Fidelity Modelling with [UNICAMP's Center for Petroleum Studies](http://www.cepetro.unicamp.br/english/history_CEPETRO.html)
-
-Contributing with deliveries myself in the space of analytics and data science applied to sub-surface and WRFM solutions:
 - Member of the AutoSum team, focused on building the web application through R Shiny. The team [earned the _Code Master_ award](https://www.linkedin.com/posts/alisa-cl-choong-73915489_improving-business-decisions-and-accelerating-activity-6724646702415921152-QhA0/)
 - Conceived and delivered the data augmentation tool for Brazilian gas export system (SIE), which connects 20 FPSOs and has a capacity of 40mln cubic meters of gas.
-- Supported BC-10 waterflood optimisation project, integrating traditional reservoir engineering approaches to analytics and computational mathematics
+- Supported BC-10 waterflood optimisation project, integrating traditional reservoir engineering approaches with analytics and computational mathematics
 
 
 __Analytics Analyst - WRFM__ | Shell Information Data & Analytics
@@ -31,7 +29,7 @@ _The Hague - NL (Sep 2018 - Feb 2020)_
 I was the team focal point for wells, reservoir and facilities management, delivering data science and operational research projects for deep water and unconventional oil fields.
 Responsible for the team's technical refocus effort toward high business value projects, I have brought in $56m worth of new projects in 2019.
 - Delivered 2019's #1 & #2 projects for Unconventionals Technology, with combined estimated NPV of $24m: the Early Productivity Index Calculator (EPIC) and Production Optimisation & Surveillance Tool (POST). With these tools a junior analyst and I productised scientific programming approaches for early assessment of well productivity, driven by new technology conceived by academia and industry research
-- Conceived and delivered the Brazil Advanced Data Analytics (BRADA) programme in areas such as reservoir engineering, wells integrity surveillance and contracts / procurement, with an estimated NPV of $20m
+- Conceived and delivered the Brazil Advanced Data Analytics (BRADA) programme in areas such as reservoir engineering, wells integrity surveillance and contracts & procurement, with an estimated NPV of $20m
 - Leveraged the [collaboration between different teams](https://headlinesuk.foleon.com/shell-ai/shellai2019report/upstream-analytics/) within Shell, such as asset teams, technology, development, IT and external research institutes
 - Projects where I led the digital workstream were nominated for 5 awards - EPIC was shortlisted for the Global Development Awards and later won the PTX/E VP award in the second half of 2019
 - Recognised with a Special Recognition Award for the year 2019
