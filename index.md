@@ -1,5 +1,3 @@
-- 14 years' experience and passionate about Oil & Energy, capturing in-depth commercial awareness across E&P, refining, utilities and new energies
-- Skillful in slicing and dicing complex problems into manageable sub-components
 # Estevao Alvarenga CEng
 ## Operational Research Industrial Engineer
 
