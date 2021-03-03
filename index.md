@@ -1,9 +1,10 @@
 # Estevao Alvarenga CEng
-## Operational Research Industrial Engineer
 
+#### **Operational Research Industrial Engineer**
 - 14 years' experience and passionate about the Oil & Energy's industrial landscape, capturing commercial value across E&P, refining, utilities and new energies.
 - Skillful in slicing and dicing complex problems into manageable sub-components.
 - Member of Shell ambassadors' group.
+- Out of the office I enjoy spending time with my family, power-lifting, trekking and cycling.
 
 
 ## Professional Experience
@@ -12,7 +13,7 @@ __Advanced Analytics - Technical Leader__ | Shell Information Data & Analytics
 _The Hague - NL (Mar 2020 - Present)_
 
 Currently overseeing a team of 6 analysts and data scientists, developing advanced analytics projects for exploration, new business development, subsurface and wells.
-Our current strategy focus on maturing proof of concepts into analytics and data science products.
+Our current strategy focuses on maturing proof of concepts into analytics and data science products, with appropriate governance and security.
 - Responsible for the global delivery of a multi-disciplinary analytics portfolio of $60m in Oceania, Europe and Americas.
 - Technical advisor and steering committee member with focus on early productisation for two Shell R&D contracts. I am responsible for facilitating industry and academia engagements in a technical level, supporting innovative technology adoption:
   - Machine Learning for Complex Production Data with [UNICAMP's Institute of Computing](https://ic.unicamp.br/en/)
@@ -62,6 +63,7 @@ __Industrial Engineer__ | Petrobras Refining
 _Rio de Janeiro - Brazil (Apr 2009 - Apr 2014)_
 
 Responsible for the corporate supply chain management governance of 12 units across Brazil, and for liaising with asset management teams.
+- Defined standardised technical specification and supported the negotiation of warehouse services contracting and procurement, centralising contract management activities.
 - Optimised spare parts' inventory, looking at the failure history of assets, production security, material costs and logistics, through survival analysis modelling and Monte Carlo simulation.
 - Designed and implemented the national standard operating procedure for refineries' turnaround supply planning, minimising material waste and systematising cutoff dates for equipment and spares procurement.
 
