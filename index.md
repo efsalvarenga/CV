@@ -18,7 +18,7 @@ Our current strategy focuses on maturing proof of concepts into analytics and da
 - Technical advisor and steering committee member with focus on **early productisation** for two Shell R&D contracts. I am responsible for facilitating industry and academia engagements in a technical level, supporting innovative technology adoption:
   - Machine Learning for Complex Production Data with [UNICAMP's Institute of Computing](https://ic.unicamp.br/en/)
   - Applied Multi-Fidelity Modelling with [UNICAMP's Center for Petroleum Studies](http://www.cepetro.unicamp.br/english/history_CEPETRO.html)
-- Member of the AutoSum team, focused on **building an innovative surrogate modelling [web application](https://rconnect.selfservice.shell.ai/AutoSum/)**. The team [earned the Shell.ai _Code Master_ award](https://www.linkedin.com/posts/alisa-cl-choong-73915489_improving-business-decisions-and-accelerating-activity-6724646702415921152-QhA0/)
+- Member of the AutoSum team, focused on **building an innovative surrogate modelling [web application](https://rconnect.selfservice.shell.ai/AutoSum/)**. The team [earned the Shell.ai _Code Master_ award](https://www.linkedin.com/posts/alisa-cl-choong-73915489_improving-business-decisions-and-accelerating-activity-6724646702415921152-QhA0/).
 - Conceived and delivered the data augmentation tool for Brazilian gas export system - SIE (which connects 20 FPSOs and has a capacity of 40mln cubic meters of gas).
 - Recognised with Performance Shares for the year 2020.
 
