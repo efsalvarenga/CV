@@ -12,13 +12,13 @@
 __Advanced Analytics - Technical Leader__ | Shell Information Data & Analytics
 _The Hague - NL (Mar 2020 - Present)_
 
-Currently overseeing a team of 6 analysts and data scientists, developing advanced analytics projects for exploration, new business development, subsurface and wells.
+Currently leading a team of 6 analysts and data scientists, developing advanced analytics projects for exploration, new business development, subsurface and wells.
 Our current strategy focuses on maturing proof of concepts into analytics and data science products, with appropriate governance and security.
 - Responsible for the global delivery of a multi-disciplinary analytics portfolio of $60m in Oceania, Europe and Americas.
-- Technical advisor and steering committee member with focus on early productisation for two Shell R&D contracts. I am responsible for facilitating industry and academia engagements in a technical level, supporting innovative technology adoption:
+- Technical advisor and steering committee member with focus on **early productisation** for two Shell R&D contracts. I am responsible for facilitating industry and academia engagements in a technical level, supporting innovative technology adoption:
   - Machine Learning for Complex Production Data with [UNICAMP's Institute of Computing](https://ic.unicamp.br/en/)
   - Applied Multi-Fidelity Modelling with [UNICAMP's Center for Petroleum Studies](http://www.cepetro.unicamp.br/english/history_CEPETRO.html)
-- Member of the AutoSum team, focused on building a surrogate modelling web application through R Shiny. The team [earned the Shell.ai _Code Master_ award](https://www.linkedin.com/posts/alisa-cl-choong-73915489_improving-business-decisions-and-accelerating-activity-6724646702415921152-QhA0/)
+- Member of the AutoSum team, focused on **building an innovative surrogate modelling [web application](https://rconnect.selfservice.shell.ai/AutoSum/)**. The team [earned the Shell.ai _Code Master_ award](https://www.linkedin.com/posts/alisa-cl-choong-73915489_improving-business-decisions-and-accelerating-activity-6724646702415921152-QhA0/)
 - Conceived and delivered the data augmentation tool for Brazilian gas export system - SIE (which connects 20 FPSOs and has a capacity of 40mln cubic meters of gas).
 - Recognised with Performance Shares for the year 2020.
 
@@ -29,9 +29,9 @@ _The Hague - NL (Sep 2018 - Feb 2020)_
 I was the team focal point for wells, reservoir and facilities management (WRFM), delivering data science and operational research projects for deep water and unconventional oil fields.
 Responsible for the team's systematic refocus toward high business value projects, coaching team members in principles such as detailed scoping, valuation and prioritisation frameworks.
 I have brought in $56m worth of new projects in 2019.
-- Delivered 2019's #1 & #2 projects for Unconventionals Technology, with combined estimated NPV of $24m: the Early Productivity Index Calculator (EPIC) and Production Optimisation & Surveillance Tool (POST). With these tools we productised scientific programming approaches for early assessment of well productivity, driven by new technology conceived by academia and industry research.
-- Conceived and delivered the [Brazil Advanced Data Analytics (BRADA) programme](https://web.yammer.com/main/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMTA5MjU3ODMzODk4ODAzMiJ9) in areas such as reservoir engineering, wells integrity surveillance and contracts & procurement, with an estimated NPV of $100m+.
-- Leveraged the [collaboration between different teams](https://headlinesuk.foleon.com/shell-ai/shellai2019report/upstream-analytics/) within Shell, such as asset teams, technology, development, IT and external research institutes.
+- Delivered **2019's #1 & #2 technologies for Unconventionals**, with combined estimated NPV of $24m: the Early Productivity Index Calculator (EPIC) and Production Optimisation & Surveillance Tool (POST). With these tools we productised scientific programming approaches for early assessment of well productivity, driven by new technology conceived by academia and industry research.
+- **Conceived and delivered the [Brazil Advanced Data Analytics (BRADA) programme](https://web.yammer.com/main/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMTA5MjU3ODMzODk4ODAzMiJ9)** in areas such as reservoir engineering, wells integrity surveillance and contracts & procurement, with an estimated NPV of $100m+.
+- **Leveraged the [collaboration between different teams](https://headlinesuk.foleon.com/shell-ai/shellai2019report/upstream-analytics/)** within Shell, such as asset teams, technology, development, IT and external research institutes.
 - Projects where I led the digital workstream were nominated for 5 awards - EPIC was shortlisted for the Global Development Awards and later won the PTX/E VP award in the second half of 2019.
 - Recognised with a Special Recognition Award and Performance Shares for the year 2019.
 
@@ -40,8 +40,8 @@ __Senior Data Scientist__ | WRc plc Asset Resilience
 _Swindon - UK  (Jul 2017 - Jun 2018)_
 
 Drove asset efficiency for the utilities industry through data science projects, turning raw data into actionable business intelligence, while actively developing junior scientists and engineers.
-- Co-developed a bespoke statistics platform to be commercialised as a service using Shiny.
-- Played active commercial role in pre-sales engagement processes and proposal writing.
+- Delivered **new business models leveraging the company's internal expertise**: Developed a general statistics platform to be commercialised as a service, and designed the [WRc Academy](https://www.wrcplc.co.uk/wrc-academy) business, a modularised learning service for the water industry.
+- Played active commercial role in pre-sales engagement processes, proposal preparation and customer engagements.
 
 
 __New Energies Researcher__ | University of Bath School of Management
@@ -54,7 +54,7 @@ __Production & Reservoir Engineer__ | Petrobras E&P Ultra-Deep Waters
 _Rio de Janeiro - Brazil (Apr 2014 - Dec 2016)_
 
 Performed reservoir engineering, production forecast and optimisation roles for Petrobras' pre-salt portfolio, collaborating with stakeholders such as project managers, executives and the regulatory agency.
-- Delivered Lula's 2016 reserves estimation to the U.S. Securities and Exchange Commission and Brazilian regulatory agency, which take into account technology maturity, resources uncertainty, supply chain risks and economic evaluation.
+- Delivered Lula's 2016 reserves estimation to the U.S. Securities and Exchange Commission and Brazilian regulatory agency, which take into account **technology maturity, resources uncertainty, supply chain risks and economic evaluation**.
 - Coordinated a team of three engineers responsible for the resource optimisation of submarine equipment and vessels for 15 FPSOs, presenting the allocation proposal to the executive decision board.
 - Created a decision support model for evaluating impact of resource allocation changes, and liaised with project managers to deliver the optimal production output for the portfolio.
 
