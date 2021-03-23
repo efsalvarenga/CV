@@ -14,11 +14,14 @@ _The Hague - NL (Mar 2020 - Present)_
 
 Currently **leading a team of 6 analysts and data scientists**, developing advanced analytics projects for exploration, new business development, subsurface and wells.
 Our current strategy focuses on maturing proof of concepts into analytics and data science products, with appropriate governance and security.
-- Responsible for the global delivery of a multi-disciplinary analytics portfolio of $60m in Oceania, Europe and Americas.
-- Individually I have contributed to the following projects:
-  - AutoSum: building **[cutting edge surrogate modelling applications](https://rconnect.selfservice.shell.ai/AutoSum/)** for uncertainty evaluation, with rNPV at $100m;
-  - SIE Analytics: delivering a data augmentation process and tool for Pre-salt's gas export system (which connects 20 FPSOs and has a capacity of 40mln cubic meters of gas);
-- Technical advisor and steering committee member with focus on **early productisation for two Shell R&D contracts in Brazil**. I am responsible for facilitating industry and academia engagements in a technical level, supporting innovative technology adoption.
+My team is responsible for the global delivery of a multi-disciplinary analytics portfolio in Oceania, Europe and Americas. Projects include:
+  - SIE Analytics data augmentation process and tool for Pre-salt's gas export system (which connects 20 FPSOs and has a capacity of 40mln cubic meters of gas)
+  - JV Auditor, where we automate data pre-processing and visualisation from NOV business, supporting auditing processes
+  - Supporting the AutoSum team: building **[cutting edge surrogate modelling applications](https://rconnect.selfservice.shell.ai/AutoSum/)** for uncertainty evaluation, with rNPV at $100m;
+  - Wells sequencing
+
+  [which other projects? what are their values?]
+
 
 
 __Advanced Analytics Analyst - WRFM__ | Shell Information Data & Analytics
@@ -36,14 +39,15 @@ __Senior Data Scientist__ | WRc plc Asset Resilience
 _Swindon - UK  (Jul 2017 - Jun 2018)_
 
 Drove asset efficiency for the utilities industry through data science projects, turning raw data into actionable business intelligence, while actively developing junior scientists and engineers.
-In this role I have delivered **new business models leveraging the company's internal expertise**, such as developing a general statistics platform to be commercialised as a service, and designing the [WRc Academy](https://www.wrcplc.co.uk/wrc-academy) business unit - a modularised learning service targeting UK's water industry.
-As a senior scientist I was **responsible for the technical dimension of commercial activities** such as pre-sales processes, customer engagements, requirement definition and proposal preparation.
+- Built predictive and optimisation models focused on **water and gas leak minimisation**, leveraging pipeline, weather and consumption data.
+- Delivered **new business models leveraging the company's internal expertise**, such as developing a general statistics platform to be commercialised as a service, and designing the [WRc Academy](https://www.wrcplc.co.uk/wrc-academy) business unit - a modularised learning service targeting UK's water industry.
+- **Responsible for the technical dimension of commercial activities** such as pre-sales processes, customer engagements, requirement definition and proposal preparation.
 
 
 __New Energies Researcher__ | University of Bath School of Management
 _Bath - UK (Feb 2017 - Jun 2018)_
 
-My research extends the risk-return relationship, from the portfolio optimisation theory, for energy demand aggregation based on time-series forecasting, collaborating with the Department of Electronic and Electrical Engineering to develop a smart-grid energy model.
+My research extends the risk-return relationship, from the portfolio optimisation theory, for energy demand aggregation based on time-series forecasting and evolutionary optimisation, collaborating with the Department of Electronic and Electrical Engineering to develop a smart-grid energy demand model.
 
 
 __Production & Reservoir Engineer__ | Petrobras E&P Ultra-Deep Waters
@@ -59,8 +63,8 @@ __Industrial Engineer__ | Petrobras Refining
 _Rio de Janeiro - Brazil (Apr 2009 - Apr 2014)_
 
 Responsible for the corporate supply chain management governance of 12 units across Brazil, and for liaising with asset management teams.
-- Defined standardised technical specification and supported the negotiation of warehouse services contracting and procurement, centralising contract management activities.
 - Optimised spare parts' inventory, looking at the failure history of assets, production security, material costs and logistics, through survival analysis modelling and Monte Carlo simulation.
+- Built a model to assess the gasoline distribution costs between refineries, terminals and Brazilian regions, considering ships, trucks and pipelines.
 - Designed and implemented the national standard operating procedure for refineries' turnaround supply planning, minimising material waste and systematising cutoff dates for equipment and spares procurement.
 
 
