@@ -1,9 +1,10 @@
 # Estevao Alvarenga CEng
 
-- **Operational research industrial engineer** with 14 years' experience in several facets of the Oil & Energy's landscape, capturing commercial value across E&P, refining, utilities and new energies;
-- Proven record in **meeting business wishes** through cutting edge digital technology;
+#### **Operational Research Industrial Engineer**
+- 14 years' experience in several facets of the Oil & Energy's landscape, capturing business value across **E&P, refining, utilities and new energies**;
+- Proven record in **meeting business requirements** through cutting edge digital technology;
 - Integrator by nature, able to **clearly communicate and influence senior stakeholders, business and technical professionals**;
-- **Systematic approach to opportunities**, defining commercial value alongside high level requirements and, sequentially, slicing components into detailed sub-components.
+- **Systematic approach to opportunities**, defining commercial value and synthesising high level requirements that can be discussed with the business, before diving into more complex concepts for each of its subcomponents.
 
 
 ## Professional Experience
@@ -14,11 +15,10 @@ _The Hague - NL (Mar 2020 - Present)_
 Currently **leading a team of 6 analysts and data scientists**, developing advanced analytics projects for exploration, new business development, subsurface and wells.
 Our current strategy focuses on maturing proof of concepts into analytics and data science products, with appropriate governance and security.
 - Responsible for the global delivery of a multi-disciplinary analytics portfolio of $60m in Oceania, Europe and Americas.
-- Individually I have worked on the following projects:
-  - AutoSum: which is **building cutting edge surrogate modelling [applications](https://rconnect.selfservice.shell.ai/AutoSum/)** (the team [earned the Shell.ai _Code Master_ award](https://www.linkedin.com/posts/alisa-cl-choong-73915489_improving-business-decisions-and-accelerating-activity-6724646702415921152-QhA0/));
-  - SIE Analytics, delivering a data augmentation process and tool for Pre-salt's gas export system (which connects 20 FPSOs and has a capacity of 40mln cubic meters of gas);
+- Individually I have contributed to the following projects:
+  - AutoSum: building **[cutting edge surrogate modelling applications](https://rconnect.selfservice.shell.ai/AutoSum/)** for uncertainty evaluation, with rNPV at $100m;
+  - SIE Analytics: delivering a data augmentation process and tool for Pre-salt's gas export system (which connects 20 FPSOs and has a capacity of 40mln cubic meters of gas);
 - Technical advisor and steering committee member with focus on **early productisation for two Shell R&D contracts in Brazil**. I am responsible for facilitating industry and academia engagements in a technical level, supporting innovative technology adoption.
-- Recognised with Performance Shares for the year 2020.
 
 
 __Advanced Analytics Analyst - WRFM__ | Shell Information Data & Analytics
@@ -30,16 +30,14 @@ I have brought in $56m worth of new projects in 2019.
 - Delivered **2019's #1 & #2 technologies for Unconventionals**, with combined estimated NPV of $24m: the Early Productivity Index Calculator (EPIC) and Production Optimisation & Surveillance Tool (POST). With these tools we productised scientific programming approaches for early assessment of well productivity, driven by new technology conceived by academia and industry research.
 - **Conceived and delivered the [Brazil Advanced Data Analytics (BRADA) programme](https://web.yammer.com/main/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMTA5MjU3ODMzODk4ODAzMiJ9)** in areas such as reservoir engineering, wells integrity surveillance and contracts & procurement, with an estimated NPV of $100m+.
 - **Leveraged the [collaboration between different teams](https://headlinesuk.foleon.com/shell-ai/shellai2019report/upstream-analytics/)** within Shell, such as asset teams, technology, development, IT and external research institutes.
-- Projects where I led the digital workstream were nominated for 5 awards - EPIC was shortlisted for the Global Development Awards and later won the PTX/E VP award in the second half of 2019.
-- Recognised with a Special Recognition Award and Performance Shares for the year 2019.
 
 
 __Senior Data Scientist__ | WRc plc Asset Resilience
 _Swindon - UK  (Jul 2017 - Jun 2018)_
 
 Drove asset efficiency for the utilities industry through data science projects, turning raw data into actionable business intelligence, while actively developing junior scientists and engineers.
-- Delivered **new business models leveraging the company's internal expertise**: Developed a general statistics platform to be commercialised as a service, and designed the [WRc Academy](https://www.wrcplc.co.uk/wrc-academy) business, a modularised learning service for the water industry.
-- Played active commercial role in pre-sales engagement processes, proposal preparation and customer engagements.
+In this role I have delivered **new business models leveraging the company's internal expertise**, such as developing a general statistics platform to be commercialised as a service, and designing the [WRc Academy](https://www.wrcplc.co.uk/wrc-academy) business unit - a modularised learning service targeting UK's water industry.
+As a senior scientist I was **responsible for the technical dimension of commercial activities** such as pre-sales processes, customer engagements, requirement definition and proposal preparation.
 
 
 __New Energies Researcher__ | University of Bath School of Management
@@ -66,10 +64,9 @@ Responsible for the corporate supply chain management governance of 12 units acr
 - Designed and implemented the national standard operating procedure for refineries' turnaround supply planning, minimising material waste and systematising cutoff dates for equipment and spares procurement.
 
 
-__Graduate Consultant for Utilities__ | SAP CRM & Utilities
-_Sao Paulo - Brazil (Jan 2007 - Oct 2008)_
-
-Evaluated Customer Relationship Management processes adherence in SAP Utilities systems projects (gas and electricity distribution companies).
+__Previous roles__
+- Engineer in training at Petrobras -  _Rio de Janeiro, Brazil (Oct 2008 - Apr 2009)_
+- Graduate Consultant for Utilities at SAP - _Sao Paulo, Brazil (Jan 2007 - Oct 2008)_
 
 
 ## Academic Background
@@ -86,10 +83,6 @@ _Federal University Rio de Janeiro, Brazil (2011 - 2014)_
 Modules: Statistics, linear programming, graph theory, simulation and soft systems methodology
 Research areas: Systems modelling, data envelopment analysis and calculus of variations
 
-__PG Diploma Production Engineering for the Oil & Gas Industry__
-_Petrobras University, Brazil (2008 - 2009)_
-600-hour corporate training program, developing required technical and organisational skills for the industry
-
 __Industrial Engineering (BSc)__
 _Federal University Sao Carlos, Brazil (2003 - 2007)_
 Basic engineering, business analysis, production methods, operational research and agricultural processes
@@ -105,6 +98,12 @@ Basic engineering, business analysis, production methods, operational research a
 - **English** Fluent (IELTS Academic Test score: 8/9)
 - **Portuguese** Native language
 - **Spanish** Basic proficiency
+
+
+### Awards
+- **2020** Shell.ai [_Code Master_ award](https://www.linkedin.com/posts/alisa-cl-choong-73915489_improving-business-decisions-and-accelerating-activity-6724646702415921152-QhA0/) for AutoSum
+- **2019** VP Engineering Technology [The Power of Impact award](https://web.yammer.com/main/search/threads?search=award&groupScope=eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiIxMDA1NjE2MzMyOCJ9) for EPIC
+
 
 ### Publications
 - **2018** Soft systems methodology applied to oil refineries inventory process (in Portuguese) In: Estellita Lins *et al*. Complex problem structuring: embedding concept maps to decision support models. 1st. Ed. Interciencia. 14th chapter. [Link to publishing company](https://www.editorainterciencia.com.br/index.asp?pg=prodDetalhado.asp&idprod=484&token=).
