@@ -103,7 +103,7 @@ Basic engineering, business analysis, production methods, operational research a
 
 ### Awards
 - **2020** Shell.ai [_Code Master_ award](https://www.linkedin.com/posts/alisa-cl-choong-73915489_improving-business-decisions-and-accelerating-activity-6724646702415921152-QhA0/) for AutoSum
-- **2019** VP Engineering Technology [The Power of Impact award](https://web.yammer.com/main/search/threads?search=award&groupScope=eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiIxMDA1NjE2MzMyOCJ9) for EPIC
+- **2019** VP Engineering Technology [The Power of Impact award](https://web.yammer.com/main/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiNDUxNDQwMDc4MzE1NTIwIn0) for EPIC
 
 
 ### Publications

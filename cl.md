@@ -1,6 +1,6 @@
 Dear Madam/Sir,
 
-Ref: Application for the Team Lead Operations Research role
+**Ref: Application for the Team Lead Operations Research role**
 
 I would like to be part of the PTX/D Data Science team as the Team Lead Operations Research.
 This motivation letter is accompanied by my CV with more detailed description of my professional experience.
@@ -16,14 +16,12 @@ My specific expertise includes asset management, project scoping & valuation, da
 I trust those are skills that would benefit the team.
 
 There are two specific competencies I would like to highlight in this letter:
-
-Business acumen:
+- **Business acumen:**
 For the last four years I’ve performed in consultancy-oriented environments.
 Before Shell, as a Senior Data Scientist for WRc, my attributions included writing project proposals and leveraging internal expertise in new business models.
 After that, inside Shell, I have pivoted the ways of working of my own team, where I implemented the concept of fully funded projects.
 This required engaging with Shell businesses and making sure their requirements were addressed in schedule, performance and cost, while also making the team more accountable for their deliveries.
-
-Integration:
+- **Integration:**
 I am an integrative professional by nature.
 In my years in Shell IT I have a track record of collaborating with multidisciplinary teams, leveraging subject matter expertise, R&D professionals, IT architecture, support teams and senior stakeholders.
 For this reason, (successfully) finished projects were transitioned to support, releasing my team’s time to take part in new ideas.
