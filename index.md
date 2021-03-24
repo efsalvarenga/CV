@@ -33,7 +33,6 @@ __Senior Data Scientist__ | WRc plc Asset Resilience -
 _Swindon, UK  (Jul 2017 - Jun 2018)_
 
 Drove asset efficiency for the utilities industry through data science projects, turning raw data into actionable business intelligence, while actively developing junior scientists and engineers.
-In this role I have delivered **new business models leveraging the company's internal expertise**, such as developing a general statistics platform to be commercialised as a service, and designing the [WRc Academy](https://www.wrcplc.co.uk/wrc-academy) business unit - a modularised learning service targeting UK's water industry.
 As a senior scientist I was **responsible for the technical dimension of commercial activities** such as pre-sales processes, customer engagements, requirement definition and proposal preparation.
 
 
