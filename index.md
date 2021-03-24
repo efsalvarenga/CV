@@ -61,8 +61,8 @@ Responsible for the corporate supply chain management governance of 12 units acr
 
 
 __Previous roles__
-- **Engineer in training** | Petrobras -  _Rio de Janeiro, Brazil (Oct 2008 - Apr 2009)_
-- **Graduate Consultant for Utilities** | SAP - _Sao Paulo, Brazil (Jan 2007 - Oct 2008)_
+- **Engineer in training** - Petrobras -  _Rio de Janeiro, Brazil (Oct 2008 - Apr 2009)_
+- **Graduate Consultant for Utilities** - SAP - _Sao Paulo, Brazil (Jan 2007 - Oct 2008)_
 
 
 ## Academic Background
