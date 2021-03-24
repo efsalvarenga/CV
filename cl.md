@@ -27,7 +27,7 @@ Integration:
 I am an integrative professional by nature.
 In my years in Shell IT I have a track record of collaborating with multidisciplinary teams, leveraging subject matter expertise, R&D professionals, IT architecture, support teams and senior stakeholders.
 For this reason, (successfully) finished projects were transitioned to support, releasing my team’s time to take part in new ideas.
-In my career it’s been required that I engage and influence the decisions of senior stakeholders in different parts of the business, while supporting negotiations and agreeing on techno-economic excellence.
+In my career it’s been often required that I engage and influence the decisions of senior stakeholders in different parts of the business, while supporting negotiations and agreeing on techno-economic excellence.
 
 I am a hard-working, curious and creative engineer who always seeks analytical and result oriented solutions to problems.
 Throughout my career I have fostered collaborative relationships and was fortunate to assimilate valuable professional lessons.
@@ -37,4 +37,5 @@ I also believe few of my achievements would be possible without close integratio
 Thank you for your time in considering this application, and I look forward to hearing from you.
 
 Yours faithfully,
+
 Estêvão Alvarenga CEng MIET
