@@ -1,8 +1,8 @@
 # Estevao Alvarenga CEng
 
 #### **Operational Research Industrial Engineer**
-- 14 years' experience in several facets of the Oil & Energy's landscape, capturing business value across **E&P, refining, utilities and new energies**;
-- Proven record in **meeting business requirements** through cutting edge digital technology;
+- 14 years' experience in several facets of the Oil & Energy's landscape, capturing commercial value across **E&P, refining, utilities and new energies**;
+- Proven record in **meeting business requirements** through impactful and profitable digital technology;
 - Integrator by nature, able to **clearly communicate and influence senior stakeholders, business and technical professionals**;
 - **Systematic approach to opportunities**, defining commercial value and synthesising high level requirements that can be discussed with the business, before diving into more complex concepts for each of its subcomponents.
 
@@ -15,10 +15,10 @@ _The Hague, NL (Mar 2020 - Present)_
 Currently **leading a team of 6 analysts and data scientists**, developing advanced analytics projects for upstream, integrated gas, renewables and energy solutions.
 Our current strategy focuses on maturing proof of concepts into analytics and data science products, with appropriate governance and security.
 Our multi-disciplinary portfolio includes:
-  - SIE Analytics tool for Pre-salt's gas export system, **which processes and augment NOV data from 20 FPSOs and hundreds of wells** sharing an installed pipeline capacity of 40mln cubic meters (valuated at $20m).
+  - SIE Analytics cross-business tool for Pre-salt's gas export system, **which processes and augment NOV data from 20 FPSOs and hundreds of wells** sharing an installed pipeline capacity of 40mln cubic meters (valuated at $20m).
   - Supporting the AutoSum team: building **[cutting edge surrogate modelling applications](https://rconnect.selfservice.shell.ai/AutoSum/)** for uncertainty and design choices evaluation (valuated at $100m).
   - BalloBot, a text analytics solution that **leverages the Shell.ai platform** and delivers C&P insights to the business (winner of the Shell.ai _Platform Champion_ award).
-  - Technically advising with focus on **early productisation for two Shell R&D contracts in Brazil**, facilitating industry and academia engagements in a technical level, supporting innovative technology adoption.
+  - Technically advising with focus on **phased productisation for two Shell R&D contracts in Brazil**, facilitating industry and academia engagements in a technical level, supporting innovative technology adoption.
 
 
 __Advanced Analytics Analyst - WRFM__ | Shell Information Data & Analytics -
@@ -52,7 +52,7 @@ _Rio de Janeiro, Brazil (Apr 2014 - Dec 2016)_
 Performed reservoir engineering, production forecast and optimisation roles for Petrobras' pre-salt portfolio, collaborating with stakeholders such as project managers, executives and the regulatory agency.
 - Delivered Lula's 2016 reserves estimation to the U.S. Securities and Exchange Commission and Brazilian regulatory agency, which takes into account **technology maturity, resources uncertainty, supply chain risks and economic evaluation**.
 - Coordinated a team of three engineers **responsible for the resource optimisation of critical submarine equipment and vessels** for 15 FPSOs, negotiating the allocation proposal with the executive decision board.
-- Created a decision support model for evaluating impact of resource allocation changes, and liaised with project managers to deliver the optimal production output for the portfolio.
+- Created a decision support model for evaluating system impact of resource allocation changes, and liaised with project managers to deliver the optimal production output for the entire portfolio.
 
 
 __Industrial Engineer__ | Petrobras Refining -
@@ -86,6 +86,7 @@ Research areas: Systems modelling, data envelopment analysis and calculus of var
 __Industrial Engineering (BSc)__
 _Federal University Sao Carlos, Brazil (2003 - 2007)_
 Basic engineering, business analysis, production methods, operational research and agricultural processes
+
 
 ### Professional Organisations Membership
 - **The IET Institution of Engineering and Technology** CEng MIET, former social media coordinator for IET Bristol
