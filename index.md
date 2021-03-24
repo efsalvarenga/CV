@@ -103,8 +103,7 @@ Basic engineering, business analysis, production methods, operational research a
 
 ### Awards
 - **2020** Shell.ai [_Code Master_ award](https://www.linkedin.com/posts/alisa-cl-choong-73915489_improving-business-decisions-and-accelerating-activity-6724646702415921152-QhA0/) for AutoSum
-- **2019** VP Engineering Technology [The Power of Impact award](https://web.yammer.com/main/search/threads?search=award&groupScope=eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiIxMDA1NjE2MzMyOCJ9) for EPIC
-
+- **2019** VP Engineering Technology [The Power of Impact award](https://web.yammer.com/main/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiNDUxNDQwMDc4MzE1NTIwIn0) for EPIC
 
 ### Publications
 - **2018** Soft systems methodology applied to oil refineries inventory process (in Portuguese) In: Estellita Lins *et al*. Complex problem structuring: embedding concept maps to decision support models. 1st. Ed. Interciencia. 14th chapter. [Link to publishing company](https://www.editorainterciencia.com.br/index.asp?pg=prodDetalhado.asp&idprod=484&token=).
