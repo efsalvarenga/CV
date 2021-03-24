@@ -1,17 +1,17 @@
 Dear Madam/Sir,
 
-Ref: Application for the Technology Advisor role
+Ref: Application for the Advisor Digital Licensing role
 
-I would like to be part of the PTX/D Digital Innovation team as the Technology Advisor.
+I would like to be part of the PTX/D Digital Innovation team as the Advisor Digital Licensing.
 This motivation letter is accompanied by my CV with more detailed description of my professional experience.
 
 I am a Chartered Engineer (UK's Institution of Engineering and Technology), passionate about driving technology adoption in the oil & energy industry.
 I have contributed to the delivery of several multi-million projects for oil & gas production, refining and transportation, utilities and new energies.
-My extensive experience within our industry, including deep understanding of several of its businesses, is supported by further academic education on operational research and management sciences.
+My extensive experience within our industry, including deep understanding of several of its businesses in different companies, is supported by further academic education on operational research and management sciences.
 My specific expertise includes asset management, project scoping & valuation, data science (operational research, mathematical modelling & machine learning), leadership and communication.
 
 The Digital Innovation team would fit both my career aspirations and the history I’ve built so far.
-I want to play an active role in systematising sustainable digital innovation adoption within Shell, focused on business requirements and the group strategy.
+I want to play an active role in systematising sustainable digital innovation adoption in the energy industry, developing new business models and new revenue streams leveraged from Shell's digital portfolio.
 In my career it’s been often required that I engage and influence the decisions of senior stakeholders (executives and directors), assurance teams, academia and Brazil’s national oil agency, while supporting negotiations and agreeing on techno-economic excellence.
 I trust those are skills that would benefit the team.
 
