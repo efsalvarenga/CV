@@ -1,17 +1,17 @@
 Dear Madam/Sir,
 
-Ref: Application for the Manager Industrial Data Science role
+Ref: Application for the Team Lead Operations Research role
 
-I would like to be part of the PTX/D Data Science team as the Manager Industrial Data Science.
+I would like to be part of the PTX/D Data Science team as the Team Lead Operations Research.
 This motivation letter is accompanied by my CV with more detailed description of my professional experience.
 
 I am a Chartered Engineer (UK's Institution of Engineering and Technology), passionate about driving technology adoption in the oil & energy industry.
 I have contributed to the delivery of several multi-million projects for oil & gas production, refining and transportation, utilities and new energies.
-I have extensive industrial engineering experience within our industry, and a deep understanding of our businesses.
+I have extensive operational research experience within our industry, and a deep understanding of our businesses.
 
-The Industrial Data Science team would fit both my career aspirations and the history I’ve built so far.
+The Operations Research team would fit both my career aspirations and the history I’ve built so far.
 I want to play an active role in systematising sustainable digital innovation at Shell's facilities, focused on business requirements and the group strategy.
-My engineering background is supported by further academic education on operational research and management sciences, which enabled me to deliver analytical work as part of different businesses in the industry's value chain.
+My operational research background is supported by further academic education on industrial engineering and management sciences, which enabled me to deliver analytical work as part of different businesses in the industry's value chain.
 My specific expertise includes asset management, project scoping & valuation, data science (operational research, mathematical modelling & machine learning), leadership and communication.
 I trust those are skills that would benefit the team.
 
@@ -27,7 +27,7 @@ Integration:
 I am an integrative professional by nature.
 In my years in Shell IT I have a track record of collaborating with multidisciplinary teams, leveraging subject matter expertise, R&D professionals, IT architecture, support teams and senior stakeholders.
 For this reason, (successfully) finished projects were transitioned to support, releasing my team’s time to take part in new ideas.
-In my career it’s been required that I engage and influence the decisions of senior stakeholders in different parts of the business, while supporting negotiations and agreeing on techno-economic excellence.
+In my career it’s been often required that I engage and influence the decisions of senior stakeholders in different parts of the business, while supporting negotiations and agreeing on techno-economic excellence.
 
 I am a hard-working, curious and creative engineer who always seeks analytical and result oriented solutions to problems.
 Throughout my career I have fostered collaborative relationships and was fortunate to assimilate valuable professional lessons.
@@ -37,4 +37,5 @@ I also believe few of my achievements would be possible without close integratio
 Thank you for your time in considering this application, and I look forward to hearing from you.
 
 Yours faithfully,
+
 Estêvão Alvarenga CEng MIET
