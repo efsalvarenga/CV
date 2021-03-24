@@ -1,18 +1,18 @@
 Dear Madam/Sir,
 
-Ref: Application for the Manager Industrial Data Science role
+Ref: Application for the Technology Advisor role
 
-I would like to be part of the PTX/D Data Science team as the Manager Industrial Data Science.
+I would like to be part of the PTX/D Digital Innovation team as the Technology Advisor.
 This motivation letter is accompanied by my CV with more detailed description of my professional experience.
 
 I am a Chartered Engineer (UK's Institution of Engineering and Technology), passionate about driving technology adoption in the oil & energy industry.
 I have contributed to the delivery of several multi-million projects for oil & gas production, refining and transportation, utilities and new energies.
-I have extensive industrial engineering experience within our industry, and a deep understanding of our businesses.
-
-The Industrial Data Science team would fit both my career aspirations and the history I’ve built so far.
-I want to play an active role in systematising sustainable digital innovation at Shell's facilities, focused on business requirements and the group strategy.
-My engineering background is supported by further academic education on operational research and management sciences, which enabled me to deliver analytical work as part of different businesses in the industry's value chain.
+My extensive experience within our industry, including deep understanding of several of its businesses, is supported by further academic education on operational research and management sciences.
 My specific expertise includes asset management, project scoping & valuation, data science (operational research, mathematical modelling & machine learning), leadership and communication.
+
+The Digital Innovation team would fit both my career aspirations and the history I’ve built so far.
+I want to play an active role in systematising sustainable digital innovation adoption within Shell, focused on business requirements and the group strategy.
+In my career it’s been often required that I engage and influence the decisions of senior stakeholders (executives and directors), assurance teams, academia and Brazil’s national oil agency, while supporting negotiations and agreeing on techno-economic excellence.
 I trust those are skills that would benefit the team.
 
 There are two specific competencies I would like to highlight in this letter:
@@ -27,7 +27,6 @@ Integration:
 I am an integrative professional by nature.
 In my years in Shell IT I have a track record of collaborating with multidisciplinary teams, leveraging subject matter expertise, R&D professionals, IT architecture, support teams and senior stakeholders.
 For this reason, (successfully) finished projects were transitioned to support, releasing my team’s time to take part in new ideas.
-In my career it’s been often required that I engage and influence the decisions of senior stakeholders in different parts of the business, while supporting negotiations and agreeing on techno-economic excellence.
 
 I am a hard-working, curious and creative engineer who always seeks analytical and result oriented solutions to problems.
 Throughout my career I have fostered collaborative relationships and was fortunate to assimilate valuable professional lessons.
