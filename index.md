@@ -52,7 +52,7 @@ _Rio de Janeiro, Brazil (Apr 2014 - Dec 2016)_
 Performed reservoir engineering, production forecast and optimisation roles for Petrobras' pre-salt portfolio, collaborating with stakeholders such as project managers, executives and the regulatory agency.
 - Delivered Lula's 2016 reserves estimation to the U.S. Securities and Exchange Commission and Brazilian regulatory agency, which takes into account **technology maturity, resources uncertainty, supply chain risks and economic evaluation**.
 - Coordinated a team of three engineers **responsible for the resource optimisation of critical submarine equipment and vessels** for 15 FPSOs, negotiating the allocation proposal with the executive decision board.
-- Created a decision support model for evaluating systems impact of resource allocation changes, and liaised with project managers to deliver the optimal production output for the entire portfolio.
+- Created a decision support model for evaluating system impact of resource allocation changes, and liaised with project managers to deliver the optimal production output for the entire portfolio.
 
 
 __Industrial Engineer__ | Petrobras Refining -
