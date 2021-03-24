@@ -1,7 +1,7 @@
 # Estevao Alvarenga CEng
 
 #### **Operational Research Industrial Engineer**
-- 14 years' experience in several facets of the Oil & Energy's landscape, capturing business value across **E&P, refining, utilities and new energies**;
+- 14 years' experience in several facets of the Oil & Energy's industrial landscape, capturing business value across **E&P, refining, utilities and new energies**;
 - Proven record in **meeting business requirements** through cutting edge digital technology;
 - Integrator by nature, able to **clearly communicate and influence senior stakeholders, business and technical professionals**;
 - **Systematic approach to opportunities**, defining commercial value and synthesising high level requirements that can be discussed with the business, before diving into more complex concepts for each of its subcomponents.
@@ -12,16 +12,12 @@
 __Advanced Analytics - Technical Leader__ | Shell Information Data & Analytics
 _The Hague - NL (Mar 2020 - Present)_
 
-Currently **leading a team of 6 analysts and data scientists**, developing advanced analytics projects for exploration, new business development, subsurface and wells.
+Currently **leading a team of 6 analysts and data scientists**, developing advanced analytics projects for upstream, integrated gas, renewables and energy solutions.
 Our current strategy focuses on maturing proof of concepts into analytics and data science products, with appropriate governance and security.
-My team is responsible for the global delivery of a multi-disciplinary analytics portfolio in Oceania, Europe and Americas. Projects include:
-  - SIE Analytics data augmentation process and tool for Pre-salt's gas export system (which connects 20 FPSOs and has a capacity of 40mln cubic meters of gas)
-  - JV Auditor, where we automate data pre-processing and visualisation from NOV business, supporting auditing processes
-  - Supporting the AutoSum team: building **[cutting edge surrogate modelling applications](https://rconnect.selfservice.shell.ai/AutoSum/)** for uncertainty evaluation, with rNPV at $100m;
-  - Wells sequencing
-
-  [which other projects? what are their values?]
-
+Our multi-disciplinary portfolio includes:
+  - SIE Analytics tool for Pre-salt's gas export system, **which processes and augment NOV data from 20 FPSOs and hundreds of wells** sharing an installed pipeline capacity of 40mln cubic meters (valuated at $20m).
+  - JV Auditor, where we automate data pre-processing and visualisation from NOV business' audits (valuated at $5m).
+  - Supporting the AutoSum team: building **[cutting edge surrogate modelling applications](https://rconnect.selfservice.shell.ai/AutoSum/)** for uncertainty evaluation (valuated at $100m).
 
 
 __Advanced Analytics Analyst - WRFM__ | Shell Information Data & Analytics
@@ -30,8 +26,8 @@ _The Hague - NL (Sep 2018 - Feb 2020)_
 I was the team focal point for wells, reservoir and facilities management (WRFM), delivering data science and operational research projects for deep water and unconventional oil fields.
 Strategically, I have influenced the team to systematically refocus toward high business value projects, coaching team members in principles such as detailed scoping, valuation and prioritisation frameworks.
 I have brought in $56m worth of new projects in 2019.
-- Delivered **2019's #1 & #2 technologies for Unconventionals**, with combined estimated NPV of $24m: the Early Productivity Index Calculator (EPIC) and Production Optimisation & Surveillance Tool (POST). With these tools we productised scientific programming approaches for early assessment of well productivity, driven by new technology conceived by academia and industry research.
-- **Conceived and delivered the [Brazil Advanced Data Analytics (BRADA) programme](https://web.yammer.com/main/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMTA5MjU3ODMzODk4ODAzMiJ9)** in areas such as reservoir engineering, wells integrity surveillance and contracts & procurement, with an estimated NPV of $100m+.
+- Delivered **2019's #1 & #2 technologies for Unconventionals**, with combined estimated value of $24m: the Early Productivity Index Calculator (EPIC) and Production Optimisation & Surveillance Tool (POST). With these tools we productised scientific programming approaches for early assessment of well productivity, driven by new technology conceived by academia and industry research.
+- **Conceived and delivered the [Brazil Advanced Data Analytics (BRADA) programme](https://web.yammer.com/main/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMTA5MjU3ODMzODk4ODAzMiJ9)** in areas such as reservoir engineering, wells integrity surveillance and contracts & procurement, with an estimated value of $100m+.
 - **Leveraged the [collaboration between different teams](https://headlinesuk.foleon.com/shell-ai/shellai2019report/upstream-analytics/)** within Shell, such as asset teams, technology, development, IT and external research institutes.
 
 
@@ -54,8 +50,8 @@ __Production & Reservoir Engineer__ | Petrobras E&P Ultra-Deep Waters
 _Rio de Janeiro - Brazil (Apr 2014 - Dec 2016)_
 
 Performed reservoir engineering, production forecast and optimisation roles for Petrobras' pre-salt portfolio, collaborating with stakeholders such as project managers, executives and the regulatory agency.
-- Delivered Lula's 2016 reserves estimation to the U.S. Securities and Exchange Commission and Brazilian regulatory agency, which take into account **technology maturity, resources uncertainty, supply chain risks and economic evaluation**.
-- Coordinated a team of three engineers **responsible for the resource optimisation of critical submarine equipment and vessels** for 15 FPSOs, presenting the allocation proposal to the executive decision board.
+- Delivered Lula's 2016 reserves estimation to the U.S. Securities and Exchange Commission and Brazilian regulatory agency, which takes into account **technology maturity, resources uncertainty, supply chain risks and economic evaluation**.
+- Coordinated a team of three engineers **responsible for the resource optimisation of critical submarine equipment and vessels** for 15 FPSOs, negotiating the allocation proposal with the executive decision board.
 - Created a decision support model for evaluating impact of resource allocation changes, and liaised with project managers to deliver the optimal production output for the portfolio.
 
 
@@ -64,13 +60,13 @@ _Rio de Janeiro - Brazil (Apr 2009 - Apr 2014)_
 
 Responsible for the corporate supply chain management governance of 12 units across Brazil, and for liaising with asset management teams.
 - Optimised spare parts' inventory, looking at the failure history of assets, production security, material costs and logistics, through survival analysis modelling and Monte Carlo simulation.
-- Built a model to assess the gasoline distribution costs between refineries, terminals and Brazilian regions, considering ships, trucks and pipelines.
+- Built a model to **assess the gasoline distribution costs** between refineries, terminals and Brazilian regions, considering ships, trucks and pipelines.
 - Designed and implemented the national standard operating procedure for refineries' turnaround supply planning, minimising material waste and systematising cutoff dates for equipment and spares procurement.
 
 
 __Previous roles__
-- Engineer in training at Petrobras -  _Rio de Janeiro, Brazil (Oct 2008 - Apr 2009)_
-- Graduate Consultant for Utilities at SAP - _Sao Paulo, Brazil (Jan 2007 - Oct 2008)_
+- **Engineer in training at Petrobras** -  _Rio de Janeiro, Brazil (Oct 2008 - Apr 2009)_
+- **Graduate Consultant for Utilities at SAP** - _Sao Paulo, Brazil (Jan 2007 - Oct 2008)_
 
 
 ## Academic Background
