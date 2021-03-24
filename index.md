@@ -9,54 +9,54 @@
 
 ## Professional Experience
 
-__Advanced Analytics - Technical Leader__ | Shell Information Data & Analytics
-_The Hague - NL (Mar 2020 - Present)_
+__Advanced Analytics - Technical Leader__ | Shell Information Data & Analytics -
+_The Hague, NL (Mar 2020 - Present)_
 
-Currently **leading a team of 6 analysts and data scientists**, developing advanced analytics projects for exploration, new business development, subsurface and wells.
+Currently **leading a team of 6 analysts and data scientists**, developing advanced analytics projects for upstream, integrated gas, renewables and energy solutions.
 Our current strategy focuses on maturing proof of concepts into analytics and data science products, with appropriate governance and security.
-- Responsible for the global delivery of a multi-disciplinary analytics portfolio of $60m in Oceania, Europe and Americas.
-- Individually I have contributed to the following projects:
-  - AutoSum: building **[cutting edge surrogate modelling applications](https://rconnect.selfservice.shell.ai/AutoSum/)** for uncertainty evaluation, with rNPV at $100m;
-  - SIE Analytics: delivering a data augmentation process and tool for Pre-salt's gas export system (which connects 20 FPSOs and has a capacity of 40mln cubic meters of gas);
-- Technical advisor and steering committee member with focus on **early productisation for two Shell R&D contracts in Brazil**. I am responsible for facilitating industry and academia engagements in a technical level, supporting innovative technology adoption.
+Our multi-disciplinary portfolio includes:
+  - SIE Analytics tool for Pre-salt's gas export system, **which processes and augment NOV data from 20 FPSOs and hundreds of wells** sharing an installed pipeline capacity of 40mln cubic meters (valuated at $20m).
+  - Supporting the AutoSum team: building **[cutting edge surrogate modelling applications](https://rconnect.selfservice.shell.ai/AutoSum/)** for uncertainty and design choices evaluation (valuated at $100m).
+  - BalloBot, a text analytics solution that **leverages the Shell.ai platform** and delivers C&P insights to the business (winner of the Shell.ai _Platform Champion_ award).
+  - Technically advising with focus on **early productisation for two Shell R&D contracts in Brazil**, facilitating industry and academia engagements in a technical level, supporting innovative technology adoption.
 
 
-__Advanced Analytics Analyst - WRFM__ | Shell Information Data & Analytics
-_The Hague - NL (Sep 2018 - Feb 2020)_
+__Advanced Analytics Analyst - WRFM__ | Shell Information Data & Analytics -
+_The Hague, NL (Sep 2018 - Feb 2020)_
 
 I was the team focal point for wells, reservoir and facilities management (WRFM), delivering data science and operational research projects for deep water and unconventional oil fields.
 Strategically, I have influenced the team to systematically refocus toward high business value projects, coaching team members in principles such as detailed scoping, valuation and prioritisation frameworks.
 I have brought in $56m worth of new projects in 2019.
-- Delivered **2019's #1 & #2 technologies for Unconventionals**, with combined estimated NPV of $24m: the Early Productivity Index Calculator (EPIC) and Production Optimisation & Surveillance Tool (POST). With these tools we productised scientific programming approaches for early assessment of well productivity, driven by new technology conceived by academia and industry research.
-- **Conceived and delivered the [Brazil Advanced Data Analytics (BRADA) programme](https://web.yammer.com/main/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMTA5MjU3ODMzODk4ODAzMiJ9)** in areas such as reservoir engineering, wells integrity surveillance and contracts & procurement, with an estimated NPV of $100m+.
+- Delivered **2019's #1 & #2 technologies for Unconventionals**, with combined estimated value of $24m: the Early Productivity Index Calculator (EPIC) and Production Optimisation & Surveillance Tool (POST). With these tools we productised scientific programming approaches for early assessment of well productivity, driven by new technology conceived by academia and industry research.
+- **Conceived and delivered the [Brazil Advanced Data Analytics (BRADA) programme](https://web.yammer.com/main/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMTA5MjU3ODMzODk4ODAzMiJ9)** in areas such as reservoir engineering, wells integrity surveillance and contracts & procurement, with an estimated value of $100m+.
 - **Leveraged the [collaboration between different teams](https://headlinesuk.foleon.com/shell-ai/shellai2019report/upstream-analytics/)** within Shell, such as asset teams, technology, development, IT and external research institutes.
 
 
-__Senior Data Scientist__ | WRc plc Asset Resilience
-_Swindon - UK  (Jul 2017 - Jun 2018)_
+__Senior Data Scientist__ | WRc plc Asset Resilience -
+_Swindon, UK  (Jul 2017 - Jun 2018)_
 
 Drove asset efficiency for the utilities industry through data science projects, turning raw data into actionable business intelligence, while actively developing junior scientists and engineers.
 In this role I have delivered **new business models leveraging the company's internal expertise**, such as developing a general statistics platform to be commercialised as a service, and designing the [WRc Academy](https://www.wrcplc.co.uk/wrc-academy) business unit - a modularised learning service targeting UK's water industry.
 As a senior scientist I was **responsible for the technical dimension of commercial activities** such as pre-sales processes, customer engagements, requirement definition and proposal preparation.
 
 
-__New Energies Researcher__ | University of Bath School of Management
-_Bath - UK (Feb 2017 - Jun 2018)_
+__New Energies Researcher__ | University of Bath School of Management -
+_Bath, UK (Feb 2017 - Jun 2018)_
 
-My research extends the risk-return relationship, from the portfolio optimisation theory, for energy demand aggregation based on time-series forecasting, collaborating with the Department of Electronic and Electrical Engineering to develop a smart-grid energy model.
+My research extends the risk-return relationship, from the portfolio optimisation theory, for energy demand aggregation based on time-series forecasting and evolutionary optimisation, collaborating with the Department of Electronic and Electrical Engineering to develop a smart-grid energy demand model.
 
 
-__Production & Reservoir Engineer__ | Petrobras E&P Ultra-Deep Waters
-_Rio de Janeiro - Brazil (Apr 2014 - Dec 2016)_
+__Production & Reservoir Engineer__ | Petrobras E&P Ultra-Deep Waters -
+_Rio de Janeiro, Brazil (Apr 2014 - Dec 2016)_
 
 Performed reservoir engineering, production forecast and optimisation roles for Petrobras' pre-salt portfolio, collaborating with stakeholders such as project managers, executives and the regulatory agency.
-- Delivered Lula's 2016 reserves estimation to the U.S. Securities and Exchange Commission and Brazilian regulatory agency, which take into account **technology maturity, resources uncertainty, supply chain risks and economic evaluation**.
-- Coordinated a team of three engineers **responsible for the resource optimisation of critical submarine equipment and vessels** for 15 FPSOs, presenting the allocation proposal to the executive decision board.
+- Delivered Lula's 2016 reserves estimation to the U.S. Securities and Exchange Commission and Brazilian regulatory agency, which takes into account **technology maturity, resources uncertainty, supply chain risks and economic evaluation**.
+- Coordinated a team of three engineers **responsible for the resource optimisation of critical submarine equipment and vessels** for 15 FPSOs, negotiating the allocation proposal with the executive decision board.
 - Created a decision support model for evaluating impact of resource allocation changes, and liaised with project managers to deliver the optimal production output for the portfolio.
 
 
-__Industrial Engineer__ | Petrobras Refining
-_Rio de Janeiro - Brazil (Apr 2009 - Apr 2014)_
+__Industrial Engineer__ | Petrobras Refining -
+_Rio de Janeiro, Brazil (Apr 2009 - Apr 2014)_
 
 Responsible for the corporate supply chain management governance of 12 units across Brazil, and for liaising with asset management teams.
 - Defined standardised technical specification and supported the negotiation of warehouse services contracting and procurement, centralising contract management activities.
@@ -65,8 +65,8 @@ Responsible for the corporate supply chain management governance of 12 units acr
 
 
 __Previous roles__
-- Engineer in training at Petrobras -  _Rio de Janeiro, Brazil (Oct 2008 - Apr 2009)_
-- Graduate Consultant for Utilities at SAP - _Sao Paulo, Brazil (Jan 2007 - Oct 2008)_
+- **Engineer in training** | Petrobras -  _Rio de Janeiro, Brazil (Oct 2008 - Apr 2009)_
+- **Graduate Consultant for Utilities** | SAP - _Sao Paulo, Brazil (Jan 2007 - Oct 2008)_
 
 
 ## Academic Background
