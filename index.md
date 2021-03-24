@@ -1,6 +1,3 @@
-# Estevao Alvarenga CEng
-
-#### **Operational Research Industrial Engineer**
 - 14 years' experience in several facets of the Oil & Energy's landscape, capturing commercial value across **E&P, refining, utilities and new energies**;
 - Proven record in **meeting business requirements** through impactful and profitable digital technology;
 - Integrator by nature, able to **clearly communicate and influence senior stakeholders, business and technical professionals**;
@@ -16,7 +13,7 @@ Currently **leading a team of 6 analysts and data scientists**, developing advan
 Our current strategy focuses on maturing proof of concepts into analytics and data science products, with appropriate governance and security.
 Our multi-disciplinary portfolio includes:
   - SIE Analytics cross-business tool for Pre-salt's gas export system, **which processes and augment NOV data from 20 FPSOs and hundreds of wells** sharing an installed pipeline capacity of 40mln cubic meters (valuated at $20m).
-  - Supporting the AutoSum team: building **[cutting edge surrogate modelling applications](https://rconnect.selfservice.shell.ai/AutoSum/)** for uncertainty and design choices evaluation (valuated at $100m).
+  - Supporting the AutoSum team: building **cutting edge surrogate modelling applications** for uncertainty and design choices evaluation (valuated at $100m).
   - BalloBot, a text analytics solution that **leverages the Shell.ai platform** and delivers C&P insights to the business (winner of the Shell.ai _Platform Champion_ award).
   - Technically advising with focus on **phased productisation for two Shell R&D contracts in Brazil**, facilitating industry and academia engagements in a technical level, supporting innovative technology adoption.
 
@@ -28,8 +25,8 @@ I was the team focal point for wells, reservoir and facilities management (WRFM)
 Strategically, I have influenced the team to systematically refocus toward high business value projects, coaching team members in principles such as detailed scoping, valuation and prioritisation frameworks.
 I have brought in $56m worth of new projects in 2019.
 - Delivered **2019's #1 & #2 technologies for Unconventionals**, with combined estimated value of $24m: the Early Productivity Index Calculator (EPIC) and Production Optimisation & Surveillance Tool (POST). With these tools we productised scientific programming approaches for early assessment of well productivity, driven by new technology conceived by academia and industry research.
-- **Conceived and delivered the [Brazil Advanced Data Analytics (BRADA) programme](https://web.yammer.com/main/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMTA5MjU3ODMzODk4ODAzMiJ9)** in areas such as reservoir engineering, wells integrity surveillance and contracts & procurement, with an estimated value of $100m+.
-- **Leveraged the [collaboration between different teams](https://headlinesuk.foleon.com/shell-ai/shellai2019report/upstream-analytics/)** within Shell, such as asset teams, technology, development, IT and external research institutes.
+- **Conceived and delivered the Brazil Advanced Data Analytics (BRADA) programme** in areas such as reservoir engineering, wells integrity surveillance and contracts & procurement, with an estimated value of $100m+.
+- **Leveraged the collaboration between different teams** within Shell, such as asset teams, technology, development, IT and external research institutes.
 
 
 __Senior Data Scientist__ | WRc plc Asset Resilience -
@@ -103,7 +100,7 @@ Basic engineering, business analysis, production methods, operational research a
 
 ### Awards
 - **2020** Shell.ai [_Code Master_ award](https://www.linkedin.com/posts/alisa-cl-choong-73915489_improving-business-decisions-and-accelerating-activity-6724646702415921152-QhA0/) for AutoSum
-- **2019** VP Engineering Technology [The Power of Impact award](https://web.yammer.com/main/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiNDUxNDQwMDc4MzE1NTIwIn0) for EPIC
+- **2019** VP Engineering Technology The Power of Impact award for EPIC
 
 ### Publications
 - **2018** Soft systems methodology applied to oil refineries inventory process (in Portuguese) In: Estellita Lins *et al*. Complex problem structuring: embedding concept maps to decision support models. 1st. Ed. Interciencia. 14th chapter. [Link to publishing company](https://www.editorainterciencia.com.br/index.asp?pg=prodDetalhado.asp&idprod=484&token=).
