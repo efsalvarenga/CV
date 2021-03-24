@@ -1,10 +1,10 @@
 # Estevao Alvarenga CEng
 
 #### **Operational Research Industrial Engineer**
-- 14 years' experience in several facets of the Oil & Energy's industrial landscape, capturing business value across **E&P, refining, utilities and new energies**;
+- 14 years' experience in several facets of the Oil & Energy's operational landscape, capturing business value across **E&P, refining, utilities and new energies**;
 - Proven record in **meeting business requirements** through cutting edge digital technology;
 - Integrator by nature, able to **clearly communicate and influence senior stakeholders, business and technical professionals**;
-- **Systematic approach to opportunities**, defining commercial value and synthesising high level requirements that can be discussed with the business, before diving into more complex concepts for each of its subcomponents.
+- **Systematic approach to opportunities**, defining commercial value and synthesising high level requirements that can be discussed with the business, before diving into more complex mathematical representations for each of its subcomponents.
 
 
 ## Professional Experience
@@ -15,9 +15,9 @@ _The Hague - NL (Mar 2020 - Present)_
 Currently **leading a team of 6 analysts and data scientists**, developing advanced analytics projects for upstream, integrated gas, renewables and energy solutions.
 Our current strategy focuses on maturing proof of concepts into analytics and data science products, with appropriate governance and security.
 Our multi-disciplinary portfolio includes:
-  - SIE Analytics tool for Pre-salt's gas export system, **which processes and augment NOV data from 20 FPSOs and hundreds of wells** sharing an installed pipeline capacity of 40mln cubic meters (valuated at $20m).
-  - JV Auditor, where we automate data pre-processing and visualisation from NOV business' audits (valuated at $5m).
-  - Supporting the AutoSum team: building **[cutting edge surrogate modelling applications](https://rconnect.selfservice.shell.ai/AutoSum/)** for uncertainty evaluation (valuated at $100m).
+  - Integrated traditional reservoir engineering approaches with analytics and computational mathematics for the BC-10 waterflood optimisation study.
+  - Supporting the AutoSum team: building **[cutting edge surrogate modelling applications](https://rconnect.selfservice.shell.ai/AutoSum/)** for uncertainty and design choices evaluation (valuated at $100m).
+  - BalloBot, a text analytics solution that **leverages the Shell.ai platform** and delivers C&P insights to the business (winner of the Shell.ai _Platform Champion_ award).
 
 
 __Advanced Analytics Analyst - WRFM__ | Shell Information Data & Analytics
@@ -43,7 +43,7 @@ Drove asset efficiency for the utilities industry through data science projects,
 __New Energies Researcher__ | University of Bath School of Management
 _Bath - UK (Feb 2017 - Jun 2018)_
 
-My research extends the risk-return relationship, from the portfolio optimisation theory, for energy demand aggregation based on time-series forecasting and evolutionary optimisation, collaborating with the Department of Electronic and Electrical Engineering to develop a smart-grid energy demand model.
+My research extends the risk-return relationship, from the portfolio optimisation theory, for energy demand aggregation based on **time-series forecasting and evolutionary optimisation**, collaborating with the Department of Electronic and Electrical Engineering to develop a smart-grid energy demand model.
 
 
 __Production & Reservoir Engineer__ | Petrobras E&P Ultra-Deep Waters
