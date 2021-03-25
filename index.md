@@ -25,7 +25,7 @@ __Advanced Analytics Analyst - WRFM__ | Shell Information Data & Analytics -
 _The Hague, NL (Sep 2018 - Feb 2020)_
 
 I was the team focal point for wells, reservoir and facilities management (WRFM), delivering data science and operational research projects for deep water and unconventional oil fields.
-Strategically, I have influenced the team to systematically refocus toward high business value projects, coaching team members in principles such as detailed scoping, valuation and prioritisation frameworks.
+Strategically, I have influenced and refocused the team towards high business value projects, coaching team members in principles such as detailed scoping, valuation and prioritisation frameworks.
 I have brought in $56m worth of new projects in 2019.
 - Delivered **2019's #1 & #2 technologies for Unconventionals**, with combined estimated value of $24m: the Early Productivity Index Calculator (EPIC) and Production Optimisation & Surveillance Tool (POST). With these tools we productised scientific programming approaches for early assessment of well productivity, driven by new technology conceived by academia and industry research.
 - **Conceived and delivered the [Brazil Advanced Data Analytics (BRADA) programme](https://web.yammer.com/main/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMTA5MjU3ODMzODk4ODAzMiJ9)** in areas such as reservoir engineering, wells integrity surveillance and contracts & procurement, with an estimated value of $100m+.
@@ -37,7 +37,7 @@ _Swindon, UK  (Jul 2017 - Jun 2018)_
 
 Drove asset efficiency for the utilities industry through data science projects, turning raw data into actionable business intelligence, while actively developing junior scientists and engineers.
 In this role I have delivered **new business models leveraging the company's internal expertise**, such as developing a general statistics platform to be commercialised as a service, and designing the [WRc Academy](https://www.wrcplc.co.uk/wrc-academy) business unit - a modularised learning service targeting UK's water industry.
-As a senior scientist I was **responsible for the technical dimension of commercial activities** such as pre-sales processes, customer engagements, requirement definition and proposal preparation.
+As a senior scientist I was **responsible for commercial activities** such as pre-sales processes, customer engagements, requirement definition and proposal preparation.
 
 
 __New Energies Researcher__ | University of Bath School of Management -
@@ -103,7 +103,7 @@ Basic engineering, business analysis, production methods, operational research a
 
 ### Awards
 - **2020** Shell.ai [_Code Master_ award](https://www.linkedin.com/posts/alisa-cl-choong-73915489_improving-business-decisions-and-accelerating-activity-6724646702415921152-QhA0/) for AutoSum
-- **2019** VP Engineering Technology [The Power of Impact award](https://web.yammer.com/main/search/threads?search=award&groupScope=eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiIxMDA1NjE2MzMyOCJ9) for EPIC
+- **2019** VP Engineering Technology [The Power of Impact award](https://web.yammer.com/main/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiNDUxNDQwMDc4MzE1NTIwIn0) for EPIC
 
 
 ### Publications
