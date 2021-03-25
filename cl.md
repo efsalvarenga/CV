@@ -1,6 +1,6 @@
 Dear Madam/Sir,
 
-Ref: Application for the Opportunity Evaluation Manager role
+**Ref: Application for the Opportunity Evaluation Manager role**
 
 I would like to be part of the PTX Innovation Excellence team as the Opportunity Evaluation Manager.
 This motivation letter is accompanied by my CV with more detailed description of my professional experience.
@@ -16,14 +16,12 @@ In my career it’s been often required that I engage and influence the decision
 I trust those are skills that would benefit the team.
 
 There are two specific competencies I would like to highlight in this letter:
-
-Business acumen:
+- **Business acumen:**
 For the last four years I’ve performed in consultancy-oriented environments.
 Before Shell, as a Senior Data Scientist for WRc, my attributions included writing project proposals and leveraging internal expertise in new business models.
 After that, inside Shell, I have pivoted the ways of working of my own team, where I implemented the concept of fully funded projects.
 This required engaging with Shell businesses and making sure their requirements were addressed in schedule, performance and cost, while also making the team more accountable for their deliveries.
-
-Systems thinking:
+- **Systems thinking:**
 An important part of my training as an operational researcher is systems methodologies.
 I have formally utilised systems thinking in several applications in my career, one of them being the design of centrally managed inventories for 11 refineries in Brazil.
 I have implemented a technique called Soft Systems Methodology for delineating sub-systems, actors, processes and interfaces.
