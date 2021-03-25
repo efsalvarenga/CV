@@ -22,7 +22,7 @@ __Advanced Analytics Analyst - WRFM__ | Shell Information Data & Analytics -
 _The Hague, NL (Sep 2018 - Feb 2020)_
 
 I was the team focal point for wells, reservoir and facilities management (WRFM), delivering data science and operational research projects for deep water and unconventional oil fields.
-Strategically, I have influenced and refocused the team toward high business value projects, coaching team members in principles such as detailed scoping, valuation and prioritisation frameworks.
+Strategically, I have influenced and refocused the team towards high business value projects, coaching team members in principles such as detailed scoping, valuation and prioritisation frameworks.
 I have brought in $56m worth of new projects in 2019.
 - Delivered **2019's #1 & #2 technologies for Unconventionals**, with combined estimated value of $24m: the Early Productivity Index Calculator (EPIC) and Production Optimisation & Surveillance Tool (POST). With these tools we productised scientific programming approaches for early assessment of well productivity, driven by new technology conceived by academia and industry research.
 - **Conceived and delivered the Brazil Advanced Data Analytics (BRADA) programme** in areas such as reservoir engineering, wells integrity surveillance and contracts & procurement, with an estimated value of $100m+.
