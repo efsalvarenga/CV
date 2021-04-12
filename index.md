@@ -6,7 +6,7 @@
 
 ## Professional Experience
 
-__Advanced Analytics - Technical Leader__ | Shell Information Data & Analytics -
+__Advanced Analytics Technical Leader__ | Shell Information Data & Analytics -
 _The Hague, NL (Mar 2020 - Present)_
 
 Currently **leading a team of 6 analysts and data scientists**, developing advanced analytics projects for upstream, integrated gas, renewables and energy solutions.
@@ -18,7 +18,7 @@ Our multi-disciplinary portfolio includes:
   - Technically advising with focus on **phased productisation for two Shell R&D contracts in Brazil**, facilitating industry and academia engagements in a technical level, supporting innovative technology adoption.
 
 
-__Advanced Analytics Analyst - WRFM__ | Shell Information Data & Analytics -
+__Advanced Analytics Petroleum Engineer__ | Shell Information Data & Analytics -
 _The Hague, NL (Sep 2018 - Feb 2020)_
 
 I was the team focal point for wells, reservoir and facilities management (WRFM), delivering data science and operational research projects for deep water and unconventional oil fields.
