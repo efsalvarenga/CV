@@ -1,7 +1,8 @@
-- 14 years' experience in several facets of the Oil & Energy's landscape, capturing commercial value across **E&P, refining, utilities and new energies**;
+- 14 years' experience in several facets of **highly technical industries** such as oil & gas, supply chain and utilities;
 - Proven record in **meeting business requirements** through impactful and profitable digital technology;
 - Integrator by nature, able to **clearly communicate and influence senior stakeholders, business and technical professionals**;
-- **Systematic approach to opportunities**, defining commercial value and synthesising high level requirements that can be discussed with the business, before diving into more complex concepts for each of its subcomponents.
+- **Systematic approach to opportunities**, defining commercial value and synthesising high level requirements that can be discussed with the business, before diving into more complex concepts for each of its subcomponents;
+- Senior member of the R&D Mathematics, Computation & Data Science talent skill pool in Shell
 
 
 ## Professional Experience
@@ -9,24 +10,24 @@
 __Advanced Analytics Technical Leader__ | Shell Information Data & Analytics -
 _The Hague, NL (Mar 2020 - Present)_
 
-Currently **leading a team of 6 analysts and data scientists**, developing advanced analytics projects for upstream, integrated gas, renewables and energy solutions.
-Our current strategy focuses on maturing proof of concepts into analytics and data science products, with appropriate governance and security.
+Currently **leading a team of 6 analysts and data scientists**, focused on maturing proof of concepts into analytics and data science products, with appropriate governance and security, through Agile software development and DevOps methodologies.
 Our multi-disciplinary portfolio includes:
-  - SIE Analytics cross-business tool for Pre-salt's gas export system, **which processes and augment NOV data from 20 FPSOs and hundreds of wells** sharing an installed pipeline capacity of 40mln cubic meters (valuated at $20m).
-  - Supporting the AutoSum team: building **cutting edge surrogate modelling applications** for uncertainty and design choices evaluation (valuated at $100m).
-  - BalloBot, a text analytics solution that **leverages the Shell.ai platform** and delivers C&P insights to the business (winner of the Shell.ai _Platform Champion_ award).
+  - Delivering a cross-business analytics tool for a large gas export system, **which processes and augments data from hundreds of wells** sharing an installed pipeline capacity of 40mln cubic meters per day (valuated at $20m).
+  - Building **a cutting edge surrogate modelling web application** for uncertainty and design choices evaluation based on computer simulations (valuated at $100m), leveraging machine learning, automated testing and cloud technologies.
+  - BalloBot, a text analytics solution that **leverages the Shell.ai platform** and delivers contracts & procurement insights to the business (winner of the Shell.ai _Platform Champion_ award).
   - Technically advising with focus on **phased productisation for two Shell R&D contracts in Brazil**, facilitating industry and academia engagements in a technical level, supporting innovative technology adoption.
+  - Designing a **data platform for asset operations**, leveraging global data systems, unstructured local data, cloud storage and computation for agile productisation of analytics concepts
 
 
-__Advanced Analytics Petroleum Engineer__ | Shell Information Data & Analytics -
+__Advanced Analytics Engineer__ | Shell Information Data & Analytics -
 _The Hague, NL (Sep 2018 - Feb 2020)_
 
-I was the team focal point for wells, reservoir and facilities management (WRFM), delivering data science and operational research projects for deep water and unconventional oil fields.
+I was the team focal point for asset management, delivering data science and operational research projects for deep water and unconventional oil fields.
 Strategically, I have influenced and refocused the team towards high business value projects, coaching team members in principles such as detailed scoping, valuation and prioritisation frameworks.
 I have brought in $56m worth of new projects in 2019.
 - Delivered **2019's #1 & #2 technologies for Unconventionals**, with combined estimated value of $24m: the Early Productivity Index Calculator (EPIC) and Production Optimisation & Surveillance Tool (POST). With these tools we productised scientific programming approaches for early assessment of well productivity, driven by new technology conceived by academia and industry research.
-- **Conceived and delivered the Brazil Advanced Data Analytics (BRADA) programme** in areas such as reservoir engineering, wells integrity surveillance and contracts & procurement, with an estimated value of $100m+.
-- **Leveraged the collaboration between different teams** within Shell, such as asset teams, technology, development, IT and external research institutes.
+- **Conceived and delivered the Brazil Advanced Data Analytics (BRADA) programme** prototyping ideas in areas such as reservoir engineering, wells integrity surveillance and contracts & procurement, with an estimated value of $100m+.
+- **Leveraged the collaboration between different teams** within Shell, such as subject matter experts, operations, research & technology, software engineering and external institutes.
 
 
 __Senior Data Scientist__ | WRc plc Asset Resilience -
@@ -45,7 +46,7 @@ My research extends the risk-return relationship, from the portfolio optimisatio
 __Production & Reservoir Engineer__ | Petrobras E&P Ultra-Deep Waters -
 _Rio de Janeiro, Brazil (Apr 2014 - Dec 2016)_
 
-Performed reservoir engineering, production forecast and optimisation roles for Petrobras' pre-salt portfolio, collaborating with stakeholders such as project managers, executives and the regulatory agency.
+Performed reservoir engineering, production forecast, simulation and optimisation roles for Petrobras' pre-salt portfolio, collaborating with stakeholders such as project managers, executives and the regulatory agency.
 - Delivered Lula's 2016 reserves estimation to the U.S. Securities and Exchange Commission and Brazilian regulatory agency, which takes into account **technology maturity, resources uncertainty, supply chain risks and economic evaluation**.
 - Coordinated a team of three engineers **responsible for the resource optimisation of critical submarine equipment and vessels** for 15 FPSOs, negotiating the allocation proposal with the executive decision board.
 - Created a decision support model for evaluating system impact of resource allocation changes, and liaised with project managers to deliver the optimal production output for the entire portfolio.
@@ -69,10 +70,6 @@ __Previous roles__
 __Doctor of Philosophy (PhD) Management Science__ (Incomplete)
 _University of Bath, UK (2016 - 2017)_
 Research areas: Evolutionary optimisation, time-series forecast, portfolio optimisation, energy aggregation
-
-__PG Diploma Petroleum Engineering__
-_Catholic University Rio de Janeiro, Brazil (2014 - 2015)_
-400-hour postgraduate course comprising reservoir, drilling, production engineering and economic analysis
 
 __Master of Science (MSc) Operational Research__
 _Federal University Rio de Janeiro, Brazil (2011 - 2014)_
