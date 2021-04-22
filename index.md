@@ -25,11 +25,11 @@ Our multi-disciplinary portfolio includes:
 __Advanced Analytics Engineer__ | Shell Information Data & Analytics -
 _The Hague, NL (Sep 2018 - Feb 2020)_
 
-I was the team focal point for asset management, delivering data science and operational research projects for deep water and unconventional oil fields.
+I was the team focal point for asset management, delivering data science and operational research projects for deep water and unconventional fields.
 Strategically, I have influenced and refocused the team towards high business value projects, coaching team members in principles such as detailed scoping, valuation and prioritisation frameworks.
 I have brought in $56m worth of new projects in 2019.
 - Delivered **2019's #1 & #2 technologies for Unconventionals**, with combined estimated value of $24m: the Early Productivity Index Calculator (EPIC) and Production Optimisation & Surveillance Tool (POST). With these tools we productised scientific programming approaches for early assessment of well productivity, driven by new technology conceived by academia and industry research.
-- **Conceived and delivered the Brazil Advanced Data Analytics (BRADA) programme** prototyping ideas in areas such as reservoir engineering, wells integrity surveillance and contracts & procurement, with an estimated value of $100m+.
+- **Conceived and delivered the Brazil Advanced Data Analytics (BRADA) programme** prototyping ideas in areas such as subsurface engineering, asset integrity surveillance and contracts & procurement, with an estimated value of $100m+.
 - **Leveraged the collaboration between different teams** within Shell, such as subject matter experts, operations, research & technology, software engineering and external institutes.
 
 
@@ -46,10 +46,10 @@ _Bath, UK (Feb 2017 - Jun 2018)_
 My research extends the risk-return relationship, from the portfolio optimisation theory, for energy demand aggregation based on time-series forecasting and evolutionary optimisation, collaborating with the Department of Electronic and Electrical Engineering to develop a smart-grid energy demand model.
 
 
-__Production & Reservoir Engineer__ | Petrobras E&P Ultra-Deep Waters -
+__Subsurface Engineer__ | Petrobras E&P Ultra-Deep Waters -
 _Rio de Janeiro, Brazil (Apr 2014 - Dec 2016)_
 
-Performed reservoir engineering, production forecast, simulation and optimisation roles for Petrobras' pre-salt portfolio, collaborating with stakeholders such as project managers, executives and the regulatory agency.
+Performed subsurface engineering, production forecast, simulation and optimisation roles for Petrobras' pre-salt portfolio, collaborating with stakeholders such as project managers, executives and the regulatory agency.
 - Delivered Lula's 2016 reserves estimation to the U.S. Securities and Exchange Commission and Brazilian regulatory agency, which takes into account **technology maturity, resources uncertainty, supply chain risks and economic evaluation**.
 - Coordinated a team of three engineers **responsible for the resource optimisation of critical submarine equipment and vessels** for 15 FPSOs, negotiating the allocation proposal with the executive decision board.
 - Created a decision support model for evaluating system impact of resource allocation changes, and liaised with project managers to deliver the optimal production output for the entire portfolio.
