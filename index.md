@@ -4,8 +4,7 @@
 - 14 years' experience in several facets of **highly technical industries** such as oil & gas, supply chain and utilities;
 - Proven record in **meeting business requirements** through impactful and profitable digital technology;
 - Integrator by nature, able to **clearly communicate and influence senior stakeholders, business and technical professionals**;
-- **Systematic approach to opportunities**, defining commercial value and synthesising high level requirements that can be discussed with the business, before diving into more complex concepts for each of its subcomponents;
-- Senior member of the R&D Mathematics, Computation & Data Science talent skill pool in Shell
+- **Systematic approach to opportunities**, defining commercial value and synthesising high level requirements that can be discussed with the business, before diving into more complex concepts for each of its subcomponents.
 
 
 ## Professional Experience
@@ -13,7 +12,7 @@
 __Advanced Analytics Technical Leader__ | Shell Information Data & Analytics -
 _The Hague, NL (Mar 2020 - Present)_
 
-Currently **leading a team of 6 analysts and data scientists**, focused on maturing proof of concepts into analytics and data science products, with appropriate governance and security, through Agile software development and DevOps methodologies.
+Part of the R&D Math Computational & Data Science discipline and currently **leading a team of 6 analysts and data scientists**. My team is focused on maturing proof of concepts into analytics and data science products, with appropriate governance and security, through Agile software development and DevOps methodologies.
 Our multi-disciplinary portfolio includes:
   - Delivering a cross-business analytics tool for a large gas export system, **which processes and augments data from hundreds of wells** sharing an installed pipeline capacity of 40mln cubic meters per day (valuated at $20m).
   - Building **a cutting edge surrogate modelling web application** for uncertainty and design choices evaluation based on computer simulations (valuated at $100m), leveraging machine learning, automated testing and cloud technologies.
