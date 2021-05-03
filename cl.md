@@ -1,8 +1,8 @@
 Dear Madam/Sir,
 
-**Ref: Application for the Senior Scientist role**
+**Ref: Application for the Scientist Quantitative Decision Models role**
 
-I would like to be part of NATO Communications and Information Agency team as a Senior Scientist.
+I would like to be part of the TNO team in the afore mentioned role.
 This motivation letter is accompanied by my CV with more detailed description of my professional experience.
 
 I am a Chartered Engineer (UK's Institution of Engineering and Technology), passionate about driving technology adoption.
@@ -10,8 +10,8 @@ I have contributed to the delivery of several multi-million projects for oil & g
 My extensive experience within highly technical industries is supported by further academic education on operational research and management sciences.
 My specific expertise includes asset management, project scoping & valuation, data science (operational research, mathematical modelling & machine learning), leadership and communication.
 
-The Command and Control Service Line would fit both my career aspirations and the history I’ve built so far.
-I want to play an active role in systematising sustainable digital innovation adoption in industries, focused on technology maturation and operation strategy.
+The TNO team would fit both my career aspirations and the history I’ve built so far.
+I want to play an active role in systematising sustainable quantitative innovation adoption in the energy industry, focused on technology maturation and operation strategy.
 In my career it’s been often required that I engage and influence the decisions of senior stakeholders (executives and directors), assurance teams, academia and national agencies, while supporting negotiations and agreeing on techno-economic excellence.
 I trust those are skills that would benefit the team.
 
@@ -22,7 +22,6 @@ In my years in Shell IT I have a track record of collaborating with multidiscipl
 For this reason, (successfully) finished projects were transitioned to support, releasing my team’s time to take part in new ideas.
 - **Systems thinking:**
 An important part of my training as an operational researcher is systems methodologies. I have formally utilised systems thinking in several applications in my career, one of them being the design of centrally managed inventories for 11 refineries in Brazil. I have implemented a technique called Soft Systems Methodology for delineating sub-systems, actors, processes and interfaces. The project was finally implemented and savings in the order of 25% were achieved.
-
 
 I am a hard-working, curious and creative engineer who always seeks analytical and result oriented solutions to problems.
 Throughout my career I have fostered collaborative relationships and was fortunate to assimilate valuable professional lessons.
