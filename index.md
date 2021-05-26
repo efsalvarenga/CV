@@ -9,8 +9,12 @@
 
 ## Professional Experience
 
-__Advanced Analytics Technical Leader__ | Shell Information Data & Analytics -
-_The Hague, NL (Mar 2020 - Present)_
+__Machine Learning Technology Lead__ | Shell Information Data & Analytics -
+_The Hague, NL (Aug 2021 - present)_
+
+
+__Advanced Analytics Technical Lead__ | Shell Information Data & Analytics -
+_The Hague, NL (Mar 2020 - Jul 2021)_
 
 Part of the R&D Math Computational & Data Science discipline and currently **leading a team of 6 analysts and data scientists**. My team is focused on maturing proof of concepts into analytics and data science products, with appropriate governance and security, through Agile software development and DevOps methodologies.
 Our multi-disciplinary portfolio includes:
@@ -21,7 +25,7 @@ Our multi-disciplinary portfolio includes:
   - Designing a **data platform for asset operations**, leveraging global data systems, unstructured local data, cloud storage and computation for agile productisation of analytics concepts
 
 
-__Advanced Analytics Engineer__ | Shell Information Data & Analytics -
+__Advanced Analytics / Reservoir Engineer__ | Shell Information Data & Analytics -
 _The Hague, NL (Sep 2018 - Feb 2020)_
 
 I was the team focal point for asset management, delivering data science and operational research projects for deep water and unconventional fields.
@@ -45,7 +49,7 @@ _Bath, UK (Feb 2017 - Jun 2018)_
 My research extends the risk-return relationship, from the portfolio optimisation theory, for energy demand aggregation based on time-series forecasting and evolutionary optimisation, collaborating with the Department of Electronic and Electrical Engineering to develop a smart-grid energy demand model.
 
 
-__Subsurface Engineer__ | Petrobras E&P Ultra-Deep Waters -
+__Reservoir Engineer__ | Petrobras E&P Ultra-Deep Waters -
 _Rio de Janeiro, Brazil (Apr 2014 - Dec 2016)_
 
 Performed subsurface engineering, production forecast, simulation and optimisation roles for Petrobras' pre-salt portfolio, collaborating with stakeholders such as project managers, executives and the regulatory agency.
