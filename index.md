@@ -1,6 +1,4 @@
-# Estevao Alvarenga CEng
 
-#### **Operational Research Industrial Engineer**
 - 14 years' experience in several facets of **highly technical industries** such as oil & gas, supply chain and utilities;
 - Proven record in **meeting business requirements** through impactful and profitable digital technology;
 - Integrator by nature, able to **clearly communicate and influence senior stakeholders, business and technical professionals**;
@@ -9,23 +7,24 @@
 
 ## Professional Experience
 
-__Machine Learning Technology Lead__ | Shell Information Data & Analytics -
+__Machine Learning Tools Lead__ | Shell Information & Digital Engineering -
 _The Hague, NL (Aug 2021 - present)_
 
+Responsible for implementing and supporting machine learning computational technology that **enables data scientists to leverage cloud technology while building digital products** to Shell businesses. The strategy is to further industrialise our digital engineering: designing and running the systematisation of prototyping, productisation, support and operations. The multifunctional and cross-company teams I lead are responsible for enterprise-wide managed services such as Azure Machine Learning and AWS SageMaker.
 
-__Advanced Analytics Technical Lead__ | Shell Information Data & Analytics -
+
+__Advanced Analytics, Technical Lead__ | Shell Information Data & Analytics -
 _The Hague, NL (Mar 2020 - Jul 2021)_
 
-Part of the R&D Math Computational & Data Science discipline and currently **leading a team of 6 analysts and data scientists**. My team is focused on maturing proof of concepts into analytics and data science products, with appropriate governance and security, through Agile software development and DevOps methodologies.
-Our multi-disciplinary portfolio includes:
-  - Delivering a cross-business analytics tool for a large gas export system, **which processes and augments data from hundreds of wells** sharing an installed pipeline capacity of 40mln cubic meters per day (valuated at $20m).
-  - Building **a cutting edge surrogate modelling web application** for uncertainty and design choices evaluation based on computer simulations (valuated at $100m), leveraging machine learning, automated testing and cloud technologies.
+Part of the R&D Math Computational & Data Science discipline and **leading a team of 6 analysts and data scientists**. My team was focused on maturing proof of concepts into analytics and data science products, with appropriate governance and security, through Agile software development and DevOps methodologies.
+Our multi-disciplinary portfolio included:
+  - SIE analytics, a cross-business analytics tool for a large gas export system, **which processes and augments data from hundreds of wells** sharing an installed pipeline capacity of 40mln cubic meters per day (valuated at $20m).
+  - AutoSum, **a cutting edge surrogate modelling web application** for uncertainty and design choices evaluation based on computer simulations (valuated at $100m), leveraging machine learning, automated testing and cloud technologies.
   - BalloBot, a text analytics solution that **leverages the Shell.ai platform** and delivers contracts & procurement insights to the business (winner of the Shell.ai _Platform Champion_ award).
-  - Technically advising with focus on **phased productisation for two Shell R&D contracts in Brazil**, facilitating industry and academia engagements in a technical level, supporting innovative technology adoption.
-  - Designing a **data platform for asset operations**, leveraging global data systems, unstructured local data, cloud storage and computation for agile productisation of analytics concepts
+  - **Phased productisation for two Shell R&D contracts**, facilitating industry and academia engagements in a technical level, supporting innovative technology adoption.
 
 
-__Advanced Analytics / Reservoir Engineer__ | Shell Information Data & Analytics -
+__Advanced Analytics, Petroleum Engineer__ | Shell Information Data & Analytics -
 _The Hague, NL (Sep 2018 - Feb 2020)_
 
 I was the team focal point for asset management, delivering data science and operational research projects for deep water and unconventional fields.
@@ -49,7 +48,7 @@ _Bath, UK (Feb 2017 - Jun 2018)_
 My research extends the risk-return relationship, from the portfolio optimisation theory, for energy demand aggregation based on time-series forecasting and evolutionary optimisation, collaborating with the Department of Electronic and Electrical Engineering to develop a smart-grid energy demand model.
 
 
-__Reservoir Engineer__ | Petrobras E&P Ultra-Deep Waters -
+__Production & Reservoir Engineer__ | Petrobras E&P Ultra-Deep Waters -
 _Rio de Janeiro, Brazil (Apr 2014 - Dec 2016)_
 
 Performed subsurface engineering, production forecast, simulation and optimisation roles for Petrobras' pre-salt portfolio, collaborating with stakeholders such as project managers, executives and the regulatory agency.
