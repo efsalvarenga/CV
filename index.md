@@ -10,7 +10,7 @@
 __Machine Learning Tools Lead__ | Shell Information & Digital Engineering -
 _The Hague, NL (Aug 2021 - present)_
 
-Responsible for implementing and supporting machine learning computational technology that **enables data scientists to leverage cloud technology while building digital products** to Shell businesses. The strategy is to further industrialise our digital engineering: designing and running the systematisation of prototyping, productisation, support and operations. The multifunctional and cross-company teams I lead are responsible for enterprise-wide managed services such as Azure Machine Learning and AWS SageMaker.
+Responsible for implementing machine learning computational technology that **enables data scientists to leverage cloud technology while building digital products** to Shell businesses. The multifunctional and cross-company teams I lead are responsible for enterprise-wide managed services such as Azure Machine Learning and AWS SageMaker.
 
 
 __Advanced Analytics, Technical Lead__ | Shell Information Data & Analytics -
