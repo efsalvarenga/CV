@@ -7,10 +7,16 @@
 
 ## Professional Experience
 
-__Machine Learning Tools Lead__ | Shell Information & Digital Engineering -
-_The Hague, NL (Aug 2021 - present)_
+__Shell.ai Platform Manager__ | Shell Information & Digital Engineering -
+_The Hague, NL (Feb 2022 - current)_
 
-Responsible for implementing machine learning computational technology that **enables data scientists to leverage cloud technology while building digital products** to Shell businesses. The multifunctional and cross-company teams I lead are responsible for enterprise-wide managed services such as Azure Machine Learning and AWS SageMaker.
+
+
+__Machine Learning Tools Lead__ | Shell Information & Digital Engineering -
+_The Hague, NL (Aug 2021 - Feb 2022)_
+
+Responsible for implementing machine learning computational technology that **enables data scientists to leverage cloud technology while building digital products** to Shell businesses.
+The multifunctional and cross-company team I lead was responsible for developing the enterprise-wide Azure Machine Learning services.
 
 
 __Advanced Analytics, Technical Lead__ | Shell Information Data & Analytics -
@@ -100,6 +106,8 @@ Basic engineering, business analysis, production methods, operational research a
 
 
 ### Awards
+- **2021** Shell.ai [_Build to Adapt and Popular Choice awards_](https://www.credly.com/badges/0685fe71-d3fc-446a-9b53-5498d4226ed7?source=linked_in_profile) for AutoSum
+- **2021** Global Development _Subsurface Excellence award_ for Transforming Data to Value in giant Brazilian Pre-Salt Field
 - **2020** Shell.ai [_Code Master_ award](https://www.linkedin.com/posts/alisa-cl-choong-73915489_improving-business-decisions-and-accelerating-activity-6724646702415921152-QhA0/) for AutoSum
 - **2019** VP Engineering Technology The Power of Impact award for EPIC
 
