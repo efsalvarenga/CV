@@ -1,4 +1,6 @@
 
+# Estevao Alvarenga CEng
+
 - 14 years' experience in several facets of **highly technical industries** such as oil & gas, supply chain and utilities;
 - Proven record in **meeting business requirements** through impactful and profitable digital technology;
 - Integrator by nature, able to **clearly communicate and influence senior stakeholders, business and technical professionals**;
@@ -55,25 +57,14 @@ Drove asset efficiency for the utilities industry through data science projects,
 As a senior scientist I was **responsible for commercial activities** such as pre-sales processes, customer engagements, requirement definition and proposal preparation.
 
 
-__New Energies Researcher__ | University of Bath School of Management -
-_Bath, UK (Feb 2017 - Jun 2018)_
+#### Previous roles
 
-My research extends the risk-return relationship, from the portfolio optimisation theory, for energy demand aggregation based on time-series forecasting and evolutionary optimisation, collaborating with the Department of Electronic and Electrical Engineering to develop a smart-grid energy demand model.
-
-
-__Production & Reservoir Engineer__ | Petrobras E&P Ultra-Deep Waters -
-_Rio de Janeiro, Brazil (Apr 2014 - Dec 2016)_
-
-Performed subsurface engineering, production forecast, simulation and optimisation roles for Petrobras' pre-salt portfolio, collaborating with stakeholders such as project managers, executives and the regulatory agency.
-
-
-__Industrial Engineer__ | Petrobras Refining -
-_Rio de Janeiro, Brazil (Apr 2009 - Apr 2014)_
-
-Responsible for the corporate supply chain management governance of 12 units across Brazil, and for liaising with asset management teams. Was responsible for optimising spare parts' inventory, looking at the failure history of assets, production security, material costs and logistics, through survival analysis modelling and Monte Carlo simulation.
-
-
-__Previous roles__
+- **New Energies Researcher** - University of Bath School of Management - _Bath, UK (Feb 2017 - Jun 2018)_
+   - My research extends the risk-return relationship, from the portfolio optimisation theory, for energy demand aggregation based on time-series forecasting and evolutionary optimisation, collaborating with the Department of Electronic and Electrical Engineering to develop a smart-grid energy demand model.
+- **Production & Reservoir Engineer** - Petrobras Ultra-Deep Waters - _Rio de Janeiro, Brazil (Apr 2014 - Dec 2016)_
+   - Performed subsurface engineering, production forecast, simulation and optimisation roles for Petrobras' pre-salt portfolio, collaborating with stakeholders such as project managers, executives and the regulatory agency.
+- **Industrial Engineer** - Petrobras Refining - _Rio de Janeiro, Brazil (Apr 2009 - Apr 2014)_
+   - Responsible for the corporate supply chain management governance of 12 units across Brazil, and for liaising with asset management teams. Was responsible for optimising spare parts' inventory, looking at the failure history of assets, production security, material costs and logistics, through survival analysis modelling and Monte Carlo simulation.
 - **Engineer in training** - Petrobras -  _Rio de Janeiro, Brazil (Oct 2008 - Apr 2009)_
 - **Graduate Consultant for Utilities** - SAP - _Sao Paulo, Brazil (Jan 2007 - Oct 2008)_
 

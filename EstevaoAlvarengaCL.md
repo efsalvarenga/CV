@@ -13,10 +13,10 @@ My specific expertise includes asset management, project scoping & valuation, di
 The ESA team would fit both my career aspirations and the history I’ve built so far.
 I want to play an active role in systematising digital innovation adoption in technical industries, focused on technology maturation and operation strategy.
 In my career it’s been often required that I engage and influence the decisions of senior stakeholders (executives and directors), assurance teams, academia and national agencies, while supporting negotiations and agreeing on techno-economic excellence.
-I trust those are skills that would benefit the team.
+I trust those are skills that would benefit the ESA team.
 
 There are two specific competencies I would like to highlight in this letter:
-- **Fostering Cooperation:**
+- **Fostering cooperation:**
 I am an integrative professional by nature.
 In my years in Shell I have a track record of collaborating with multidisciplinary teams, leveraging subject matter expertise, R&D professionals, IT architecture, support teams and senior stakeholders.
 For this reason, (successfully) finished projects were transitioned to support, releasing my team’s time to take part in new ideas.
