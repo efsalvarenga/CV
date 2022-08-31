@@ -19,7 +19,7 @@ Example of our services include:
 - Innovation and industrialisation requirements sync, in partnership with the engineering teams of Microsoft and AWS
 
 
-__Machine Learning Tools Lead__ | Shell Information & Digital Engineering -
+__Digital Engineering, Machine Learning Tools Lead__ | Shell Information & Digital Engineering -
 _The Hague, NL (Aug 2021 - Feb 2022)_
 
 Responsible for implementing machine learning computational technology that **enables data scientists to leverage cloud technology while building digital products** to Shell businesses.
