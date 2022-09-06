@@ -11,7 +11,7 @@ __Artificial Intelligence Platform Manager__ | Shell Information & Digital Engin
 _The Hague, NL (Feb 2022 - current)_
 
 I am managing the [Shell.ai](https://www.shell.com/energy-and-innovation/digitalisation/digital-technologies/shell-ai.html#vanity-aHR0cHM6Ly93d3cuc2hlbGwuY29tL2FpLmh0bWw) Platform, our portfolio of cloud platform services focused at scaling AI and Machine Learning in Shell.
-The Shell.ai Platform **allows our 1000+ data scientists developers to enable $2+ bln in digitalisation** applications and services.
+The Shell.ai Platform **empowers our 1000+ data scientists developers to enable $2+ bln in digital** applications and services.
 I am responsible for multiple teams that **acquire and integrate market standard cloud computing services** into Shell's systems (technology, processes, people).
 Example of our services include:
 - Enterprise Azure Machine Learning Service, currently with 15 assets onboarded, 100 users, 150 staff trained and fully connected to Shell's data systems (sensors, assets, contracts & procurement, HR, etc.)
@@ -23,7 +23,7 @@ __Digital Engineering, Machine Learning Tools Lead__ | Shell Information & Digit
 _The Hague, NL (Aug 2021 - Feb 2022)_
 
 Responsible for implementing machine learning computational technology that **enables data scientists to leverage cloud technology while building digital products** to Shell businesses.
-The multifunctional and cross-company team I lead was responsible for developing the enterprise-wide Azure Machine Learning services.
+The multifunctional and cross-company team I led was responsible for developing the enterprise-wide Azure Machine Learning services.
 
 
 __Advanced Analytics, Technical Lead__ | Shell Information Data & Analytics -
