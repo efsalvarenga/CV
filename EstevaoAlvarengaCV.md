@@ -1,7 +1,7 @@
 
 # Estevao Alvarenga CEng
 
-- 14 years' experience in several facets of **highly technical industries** such as oil & gas, supply chain and utilities;
+- 16 years' experience in several facets of **highly technical industries** such as oil & gas, supply chain and utilities;
 - Proven record in **meeting business requirements** through impactful and profitable digital technology;
 - Integrator by nature, able to **clearly communicate and influence senior stakeholders, business and technical professionals**;
 - **Systematic approach to opportunities**, defining commercial value and synthesising high level requirements that can be discussed with the business, before diving into more complex concepts for each of its subcomponents.
@@ -12,13 +12,13 @@
 __Artificial Intelligence Platform Manager__ | Shell Information & Digital Engineering -
 _The Hague, NL (Feb 2022 - current)_
 
-I am managing the [Shell.ai](https://www.shell.com/energy-and-innovation/digitalisation/digital-technologies/shell-ai.html#vanity-aHR0cHM6Ly93d3cuc2hlbGwuY29tL2FpLmh0bWw) Platform, our portfolio of cloud platform services focused at scaling AI and Machine Learning in Shell.
+I manage the [Shell.ai](https://www.shell.com/energy-and-innovation/digitalisation/digital-technologies/shell-ai.html#vanity-aHR0cHM6Ly93d3cuc2hlbGwuY29tL2FpLmh0bWw) Platform, our portfolio of enterprise and niche capabilities, hosted in the cloud, that supports development, operations and scalability of Artificial Intelligence, Machine Learning, and Computational Sciences products in Shell.
 The Shell.ai Platform **allows our 1000+ data scientists developers to enable $2+ bln in digitalisation** applications and services.
 I am responsible for multiple teams that **acquire and integrate market standard cloud computing services** into Shell's systems (technology, processes, people).
 Example of our services include:
-- Enterprise Azure Machine Learning Service, currently with 15 assets onboarded, 100 users, 150 staff trained and fully connected to Shell's data systems (sensors, assets, contracts & procurement, HR, etc.)
-- Enterprise Amazon SageMaker Service, not yet released to end users
-- Innovation and industrialisation requirements sync, in partnership with the engineering teams of Microsoft and AWS
+- Enterprise Azure Machine Learning Service, currently with 15 assets onboarded, 100 users, 150 staff trained and fully connected to Shell's data systems (sensors, assets, contracts & procurement, HR, etc.).
+- Enterprise Amazon SageMaker Service, not yet released to end users.
+- Innovation and industrialisation requirements sync, in partnership with the engineering teams of Microsoft and AWS.
 
 
 __Machine Learning Tools Lead__ | Shell Information & Digital Engineering -
