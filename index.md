@@ -8,12 +8,12 @@
 ## Professional Experience
 
 __Industrial Electrification, Principal Data Scientist__ | Shell Computational Sciences and Digital Innovation -
-_Amsterdam, NL (Feb 2022 - Feb 2023)_
+_Amsterdam, NL (Jan 2023 - current)_
 
 
 
 __Artificial Intelligence Platform Manager__ | Shell Information & Digital Engineering -
-_The Hague, NL (Feb 2022 - Feb 2023)_
+_The Hague, NL (Feb 2022 - Dec 2022)_
 
 I am managing the [Shell.ai](https://www.shell.com/energy-and-innovation/digitalisation/digital-technologies/shell-ai.html#vanity-aHR0cHM6Ly93d3cuc2hlbGwuY29tL2FpLmh0bWw) Platform, our portfolio of cloud platform services focused at scaling AI and Machine Learning in Shell.
 The Shell.ai Platform **empowers our 1000+ data scientists developers to enable $2+ bln in digital** applications and services.
