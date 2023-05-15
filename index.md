@@ -10,8 +10,6 @@
 __Industrial Electrification, Principal Data Scientist__ | Shell Computational Sciences and Digital Innovation -
 _Amsterdam, NL (Jan 2023 - current)_
 
-
-
 __Artificial Intelligence Platform Manager__ | Shell Information & Digital Engineering -
 _The Hague, NL (Feb 2022 - Dec 2022)_
 
