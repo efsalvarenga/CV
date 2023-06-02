@@ -12,16 +12,13 @@
 __Industrial Electrification, Principal Data Scientist__ | Shell Computational Sciences and Digital Innovation -
 _Amsterdam, NL (Jan 2023 - current)_
 
+I am technically responsible for the delivery of the digital scope for Industrial Electrification. I lead a group of 13 technical leads, each responsible for one team of 3 to 5 professionals who are building the technology blocks that will enable Shell's electrification strategy for industrial assets.
+
+
 __Artificial Intelligence Platform Manager__ | Shell Information & Digital Engineering -
 _The Hague, NL (Feb 2022 - Dec 2022)_
 
-I am managing the [Shell.ai](https://www.shell.com/energy-and-innovation/digitalisation/digital-technologies/shell-ai.html#vanity-aHR0cHM6Ly93d3cuc2hlbGwuY29tL2FpLmh0bWw) Platform, our portfolio of cloud platform services focused at scaling AI and Machine Learning in Shell.
-The Shell.ai Platform **empowers our 1000+ data scientists developers to enable $2+ bln in digital** applications and services.
-I am responsible for multiple teams that **acquire and integrate market standard cloud computing services** into Shell's systems (technology, processes, people).
-Example of our services include:
-- Enterprise Azure Machine Learning Service, currently with 15 assets onboarded, 100 users, 150 staff trained and fully connected to Shell's data systems (sensors, assets, contracts & procurement, HR, etc.).
-- Enterprise Amazon SageMaker Service, not yet released to end users.
-- Innovation and industrialisation requirements sync, in partnership with the engineering teams of Microsoft and AWS.
+I managed the [Shell.ai](https://www.shell.com/energy-and-innovation/digitalisation/digital-technologies/shell-ai.html#vanity-aHR0cHM6Ly93d3cuc2hlbGwuY29tL2FpLmh0bWw) Platform, our portfolio of cloud platform services focused at scaling AI and Machine Learning in Shell. The Shell.ai Platform **empowers our 1000+ data scientists developers to enable $2+ bln in digital** applications and services. I was responsible for multiple teams that **acquire and integrate market standard cloud computing services** into Shell's systems (technology, processes, people).
 
 
 __Digital Engineering, Machine Learning Tools Lead__ | Shell Information & Digital Engineering -
