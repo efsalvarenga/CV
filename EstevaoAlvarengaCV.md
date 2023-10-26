@@ -105,6 +105,7 @@ Basic engineering, business analysis, production methods, operational research a
 - **2019** VP Engineering Technology The Power of Impact award for EPIC
 
 ### Publications
+- **2023** Probabilistic forecast-based portfolio optimization of electricity demand at low aggregation levels, *Applied Energy* [DOI:10.1016/j.apenergy.2023.122109](https://doi.org/10.1016/j.apenergy.2023.122109 "Persistent link using digital object identifier")
 - **2018** Soft systems methodology applied to oil refineries inventory process (in Portuguese) In: Estellita Lins *et al*. Complex problem structuring: embedding concept maps to decision support models. 1st. Ed. Interciencia. 14th chapter. [Link to publishing company](https://www.editorainterciencia.com.br/index.asp?pg=prodDetalhado.asp&idprod=484&token=).
 - **2018** Predictive modelling of water losses using random forests on weather covariates, *WST Water Science and Technology* [DOI:10.2166/ws.2018.044](http://ws.iwaponline.com/content/early/2018/03/16/ws.2018.044)
 - **2016** Selection of corporate spare parts inventory for Brazilian refineries: a smoothed data envelopment analysis frontier function, *JORS Journal of the Operational Research Society* [DOI:10.1057/jors.2016.44](https://www.tandfonline.com/doi/abs/10.1057/jors.2016.44?journalCode=tjor20)
