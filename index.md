@@ -1,5 +1,5 @@
 
-- 14 years' experience in several facets of **highly technical industries** such as oil & gas, supply chain and utilities;
+- 18 years' experience in several facets of **highly technical industries** such as oil & gas, supply chain and utilities;
 - Proven record in **meeting business requirements** through impactful and profitable digital technology;
 - Integrator by nature, able to **clearly communicate and influence senior stakeholders, business and technical professionals**;
 - **Systematic approach to opportunities**, defining commercial value and synthesising high level requirements that can be discussed with the business, before diving into more complex concepts for each of its subcomponents.
@@ -7,30 +7,19 @@
 
 ## Professional Experience
 
-__Industrial Electrification, Principal Data Scientist__ | Shell Computational Sciences and Digital Innovation -
+__Industrial Electrification, Data Science Manager__ | Shell Computational Sciences and Digital Innovation -
 _Amsterdam, NL (Jan 2023 - current)_
 
+I am responsible for the delivery of the digital scope for Industrial Electrification.
+- Our group has implemented the application that **allows flexibly operating of Pernis' utilities**, capable of financial optimisation, integrating with trading and equipment control.
+- The same approach is being **extended to internal and external customers**, such as Gasunie - the Dutch gas network operator.
+- I **lead a group of 18 developers** (including architecture and infrastructure) that will enable Shell's electrification strategy for industrial assets.
+
+
 __Artificial Intelligence Platform Manager__ | Shell Information & Digital Engineering -
-_The Hague, NL (Feb 2022 - Dec 2022)_
+_The Hague, NL (Aug 2021 - Dec 2022)_
 
-I am managing the [Shell.ai](https://www.shell.com/energy-and-innovation/digitalisation/digital-technologies/shell-ai.html#vanity-aHR0cHM6Ly93d3cuc2hlbGwuY29tL2FpLmh0bWw) Platform, our portfolio of cloud platform services focused at scaling AI and Machine Learning in Shell.
-The Shell.ai Platform **empowers our 1000+ data scientists developers to enable $2+ bln in digital** applications and services.
-I am responsible for multiple teams that **acquire and integrate market standard cloud computing services** into Shell's systems (technology, processes, people).
-Example of our services include:
-- Enterprise Azure Machine Learning Service, currently with 15 assets onboard, 100 users, 150 staff trained and fully connected to Shell's data systems (sensors, assets, contracts & procurement, HR, etc.)
-- Enterprise Amazon SageMaker Service, not yet released to end users
-  - Where a recognition from the VP SS data & digital for for making our Development and Subsurface Community a great place to work (AI capability with OSDU)
-- Innovation and industrialisation requirements sync, in partnership with the engineering teams of Microsoft and AWS
-- Identified as Emerging Talent
-- Received SRA
-- TA2
-
-
-__Digital Engineering, Machine Learning Tools Lead__ | Shell Information & Digital Engineering -
-_The Hague, NL (Aug 2021 - Feb 2022)_
-
-Responsible for implementing machine learning computational technology that **enables data scientists to leverage cloud technology while building digital products** to Shell businesses.
-The multifunctional and cross-company team I led was responsible for developing the enterprise-wide Azure Machine Learning services.
+I managed the [Shell.ai](https://www.shell.com/energy-and-innovation/digitalisation/digital-technologies/shell-ai.html#vanity-aHR0cHM6Ly93d3cuc2hlbGwuY29tL2FpLmh0bWw) Platform, our portfolio of cloud platform services focused at scaling AI and Machine Learning in Shell. The Shell.ai Platform **empowers our 1000+ data scientists developers to enable $2+ bln in digital** applications and services. I was responsible for multiple teams that **acquire and integrate market standard cloud computing services** into Shell's systems (technology, processes, people).
 
 
 __Advanced Analytics, Technical Lead__ | Shell Information Data & Analytics -
@@ -62,25 +51,14 @@ Drove asset efficiency for the utilities industry through data science projects,
 As a senior scientist I was **responsible for commercial activities** such as pre-sales processes, customer engagements, requirement definition and proposal preparation.
 
 
-__New Energies Researcher__ | University of Bath School of Management -
-_Bath, UK (Feb 2017 - Jun 2018)_
+#### Previous roles
 
-My research extends the risk-return relationship, from the portfolio optimisation theory, for energy demand aggregation based on time-series forecasting and evolutionary optimisation, collaborating with the Department of Electronic and Electrical Engineering to develop a smart-grid energy demand model.
-
-
-__Production & Reservoir Engineer__ | Petrobras E&P Ultra-Deep Waters -
-_Rio de Janeiro, Brazil (Apr 2014 - Dec 2016)_
-
-Performed subsurface engineering, production forecast, simulation and optimisation roles for Petrobras' pre-salt portfolio, collaborating with stakeholders such as project managers, executives and the regulatory agency.
-
-
-__Industrial Engineer__ | Petrobras Refining -
-_Rio de Janeiro, Brazil (Apr 2009 - Apr 2014)_
-
-Responsible for the corporate supply chain management governance of 12 units across Brazil, and for liaising with asset management teams. Was responsible for optimising spare parts' inventory, looking at the failure history of assets, production security, material costs and logistics, through survival analysis modelling and Monte Carlo simulation.
-
-
-__Previous roles__
+- **New Energies Researcher** - University of Bath School of Management - _Bath, UK (Feb 2017 - Jun 2018)_
+   - My research extends the risk-return relationship, from the portfolio optimisation theory, for energy demand aggregation based on time-series forecasting and evolutionary optimisation, collaborating with the Department of Electronic and Electrical Engineering to develop a smart-grid energy demand model.
+- **Production & Reservoir Engineer** - Petrobras Ultra-Deep Waters - _Rio de Janeiro, Brazil (Apr 2014 - Dec 2016)_
+   - Performed subsurface engineering, production forecast, simulation and optimisation roles for Petrobras' pre-salt portfolio, collaborating with stakeholders such as project managers, executives and the regulatory agency.
+- **Industrial Engineer** - Petrobras Refining - _Rio de Janeiro, Brazil (Apr 2009 - Apr 2014)_
+   - Responsible for the corporate supply chain management governance of 12 units across Brazil, and for liaising with asset management teams. Was responsible for optimising spare parts' inventory, looking at the failure history of assets, production security, material costs and logistics, through survival analysis modelling and Monte Carlo simulation.
 - **Engineer in training** - Petrobras -  _Rio de Janeiro, Brazil (Oct 2008 - Apr 2009)_
 - **Graduate Consultant for Utilities** - SAP - _Sao Paulo, Brazil (Jan 2007 - Oct 2008)_
 
@@ -121,8 +99,8 @@ Basic engineering, business analysis, production methods, operational research a
 - **2019** VP Engineering Technology The Power of Impact award for EPIC
 
 ### Publications
-- **2023** Probabilistic forecast-based portfolio optimization of electricity demand at low aggregation levels. _Applied Energy_. [DOI:10.1016/j.apenergy.2023.122109](https://doi.org/10.1016/j.apenergy.2023.122109)
+- **2023** Probabilistic forecast-based portfolio optimization of electricity demand at low aggregation levels, *Applied Energy* [DOI:10.1016/j.apenergy.2023.122109](https://doi.org/10.1016/j.apenergy.2023.122109 "Persistent link using digital object identifier")
 - **2018** Soft systems methodology applied to oil refineries inventory process (in Portuguese) In: Estellita Lins *et al*. Complex problem structuring: embedding concept maps to decision support models. 1st. Ed. Interciencia. 14th chapter. [Link to publishing company](https://www.editorainterciencia.com.br/index.asp?pg=prodDetalhado.asp&idprod=484&token=).
-- **2018** Predictive modelling of water losses using random forests on weather covariates. *WST Water Science and Technology* [DOI:10.2166/ws.2018.044](https://doi.org/10.2166/ws.2018.044)
-- **2016** Selection of corporate spare parts inventory for Brazilian refineries: a smoothed data envelopment analysis frontier function. *JORS Journal of the Operational Research Society* [DOI:10.1057/jors.2016.44](https://www.tandfonline.com/doi/abs/10.1057/jors.2016.44?journalCode=tjor20)
-- **2013** Optimisation of gasoline distribution costs across Brazilian refineries, terminals and demand regions (in Portuguese). *Brazilian Operational Research Symposium*  [XLV SBPO conference proceedings](http://www.din.uem.br/~ademir/sbpo/sbpo2013/pdf/arq0181.pdf)
+- **2018** Predictive modelling of water losses using random forests on weather covariates, *WST Water Science and Technology* [DOI:10.2166/ws.2018.044](http://ws.iwaponline.com/content/early/2018/03/16/ws.2018.044)
+- **2016** Selection of corporate spare parts inventory for Brazilian refineries: a smoothed data envelopment analysis frontier function, *JORS Journal of the Operational Research Society* [DOI:10.1057/jors.2016.44](https://www.tandfonline.com/doi/abs/10.1057/jors.2016.44?journalCode=tjor20)
+- **2013** Optimisation of gasoline distribution costs across Brazilian refineries, terminals and demand regions (in Portuguese), *Brazilian Operational Research Symposium*  [XLV SBPO conference proceedings](http://www.din.uem.br/~ademir/sbpo/sbpo2013/pdf/arq0181.pdf)
