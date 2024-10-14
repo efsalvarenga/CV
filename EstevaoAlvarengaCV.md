@@ -9,23 +9,19 @@
 
 ## Professional Experience
 
-__Industrial Electrification, Principal Data Scientist__ | Shell Computational Sciences and Digital Innovation -
+__Industrial Electrification, Data Science Manager__ | Shell Computational Sciences and Digital Innovation -
 _Amsterdam, NL (Jan 2023 - current)_
 
-I am technically responsible for the delivery of the digital scope for Industrial Electrification. I lead a group of 13 technical leads, each responsible for one team of 3 to 5 professionals who are building the technology blocks that will enable Shell's electrification strategy for industrial assets.
+I am responsible for the delivery of the digital scope for Industrial Electrification.
+Our group has implemented the application that allows flexibly operating of Pernis' utilities, capable of financial optimisation, integrating with trading and equipment control.
+The same approach is being extended to internal and external customers, such as Gasunie - the Dutch gas network operator.
+I lead a group of 18 developers (including architecture and infrastructure) that will enable Shell's electrification strategy for industrial assets.
 
 
 __Artificial Intelligence Platform Manager__ | Shell Information & Digital Engineering -
-_The Hague, NL (Feb 2022 - Dec 2022)_
+_The Hague, NL (Aug 2021 - Dec 2022)_
 
 I managed the [Shell.ai](https://www.shell.com/energy-and-innovation/digitalisation/digital-technologies/shell-ai.html#vanity-aHR0cHM6Ly93d3cuc2hlbGwuY29tL2FpLmh0bWw) Platform, our portfolio of cloud platform services focused at scaling AI and Machine Learning in Shell. The Shell.ai Platform **empowers our 1000+ data scientists developers to enable $2+ bln in digital** applications and services. I was responsible for multiple teams that **acquire and integrate market standard cloud computing services** into Shell's systems (technology, processes, people).
-
-
-__Digital Engineering, Machine Learning Tools Lead__ | Shell Information & Digital Engineering -
-_The Hague, NL (Aug 2021 - Feb 2022)_
-
-Responsible for implementing machine learning computational technology that **enables data scientists to leverage cloud technology while building digital products** to Shell businesses.
-The multifunctional and cross-company team I led was responsible for developing the enterprise-wide Azure Machine Learning services.
 
 
 __Advanced Analytics, Technical Lead__ | Shell Information Data & Analytics -
