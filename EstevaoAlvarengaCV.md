@@ -1,7 +1,7 @@
 
 # Estevao Alvarenga CEng
 
-- 16 years' experience in several facets of **highly technical industries** such as oil & gas, supply chain and utilities;
+- 18 years' experience in several facets of **highly technical industries** such as oil & gas, supply chain and utilities;
 - Proven record in **meeting business requirements** through impactful and profitable digital technology;
 - Integrator by nature, able to **clearly communicate and influence senior stakeholders, business and technical professionals**;
 - **Systematic approach to opportunities**, defining commercial value and synthesising high level requirements that can be discussed with the business, before diving into more complex concepts for each of its subcomponents.
@@ -13,9 +13,9 @@ __Industrial Electrification, Data Science Manager__ | Shell Computational Scien
 _Amsterdam, NL (Jan 2023 - current)_
 
 I am responsible for the delivery of the digital scope for Industrial Electrification.
-Our group has implemented the application that allows flexibly operating of Pernis' utilities, capable of financial optimisation, integrating with trading and equipment control.
-The same approach is being extended to internal and external customers, such as Gasunie - the Dutch gas network operator.
-I lead a group of 18 developers (including architecture and infrastructure) that will enable Shell's electrification strategy for industrial assets.
+- Our group has implemented the application that **allows flexibly operating of Pernis' utilities**, capable of financial optimisation, integrating with trading and equipment control.
+- The same approach is being **extended to internal and external customers**, such as Gasunie - the Dutch gas network operator.
+- I **lead a group of 18 developers** (including architecture and infrastructure) that will enable Shell's electrification strategy for industrial assets.
 
 
 __Artificial Intelligence Platform Manager__ | Shell Information & Digital Engineering -
