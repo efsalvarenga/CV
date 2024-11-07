@@ -15,13 +15,13 @@ _Amsterdam, NL (Jan 2023 - current)_
 I am responsible for the delivery of the digital scope for Industrial Electrification.
 - Our group has implemented the application that **allows flexibly operating of Pernis' utilities**, capable of financial optimisation, integrating with trading and equipment control.
 - The same approach is being **extended to internal and external customers**, such as Gasunie - the Dutch gas network operator.
-- I **lead a group of 18 developers** (including architecture and infrastructure) that will enable Shell's electrification strategy for industrial assets.
+- I **lead a group of 16 developers** (including architecture and infrastructure) that will enable Shell's electrification strategy for industrial assets.
 
 
 __Artificial Intelligence Platform Manager__ | Shell Information & Digital Engineering -
 _The Hague, NL (Aug 2021 - Dec 2022)_
 
-I managed the [Shell.ai](https://www.shell.com/energy-and-innovation/digitalisation/digital-technologies/shell-ai.html#vanity-aHR0cHM6Ly93d3cuc2hlbGwuY29tL2FpLmh0bWw) Platform, our portfolio of cloud platform services focused at scaling AI and Machine Learning in Shell. The Shell.ai Platform **empowers our 1000+ data scientists developers to enable $2+ bln in digital** applications and services. I was responsible for multiple teams that **acquire and integrate market standard cloud computing services** into Shell's systems (technology, processes, people).
+I managed the [Shell.ai](https://www.shell.com/energy-and-innovation/digitalisation/digital-technologies/shell-ai.html#vanity-aHR0cHM6Ly93d3cuc2hlbGwuY29tL2FpLmh0bWw) Platform, our portfolio of cloud platform services focused at scaling AI and Machine Learning in Shell. The Shell.ai Platform **empowers our 1000+ data scientists developers to enable $2+ bln in digital** applications and services. I was responsible for multiple teams that **acquired and integrated market standard cloud computing services** into Shell's systems (technology, processes, people).
 
 
 __Advanced Analytics, Technical Lead__ | Shell Information Data & Analytics -
@@ -30,9 +30,10 @@ _The Hague, NL (Mar 2020 - Jul 2021)_
 Part of the R&D Math Computational & Data Science discipline and **leading a team of 6 analysts and data scientists**. My team was focused on maturing proof of concepts into analytics and data science products, with appropriate governance and security, through Agile software development and DevOps methodologies.
 Our multi-disciplinary portfolio included:
   - SIE analytics, a cross-business analytics tool for a large gas export system, **which processes and augments data from hundreds of wells** sharing an installed pipeline capacity of 40mln cubic meters per day (valuated at $20m).
-  - AutoSum, **a cutting edge surrogate modelling web application** for uncertainty and design choices evaluation based on computer simulations (valuated at $100m), leveraging machine learning, automated testing and cloud technologies.
   - BalloBot, a text analytics solution that **leverages the Shell.ai platform** and delivers contracts & procurement insights to the business (winner of the Shell.ai _Platform Champion_ award).
   - **Phased productisation for two Shell R&D contracts**, facilitating industry and academia engagements in a technical level, supporting innovative technology adoption.
+Additionally, I was an individual contributor to AutoSum, **a cutting edge surrogate modelling web application** for uncertainty and design choices evaluation based on computer simulations (valued at $100m), leveraging machine learning, automated testing and cloud technologies.
+
 
 
 __Advanced Analytics, Petroleum Engineer__ | Shell Information Data & Analytics -
